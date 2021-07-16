@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Permet de récupérer une récompense toutes les 6h.",
+    "DESCRIPTION": "Allows you to collect a reward every 6 hours.",
     "USAGE": "$work",
     "EXAMPLE": "$work",
-    "TITLE": "Récompense de travail de {{username}}",
-    "TIME": "Merci de patienter encore {{hours}}h {{minutes}}m {{seconds}}s avant de pouvoir récupérer votre prochaine récompense.",
-    "WORK": "Vous venez de collecter {{amount}}ama."
+    "TITLE": "Work reward for {{username}}",
+    "TIME": "Please wait another {{hours}}h {{minutes}}m {{seconds}}s before you can claim your next reward.",
+    "WORK": "You just collected {{amount}}ama."
 }
