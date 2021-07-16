@@ -1,8 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to see the items you have in your inventory.",
-    "USAGE": "$additem",
-    "EXAMPLE": "$additem",
-    "LIST": "Here are the items you have in your inventory.",
-    "PRICE": "Price: {{price}}",
-    "NO_ITEM": "You have no items in your inventory."
-}

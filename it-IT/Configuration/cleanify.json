@@ -1,7 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to activate or not the automatic deletion of messages from the bot.",
-    "USAGE": "$cleanify",
-    "EXAMPLE": "$cleanify",
-    "ENABLED": "Cleanify is now activated.",
-    "DISABLED": "Cleanify is now disabled"
-}

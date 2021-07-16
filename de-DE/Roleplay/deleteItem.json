@@ -1,9 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to see and buy items from the server shop",
-    "USAGE": "$shop",
-    "EXAMPLE": "$shop",
-    "ASK_ITEM_NUMBER": "{{loading}} Please send the number of the item you want to delete.",
-    "CANCELED": "The deletion process of an item has been canceled.",
-    "CONFIRM": "{{loading}} Please confirm that you want to delete this item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}",
-    "SUCCESS": "You successfully deleted an item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}ama\n(note that this item will not be removed from member inventories)"
-}
