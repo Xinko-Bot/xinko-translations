@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Permet de coller un lien sur pastebin.",
-    "USAGE": "$pastebin <texte>",
+    "DESCRIPTION": "Allows to paste a link on pastebin.",
+    "USAGE": "$pastebin <text>",
     "EXAMPLE": "$pastebin Hi, I am Amandine, I am the best of bots.",
-    "NO_CONTENT": "Merci de spécifier un message.",
-    "SUCCESS": "Votre texte a bien été enregistré sur le lien suivant: {{result}}."
+    "NO_CONTENT": "Please specify a message.",
+    "SUCCESS": "Your text has been saved on the following link: {{result}}."
 }
