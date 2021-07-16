@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Permet de tirer un dé.",
-    "USAGE": "$dice <nombre minimum> <nombre maximum>",
+    "DESCRIPTION": "Allows you to roll a dice.",
+    "USAGE": "$dice <minimum number> <maximum number>",
     "EXAMPLE_1": "$dice 1 6",
     "EXAMPLE_2": "$dice 100 200",
-    "INVALID": "Merci de spécifier deux nombres valides, le premier étant le plus petit.",
-    "RESULT": "Le dé est tombé sur {{result}}."
+    "INVALID": "Please specify two valid numbers, the first being the smallest.",
+    "RESULT": "The dice fell on {{result}}."
 }
