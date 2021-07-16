@@ -1,12 +1,12 @@
 {
-    "BOT": "🤖 Infos du bot",
+    "BOT": "🤖 Bot infos",
     "CONFIGURATION": "🛠️ Configuration",
-    "GAMES": "🎮 Jeux",
-    "IMAGES": "📷 Images",
+    "GAMES": "🎮 Games",
+    "IMAGES": "📷 Pictures",
     "INVITES": "📎 Invitation",
-    "MODERATION": "🛡️ Modération",
-    "PREMIUM": "👑 Commande personnalisée",
+    "MODERATION": "🛡️ Moderation",
+    "PREMIUM": "👑 Premium commands",
     "ROLEPLAY": "🎭 Roleplay",
     "STAFF": "STAFF",
-    "UTILS": "🧰 Utilitaires"
+    "UTILS": "🧰 Tools"
 }
