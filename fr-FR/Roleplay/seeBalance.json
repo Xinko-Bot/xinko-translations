@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Permet de voir la quantité de monnaie qu'un utilisateur a dans son porte-monnaie.",
-    "USAGE": "$seebalance <@membre>",
+    "DESCRIPTION": "Allows you to see how much change a user has in their wallet.",
+    "USAGE": "$seebalance <@member>",
     "EXAMPLE": "$seebalance @Mr¤KayJayDee",
-    "NO_MENTION": " Merci de mentionner un membre.",
-    "IS_BOT": "Impossible de voir le porte-monnaie d'un bot.",
-    "TITLE": "Porte Monnaie de {{username}}",
-    "INFOS": "Cet utilisateur a actuellement {{amount}}ama dans son portefeuille."
+    "NO_MENTION": " Please mention a member.",
+    "IS_BOT": "Cannot see a bot's wallet.",
+    "TITLE": "{{username}}'s wallet",
+    "INFOS": "This user currently has {{amount}}ama in his wallet."
 }
