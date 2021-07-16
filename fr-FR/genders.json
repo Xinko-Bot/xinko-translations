@@ -3,9 +3,9 @@
         {
             "name": "male",
             "aliases": [
-                "men",
-                "boy",
-                "male",
+                "homme",
+                "gars",
+                "mec",
                 "garçon",
                 "garcon"
             ]
@@ -13,14 +13,14 @@
         {
             "name": "female",
             "aliases": [
-                "girl",
-                "female",
+                "femme",
+                "fille",
                 "meuf",
                 "dame",
                 "madame"
             ]
         }
     ],
-    "MALE": "Male",
-    "FEMALE": "Female"
+    "MALE": "Homme",
+    "FEMALE": "Femme"
 }
