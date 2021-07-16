@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Permet de récupérer une récompense tous les 7j.",
+    "DESCRIPTION": "Allows you to collect a reward every 7 days.",
     "USAGE": "$weekly",
     "EXAMPLE": "$weekly",
-    "TITLE": "Récompense hebdomadaire de {{username}}",
-    "TIME": "Merci de patienter encore {{days}}j {{hours}}h {{minutes}}m {{seconds}}s avant de pouvoir récupérer votre prochaine récompense.",
-    "WEEKLY": "Vous venez de récupérer {{amount}}ama."
+    "TITLE": "Weekly reward from {{username}}",
+    "TIME": "Please wait {{days}}d {{hours}}h {{minutes}}m {{seconds}}s before you can claim your next reward.",
+    "WEEKLY": "You just collected {{amount}}ama."
 }
