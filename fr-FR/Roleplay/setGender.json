@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Allows you to configure your gender.",
-    "USAGE": "$setgender <gender>",
+    "DESCRIPTION": "Permet de configurer votre genre.",
+    "USAGE": "$setgender <genre>",
     "EXAMPLE_1": "$setgender male",
     "EXAMPLE_2": "$setgender female",
     "EXAMPLE_3": "$setgender reset",
-    "NO_ARGS": "Please specify a genre. Here are those available: {{available}}",
-    "RESET": "Your gender has been reset.",
-    "INVALID_SEX": "Please specify a valid gender. Here are those available: {{available}}",
-    "SUCCESS": "Your gender is now configured on: {{gender}}"
+    "NO_ARGS": "Merci de spécifier un genre. Voici ceux disponibles: {{available}}",
+    "RESET": "Votre genre à bien été réinitialisé.",
+    "INVALID_SEX": "Merci de spécifier un genre valide. Voici ceux disponibles: {{available}}",
+    "SUCCESS": "Votre genre est mainenant configuré sur: {{gender}}"
 }
