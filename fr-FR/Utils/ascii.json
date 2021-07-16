@@ -1,7 +1,7 @@
 {
-	"DESCRIPTION": "Allows asciification of a text.",
+	"DESCRIPTION": "Permet d'asciifier un texte.",
 	"USAGE": "$ascii <message>",
 	"EXAMPLE": "$ascii Amandine",
-	"NO_ARGS": "Please specify a message.",
-	"LIMIT": "Please specify a message of less than 14 characters."
+	"NO_ARGS": "Merci de spécifier un message.",
+	"LIMIT": "Merci de spécifier un message de moins de 14 caractères."
 }

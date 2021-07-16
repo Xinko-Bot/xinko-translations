@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Allows you to steal another member every 12 hours.",
-    "USAGE": "$rob <@member>",
+    "DESCRIPTION": "Permet de voler un autre membre tout les 12h.",
+    "USAGE": "$rob <@membre>",
     "EXAMPLE": "$rob @Mr¤KayJayDee",
-    "TITLE": "{{username}} just stole another member.",
-    "TIME": "Please wait another {{hours}}h {{minutes}}m {{seconds}}s before you can rob someone else.",
-    "ROB": "You just robbed {{amount}}ama.",
-    "NO_MENTION": "Please mention a member.",
-    "INVALID": "You cannot rob a bot or yourself.",
-    "NOTHING_TO_ROB": "This member has nothing to rob.",
-    "NEED_MIN": "You must have at least 250ama in your wallet to be able to rob someone.",
-    "FAIL": "You missed your theft and lost {{amount}}ama"
+    "TITLE": "{{username}} vient de voler un autre membre.",
+    "TIME": "Merci de patienter encore {{hours}}h {{minutes}}m {{seconds}}s avant de pouvoir voler quelqu'un d'autre.",
+    "ROB": "Vous venez de voler {{amount}}ama.",
+    "NO_MENTION": "Merci de mentionner un membre.",
+    "INVALID": "Vous ne pouvez pas voler un bot ni vous-même.",
+    "NOTHING_TO_ROB": "Ce membre n'a rien à voler.",
+    "NEED_MIN": "Vous devez avoir au moins 250ama dans votre portefeuille pour pouvoir voler quelqu'un.",
+    "FAIL": "Vous avez manqué votre vol et perdu {{amount}}ama"
 }
