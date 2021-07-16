@@ -1,12 +1,12 @@
 {
-    "DESCRIPTION": "Permet de supprimer de la monnaie à un utilisateur.",
-    "USAGE": "$removemoney <quantité> <@membre>",
+    "DESCRIPTION": "Allows you to remove change from a user.",
+    "USAGE": "$removemoney <quantity> <@member>",
     "EXAMPLE": "$removemoney 100 @Mr¤KayJayDee",
-    "NO_AMOUNT": "Merci de spécifier une quantité.",
-    "IS_NAN": "Merci de vérifier la quantité spécifiée. Notez qu'elle ne peut pas être négative et ne doit pas dépasser 10 000.",
-    "NO_MENTION": "Merci de mentionner un membre.",
-    "IS_BOT": "Impossible de supprimer de la monnaie à un bot.",
-    "NEGATIVE": "La valeur que vous avez entrée était trop haute par rapport à la quantité que possède cet utilisateur, son porte-monnaie a donc été remis à 0.",
-    "TITLE": "Argent retiré du porte-monnaie de {{username}}.",
-    "RESULT": "Vous venez de retirer {{amount}}ama du portefeuille de {{user}}."
+    "NO_AMOUNT": "Please specify a quantity.",
+    "IS_NAN": "Please check the quantity specified. Note that it cannot be negative and must not exceed 10,000.",
+    "NO_MENTION": "Please mention a member.",
+    "IS_BOT": "Cannot remove currency from a bot.",
+    "NEGATIVE": "The value you entered was too high for the amount this user has, so their wallet was reset to 0.",
+    "TITLE": "Removed money on {{username}}'s wallet.",
+    "RESULT": "You just removed {{amount}}ama from the {{user}}'s wallet."
 }
