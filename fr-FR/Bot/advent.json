@@ -1,0 +1,21 @@
+{
+  "DESCRIPTION": "Une commande spéciale pour un évènement spécial.",
+  "USAGE": "$advent",
+  "EXAMPLES": "$advent\n$advent info",
+  "INFORMATIONS": "Voici le premier évènement organisé par l'équipe d'Amandine, un calendrier de l'avent, cet évènement durera tout Décembre, tout les jours vous pourrez récupérer des récompenses surprise cachée dans les case de ce calendrier. \n\nNotez que certaines de ces récompenses ne sont avantageuses que si vous avez préalablement effectués les commandes: `work`, `daily`, `weekly`, `monthly`, `rob`, `rep`. \nLes récompenses sont appliquées sur le serveur sur lequel la commande pour ouvrir la case du calendrier à été effectuée.\n\nL'équipe d'Amandine vous souhaite de bonne fêtes de fin d'années, éspère que vous allez passer de bons moment avec vos familles, tout en restant en sécurité durant cette periode difficile.",
+  "NOT_STARTED": "L'évènement n'a pas encore commencé, soyez present à partir du 1er Décembre pour récuperer la première récompense.",
+  "ALREADY_CLAIMED": "Vous avez déjà récupéré la case du jour, revenez demain pour la prochaine.",
+  "FIRST_GIFT": "Salut 🙂, voici votre premier cadeau du calendrier.",
+  "GIFT": "Salut 🙂, voici votre cadeau du jour.",
+  "BOX_OPEN": "Il y avait {{gift}} dans la case d'aujourd'hui ! GG !",
+  "WEEKLY": "une supression de slowmode weekly 1 fois",
+  "ROB": "une supression de slowmode rob 1 fois",
+  "WORK": "une supression de slowmode work 1 fois",
+  "DAILY": "une supression de slowmode daily 1 fois",
+  "MONTHLY": "une supression de slowmode monthly 1 fois",
+  "COINS": "{{amount}} pièces",
+  "REP": "une supression de slowmode rep 1 fois",
+  "REPUTATION": "{{amount}} points de réputations",
+  "BADGE": "un badge spécial Noël 2020 {{emoji}}",
+  "BADGE_INFO": "Ce badge n'est récupérable que durant cet évènement, vous faîtes partie des chanceux à l'obtenir. Ce badge sera affiché sur votre profil."
+}

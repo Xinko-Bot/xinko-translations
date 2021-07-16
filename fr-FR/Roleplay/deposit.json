@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Permet de déposer de l'argent sur votre compte en banque.",
+    "USAGE": "$deposit <quantité>",
+    "EXAMPLE_1": "$deposit 100",
+    "EXAMPLE_2": "$deposit all",
+    "NO_ARGS": "Merci de spécifier une quantité.",
+    "IS_NAN": "Merci de vérifier la quantité spécifiée. Notez qu'elle ne peut pas être négative.",
+    "NOT_ENOUGH": "Vous n'avez pas cette somme dans votre porte-monnaie, impossible de déposer sur votre compte en banque.",
+    "ALL": "Vous venez de déposer tout votre argent sur votre compte en banque.",
+    "AMOUNT": "Vous venez de déposer {{amount}}ama sur votre compte bancaire."
+}

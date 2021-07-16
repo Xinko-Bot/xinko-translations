@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Permet d'ajouter de la monnaie à un utilisateur.",
+    "USAGE": "$addmoney <quantité> <@membre>",
+    "EXAMPLE": "$addmoney 100 @Mr¤KayJayDee",
+    "NO_AMOUNT": "Merci de spécifier une quantité.",
+    "IS_NAN": "Merci de vérifier la quantité spécifiée. Notez qu'elle ne peut pas être négative et ne doit pas dépasser 10 000.",
+    "NO_MENTION": "Merci de mentionner un membre.",
+    "IS_BOT": "Impossible d'ajouter de la monnaie à un bot.",
+    "TITLE": "De l'argent a été ajouté sur le porte-monnaie de {{username}}.",
+    "RESULT": "Vous venez d'ajouter {{amount}}ama au portefeuille de {{user}}."
+}

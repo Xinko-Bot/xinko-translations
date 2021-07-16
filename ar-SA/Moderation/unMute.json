@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Allows you to unmute a user.",
+    "USAGE": "$unmute <@member>",
+    "EXAMPLE": "$unmute @Mr¤KayJayDee",
+    "NO_MENTION": "Please mention a member.",
+    "SUCCESS": "{{user}} has been unmuted successfully by {{author}} (Case: #{{case}})",
+    "YOURSELF": "You cannot unmute yourself.",
+    "NOT_MUTED": "This user is not muted.",
+    "SUPERIOR": "You cannot unmute a member that have higher roles than you."
+}

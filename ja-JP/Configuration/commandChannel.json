@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Allows you to configure the bot's command channel.",
+    "USAGE": "$commandchannel #channel",
+    "EXAMPLE_1": "$commandchannel add #bot-commands",
+    "EXAMPLE_2": "$commandchannel remove #staff-commands",
+    "EXAMPLE_3": "$commandchannel reset",
+    "NO_ARGS": "Please choose an option: add, remove, reset.",
+    "SUCCESS_RESET": "The saved command channels have been succesfully deleted.",
+    "NO_CHANNEL": "Please mention a channel.",
+    "ALREADY_EXIST": "This command channel already exists.",
+    "ADD_SUCCESS": "The channel has been succesfully added.",
+    "DONT_EXIST": "The channel is not configured.",
+    "REMOVE_SUCCESS": "The channel has been removed successfully."
+}

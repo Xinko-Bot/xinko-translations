@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Permet de voir les informations d'un canal.",
+    "USAGE": "$channelinfo [#canal/ID]",
+    "EXAMPLE_1": "$channelinfo #general-chat",
+    "EXAMPLE_2": "$channelinfo 123456789\n",
+    "EXAMPLE_3": "$channelinfo chat",
+    "INFOS": "**Informations sur le canal:** {{channel}}\n\n🆔 | ID: **{{id}}**\n🕐 | Date de création: **{{date}}**\n📕 | Sujet: **{{topic}}**\n🔢 | Position: **{{position}}**\n🔞 | NSFW: **{{nsfw}}**"
+}

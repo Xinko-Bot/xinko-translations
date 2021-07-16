@@ -1,0 +1,5 @@
+{
+    "CONTENT": "{{emoji}} Message de {{member}} ({{username}}) supprimé dans {{channel}}",
+    "MESSAGE": "Contenu du message :",
+    "SYSTEM": "Message système."
+}

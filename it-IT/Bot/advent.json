@@ -1,0 +1,21 @@
+{
+  "DESCRIPTION": "A special command for a special event.",
+  "USAGE": "$advent",
+  "EXAMPLES": "$advent\n$advent info",
+  "INFORMATIONS": "Here is the first event organized by the Amandine's team, an advent calendar, this event will last all December, every day you can collect surprise rewards hidden in the boxes of this calendar.\n\nNote that some of these rewards are only beneficial if you have previously ran the commands: `work`, `daily`, `weekly`, `monthly`, `rob`, `rep`.\nThe rewards are applied on the server on which the command to open the calendar box has been made.\n\nThe Amandine's team wish you happy holidays, hope you will have a good time with your families, while staying safe during this difficult period.",
+  "NOT_STARTED": "The event has not started yet, be present from December 1st to claim the first reward.",
+  "ALREADY_CLAIMED": "You have already claimed the box for the day, come back tomorrow for the next one.",
+  "FIRST_GIFT": "Hi 🙂, here is your first calendar gift.",
+  "GIFT": "Hi 🙂, here is your gift of the day.",
+  "BOX_OPEN": "There was {{gift}} in today's box! GG!",
+  "WEEKLY": "a deletion of weekly slowmode once",
+  "ROB": "a deletion of rob slowmode once",
+  "WORK": "a deletion of work slowmode once",
+  "DAILY": "a deletion of daily slowmode once",
+  "MONTHLY": "a deletion of monthly slowmode once",
+  "COINS": "{{amount}} coins",
+  "REP": "a deletion of rep slowmode once",
+  "REPUTATION": "{{amount}} reputation points",
+  "BADGE": "a special Christmas 2020 badge {{emoji}}",
+  "BADGE_INFO": "This badge can only be redeemed during this event, you are one of the lucky ones to obtain it. This badge will be displayed on your profile."
+}

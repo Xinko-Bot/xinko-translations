@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Permet faire tourner la machine à sous.",
+    "USAGE": "$slot",
+    "EXAMPLE": "$slot",
+    "DEFEAT": "Vous venez de perdre {{amount}}ama.",
+    "VICTORY": "Vous venez de gagner {{amount}}ama",
+    "LOADING": "{{loading}} Chargement de la machine à sous",
+    "RESULTS": "Voici les résultats\n\n",
+    "ROLLING": "La machine à sous est en train de tourner...\n\n",
+    "JACKPOT": "!! Gros Lot !!",
+    "NOT_ENOUGH": "Vous n'avez pas assez d'argent."
+}

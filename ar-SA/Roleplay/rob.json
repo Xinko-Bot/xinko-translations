@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Allows you to steal another member every 12 hours.",
+    "USAGE": "$rob <@member>",
+    "EXAMPLE": "$rob @Mr¤KayJayDee",
+    "TITLE": "{{username}} just stole another member.",
+    "TIME": "Please wait another {{hours}}h {{minutes}}m {{seconds}}s before you can rob someone else.",
+    "ROB": "You just robbed {{amount}}ama.",
+    "NO_MENTION": "Please mention a member.",
+    "INVALID": "You cannot rob a bot or yourself.",
+    "NOTHING_TO_ROB": "This member has nothing to rob.",
+    "NEED_MIN": "You must have at least 250ama in your wallet to be able to rob someone.",
+    "FAIL": "You missed your theft and lost {{amount}}ama"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Permet de configurer le préfixe du bot sur le serveur.",
+    "USAGE": "$prefix <nouveau préfixe>",
+    "EXAMPLE_1": "$prefix !!",
+    "EXAMPLE_2": "$prefix ?",
+    "TOO_LONG": "Le nouveau préfixe ne doit pas dépasser les 10 caractères.",
+    "NO_ARGS": "Merci de spécifier un nouveau préfixe.",
+    "SUCCESS": "Le nouveau préfixe est maintenant: {{prefix}}"
+}

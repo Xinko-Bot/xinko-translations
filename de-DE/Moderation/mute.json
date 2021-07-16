@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Allows to mute a user.",
+    "USAGE": "$mute <@member> <time>",
+    "EXAMPLE": "$mute @Mr¤KayJayDee 1m",
+    "NO_MENTION": "Please mention a member.",
+    "SUCCESS": "{{user}} has been muted successfully for {{time}} by {{author}} (Reason: {{reason}}) (Case: #{{case}})",
+    "YOURSELF": "You cannot mute yourself.",
+    "ALREADY_MUTED": "This user is already muted.",
+    "SUPERIOR": "You cannot mute a member that have higher roles than you.",
+    "NO_TIME": "Please specify a time.",
+    "INVALID_TIME": "Please specify a valid time.",
+    "NO_REASON_PROVIDED": "No reason provided"
+}
