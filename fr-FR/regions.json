@@ -1,16 +1,16 @@
 {
-    "brazil": "Brasil",
+    "brazil": "Brésil",
     "europe": "Europe",
-    "eu-west": "West Europe",
+    "eu-west": "Europe de l'ouest",
     "hongkong": "HongKong",
-    "india": "India",
-    "japan": "Japan",
-    "russia": "Russia",
-    "singapore": "Singapore",
-    "southafrica": "South Africa",
+    "india": "Inde",
+    "japan": "Japon",
+    "russia": "Russie",
+    "singapore": "Singapour",
+    "southafrica": "Afrique du sud",
     "sydney": "Sydney",
-    "us-central": "United States Central",
-    "us-east": "United States East",
-    "us-south": "United States South",
-    "us-west": "United States West"
+    "us-central": "Centre des États-Unis",
+    "us-east": "Est des États-Unis",
+    "us-south": "Sud des États-Unis",
+    "us-west": "Ouest des États-Unis"
 }
