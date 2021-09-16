@@ -15,7 +15,7 @@
     "PREFIX": "Prefix",
     "CONFIGURE_PREFIX": "Configure Prefix",
     "NEW_PREFIX": "The prefix has been updated",
-    "CLEANIFY_DESCRIPTION": "Allows you to activate or not the automatic deletion of messages from the bot.",
+    "CLEANIFY_DESCRIPTION": "Allows you to activate or not the automatic deletion of invocation commands messages.",
     "COMMAND_CHANNEL_DESCRIPTION": "Allows you to configure the bot's command channel.",
     "COMMANDS_DESCRIPTION": "Allows you to configure which commands are enabled or disabled on your server.",
     "LOGGING_DESCRIPTION": "Allows you to define which log you want to enable or disable.",
