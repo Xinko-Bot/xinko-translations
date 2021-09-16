@@ -5,7 +5,7 @@
     "EXAMPLE_2": "$mycolor reset",
     "RESET": "Votre couleur a bien été réinitialisée sur ``Aléatoire``.",
     "MOREINFOS": "Cliquez ici pour plus d'infos.",
-    "NO_ARGS": "Merci de spécifier une couleur hexadécimale.",
-    "NO_HEX": "Ce n'est pas une couleur hexadécimale valide.",
+    "NO_ARGS": "Please specify an hexadecimal color.",
+    "NOT_VALID": "It is not a valid hexadecimal color.",
     "SUCCESS": "Votre couleur a bien ete changée en ``{{color}}``"
 }

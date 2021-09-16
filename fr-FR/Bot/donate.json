@@ -3,5 +3,5 @@
     "USAGE": "$donate",
     "EXAMPLE": "$donate",
     "TITLE": "Voici comment vous pouvez soutenir le projet.",
-    "INFOS": "Vous pouvez me `payer un café` en cliquant sur ce lien [BuyMeACoffee.com]({{buyMeACoffee}}).\nVous pouvez aussi envoyer la somme PayPal que vous voulez à cette adresse: `{{paypal}}`. Rien n'est obligé, libre à vous de m'aider ou pas. :wink:"
+    "INFOS": "You can `buy me a coffee` by clicking on this link [BuyMeACoffee.com]({{buyMeACoffee}}).\nYou can also send whatever PayPal amount you want to this address: `{{paypal}}`. Nothing is forced, you are free to help me or not. :wink:"
 }

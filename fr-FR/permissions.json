@@ -6,8 +6,8 @@
     "MANAGE_CHANNELS": "Gérer les cannaux",
     "MANAGE_GUILD": "Gérer le serveur",
     "ADD_REACTIONS": "Ajouter des réactions",
-    "VIEW_AUDIT_LOG": "Voir les logs",
-    "PRIORITY_SPEAKER": "Parler en priorité",
+    "VIEW_AUDIT_LOG": "View audits logs",
+    "PRIORITY_SPEAKER": "Priority speaker",
     "STREAM": "Faire un live",
     "VIEW_CHANNEL": "Voir le canal",
     "SEND_MESSAGES": "Envoyer des messages",
@@ -20,7 +20,7 @@
     "USE_EXTERNAL_EMOJIS": "Utiliser des émojis externes",
     "VIEW_GUILD_INSIGHTS": "Voir les statistiques du serveur",
     "CONNECT": "Se connecter",
-    "SPEAK": "Parler",
+    "SPEAK": "Spak",
     "MUTE_MEMBERS": "Muter des membres",
     "DEAFEN_MEMBERS": "Rendre sourd des membres",
     "MOVE_MEMBERS": "Déplacer des membres",
@@ -29,5 +29,11 @@
     "MANAGE_NICKNAMES": "Gérer les pseudos",
     "MANAGE_ROLES": "Gérer les roles",
     "MANAGE_WEBHOOKS": "Gérer les webhooks",
-    "MANAGE_EMOJIS": "Gérer les emojis"
+    "MANAGE_EMOJIS_AND_STICKERS": "Manage emojis and stickers",
+    "USE_APPLICATION_COMMANDS": "Use application commands",
+    "REQUEST_TO_SPEAK": "Request to speak",
+    "MANAGE_THREADS": "Manage threads",
+    "USE_PUBLIC_THREADS": "Use public threads",
+    "USE_PRIVATE_THREADS": "Use private threads",
+    "USE_EXTERNAL_STICKERS": "Use external stickers"
 }
