@@ -62,7 +62,7 @@
     "ACTUAL_LOGS_CHANNEL": "Logs channel actually set:",
     "NEW_CHANNEL": "New log channel:",
     "LOGS_TO_ENABLE": "Logs to enable",
-    "LOGS_TO_DISABLE": "Logs to disable",
+    "LOGS_TO_DISBALE": "Logs to to disable",
     "CONFIGURE_LOGGING": "Configure logging",
     "CONFIGURE_LOGGING_CHANNEL": "Configure Logging Channel",
     "CONFIGURE_LANGUAGE": "Configure Language",
