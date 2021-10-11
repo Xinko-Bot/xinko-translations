@@ -2,7 +2,7 @@
     "DESCRIPTION": "Affiche les informations sur le bot.",
     "USAGE": "$botinfos",
     "EXAMPLE": "$botinfos",
-    "TITLE": "**Statistiques d'{{botName}}**\n[Serveur de Support]({{supportServer}}) | [Traductions]({{translateGithub}}) | [Soutenez-moi]({{buyMeACoffee}})",
+    "TITLE": "**{{botName}}'s statistics**\n[Support server]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Support me]({{buyMeACoffee}})",
     "OWNER": "Propriétaire",
     "VERSION": "Version du bot",
     "DATE": "Date de création",
