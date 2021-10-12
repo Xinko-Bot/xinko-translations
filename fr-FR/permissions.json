@@ -7,7 +7,7 @@
     "MANAGE_GUILD": "Gérer le serveur",
     "ADD_REACTIONS": "Ajouter des réactions",
     "VIEW_AUDIT_LOG": "Voir les logs",
-    "PRIORITY_SPEAKER": "Parler en priorité",
+    "PRIORITY_SPEAKER": "Voix prioritaire",
     "STREAM": "Faire un live",
     "VIEW_CHANNEL": "Voir le canal",
     "SEND_MESSAGES": "Envoyer des messages",
@@ -29,5 +29,11 @@
     "MANAGE_NICKNAMES": "Gérer les pseudos",
     "MANAGE_ROLES": "Gérer les roles",
     "MANAGE_WEBHOOKS": "Gérer les webhooks",
-    "MANAGE_EMOJIS": "Gérer les emojis"
+    "MANAGE_EMOJIS_AND_STICKERS": "Gérer les emojis et les autocollants",
+    "USE_APPLICATION_COMMANDS": "Utiliser les commandes d'application",
+    "REQUEST_TO_SPEAK": "Demander à parler",
+    "MANAGE_THREADS": "Gérer les fils",
+    "USE_PUBLIC_THREADS": "Utiliser les fils publics",
+    "USE_PRIVATE_THREADS": "Utiliser des fils privés",
+    "USE_EXTERNAL_STICKERS": "Utiliser des autocollants externes"
 }
