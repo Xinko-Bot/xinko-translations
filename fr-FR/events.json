@@ -22,5 +22,7 @@
     "voiceChannelStreamStop": "Stream arrêté dans un canal vocal",
     "voiceChannelSwitch": "Un membre à changé de canal vocal",
     "voiceChannelUndeaf": "Son activé dans un canal vocal",
-    "voiceChannelUnmute": "Microphone activé dans un canal vocal"
+    "voiceChannelUnmute": "Microphone activé dans un canal vocal",
+    "mute": "Utilisateur rendu muet dans le chat",
+    "unMute": "Utilisateur plus muet dans le chat"
 }
