@@ -32,12 +32,12 @@
     "MANAGE_EMOJIS_AND_STICKERS": "Gérer les emojis et les autocollants",
     "USE_APPLICATION_COMMANDS": "Utiliser les commandes d'application",
     "REQUEST_TO_SPEAK": "Demander à parler",
+    "MANAGE_EVENTS": "Manage events",
     "MANAGE_THREADS": "Gérer les fils",
-    "USE_PUBLIC_THREADS": "Utiliser les fils publics",
-    "USE_PRIVATE_THREADS": "Utiliser des fils privés",
     "USE_EXTERNAL_STICKERS": "Utiliser des autocollants externes",
     "CREATE_PUBLIC_THREADS": "Create public threads",
     "CREATE_PRIVATE_THREADS": "Create private threads",
     "SEND_MESSAGES_IN_THREADS": "Send messages in threads",
-    "START_EMBEDDED_ACTIVITIES": "Start embedded activities"
+    "START_EMBEDDED_ACTIVITIES": "Start embedded activities",
+    "MODERATE_MEMBERS": "Moderate members"
 }
