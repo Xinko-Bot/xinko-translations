@@ -7,5 +7,6 @@
     "BIO": "{{emoji}} **Biographie:** \n> {{biography}}",
     "SEX": "{{emoji}} **Genre:** {{gender}}",
     "REP": "{{emoji}} **Points de réputation:** {{points}}",
-    "BADGES": "{{emoji}} **Badges d'évènements:** {{badges}}"
+    "BADGES": "{{emoji}} **Badges d'évènements:** {{badges}}",
+    "COLOR": "{{emoji}} **Embed Color:** ``{{color}}``"
 }

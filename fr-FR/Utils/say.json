@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Permet d'envoyer un message par le bot.",
     "USAGE": "$say <message>",
-    "EXAMPLE": "$say Hi, I'm Amandine, I'm the best of bots.",
+    "EXAMPLE": "$say Salut, je suis Amandine, je suis le meilleur des bots.",
     "NO_CONTENT": "Merci de spécifier un message."
 }

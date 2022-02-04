@@ -22,5 +22,7 @@
     "voiceChannelStreamStop": "Stream Stopped In A Voice Channel",
     "voiceChannelSwitch": "Member Voice Channel Switched",
     "voiceChannelUndeaf": "Sound Enabled In A Voice Channel",
-    "voiceChannelUnmute": "Microphone Enabled In A Voice Channel"
+    "voiceChannelUnmute": "Microphone Enabled In A Voice Channel",
+    "mute": "User Muted In The Chat",
+    "unMute": "User unMuted In The Chat"
 }
