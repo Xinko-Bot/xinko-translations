@@ -4,7 +4,7 @@
     "BAN_MEMBERS": "Bannir des membres",
     "ADMINISTRATOR": "Administrateur",
     "MANAGE_CHANNELS": "Gérer les cannaux",
-    "MANAGE_GUILD": "Gérer le serveur",
+    "MANAGE_GUILD": "Manage guild",
     "ADD_REACTIONS": "Ajouter des réactions",
     "VIEW_AUDIT_LOG": "Voir les logs",
     "PRIORITY_SPEAKER": "Voix prioritaire",
@@ -18,7 +18,7 @@
     "READ_MESSAGE_HISTORY": "Voir l'historique des messages",
     "MENTION_EVERYONE": "Mentionnez everyone",
     "USE_EXTERNAL_EMOJIS": "Utiliser des émojis externes",
-    "VIEW_GUILD_INSIGHTS": "Voir les statistiques du serveur",
+    "VIEW_GUILD_INSIGHTS": "View guild insight",
     "CONNECT": "Se connecter",
     "SPEAK": "Parler",
     "MUTE_MEMBERS": "Muter des membres",
@@ -35,5 +35,9 @@
     "MANAGE_THREADS": "Gérer les fils",
     "USE_PUBLIC_THREADS": "Utiliser les fils publics",
     "USE_PRIVATE_THREADS": "Utiliser des fils privés",
-    "USE_EXTERNAL_STICKERS": "Utiliser des autocollants externes"
+    "USE_EXTERNAL_STICKERS": "Utiliser des autocollants externes",
+    "CREATE_PUBLIC_THREADS": "Create public threads",
+    "CREATE_PRIVATE_THREADS": "Create private threads",
+    "SEND_MESSAGES_IN_THREADS": "Send messages in threads",
+    "START_EMBEDDED_ACTIVITIES": "Start embedded activities"
 }
