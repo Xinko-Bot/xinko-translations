@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "DESCRIPTION": "Allows you to view your profile or that of a member.",
     "USAGE": "$profile [@member]",
@@ -10,17 +9,4 @@
     "REP": "{{emoji}} **Reputation points:** {{points}}",
     "BADGES": "{{emoji}} **Events Badges:** {{badges}}",
     "COLOR": "{{emoji}} **Embed Color:** ``{{color}}``"
-=======
-{
-    "DESCRIPTION": "Allows you to view your profile or that of a member.",
-    "USAGE": "$profile [@member]",
-    "EXAMPLE_1": "$profile",
-    "EXAMPLE_2": "$profile @Mr¤KayJayDee",
-    "TITLE": "{{username}}'s Profile",
-    "BIO": "{{emoji}} **Biography:**\n> {{biography}}",
-    "SEX": "{{emoji}} **Gender:** {{gender}}",
-    "REP": "{{emoji}} **Reputation points:** {{points}}",
-    "BADGES": "{{emoji}} **Events Badges:** {{badges}}",
-    "COLOR": "{{emoji}} **Embed Color:** ``{{color}}``"
->>>>>>> main
 }
