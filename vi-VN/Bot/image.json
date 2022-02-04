@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Get fun images and montages with your profile picture.",
+    "USAGE": "/image <category> <name> [mention1] or [text] [mention2]",
+    "EXAMPLE": "\n/image anime anime\n/image game pubg\n/image image cat\n/image animegif baka\n/image filters gay @Mr¤KayJayDee\n/image gif triggered @Mr¤KayJayDee\n/image montage batslap @Mr¤KayJayDee\n/image utils circle @Mr¤KayJayDee"
+}
