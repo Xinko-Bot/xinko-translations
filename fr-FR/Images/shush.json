@@ -1,6 +1,0 @@
-{
-    "DESCRIPTION": "Vous permet de vous caresser un membre.",
-    "USAGE": "$shush <@membre>",
-    "EXAMPLE": "$shush @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** vient de dire à **{{user}}** de se taire"
-}

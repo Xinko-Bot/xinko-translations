@@ -1,6 +1,0 @@
-{
-    "DESCRIPTION": "Permet de mettre une claque à un membre.",
-    "USAGE": "$slap <@membre>",
-    "EXAMPLE": "$slap @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** vient de mettre une claque à **{{user}}**"
-}
