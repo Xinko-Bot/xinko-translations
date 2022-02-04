@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Get NSFW content for your own pleasure or for friends obviously.",
-    "USAGE": "/nsfw <category> ",
+    "DESCRIPTION": "Obtenez du contenu NSFW pour votre propre plaisir ou pour vos amis évidemment.",
+    "USAGE": "/nsfw <categorie> ",
     "EXAMPLE": "/nsfw real anal\n/nsfw unreal comics"
 }
