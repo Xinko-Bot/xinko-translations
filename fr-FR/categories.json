@@ -1,6 +1,5 @@
 {
-    "BOT": "🤖 Infos du bot",
-    "CONFIGURATION": "🛠️ Configuration",
+    "BOT": "🤖 General",
     "GAMES": "🎮 Jeux",
     "IMAGES": "📷 Images",
     "INVITES": "📎 Invitation",
@@ -9,6 +8,6 @@
     "ROLEPLAY": "🎭 Roleplay",
     "STAFF": "STAFF",
     "UTILS": "🧰 Utilitaires",
-    "UnrealNSFW": "🔞 Unreal NSFW",
-    "RealNSFW": "🔞 Real NSFW"
+    "UnrealNSFW": "🔞 NSFW irréel",
+    "RealNSFW": "🔞 NSFW réel"
 }

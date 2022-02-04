@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+{
+    "DESCRIPTION": "Displays information about the bot.",
+    "USAGE": "$botinfos",
+    "EXAMPLE": "$botinfos",
+    "TITLE": "**{{botName}}'s statistics**\n[Support server]({{supportServer}}) | [Documentation](https://google.com) | [Translations]({{translateGithub}}) | [Support me]({{buyMeACoffee}})",
+    "OWNER": "Owner",
+    "VERSION": "Bot's version",
+    "DATE": "Creation date",
+    "USERS": "Users",
+    "GUILDS": "Servers"
+=======
 {
     "DESCRIPTION": "Displays information about the bot.",
     "USAGE": "$botinfos",
@@ -8,4 +20,5 @@
     "DATE": "Creation date",
     "USERS": "Users",
     "GUILDS": "Servers"
+>>>>>>> main
 }
