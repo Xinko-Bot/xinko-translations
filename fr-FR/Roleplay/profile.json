@@ -8,5 +8,5 @@
     "SEX": "{{emoji}} **Genre:** {{gender}}",
     "REP": "{{emoji}} **Points de réputation:** {{points}}",
     "BADGES": "{{emoji}} **Badges d'évènements:** {{badges}}",
-    "COLOR": "{{emoji}} **Embed Color:** ``{{color}}``"
+    "COLOR": "{{emoji}} **Couleur d'Embeds :** ``{{color}} `` ``"
 }
