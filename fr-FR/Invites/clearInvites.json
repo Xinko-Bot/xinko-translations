@@ -6,7 +6,7 @@
     "CONFIRM_MEMBER": "{{loading}} Merci de confirmer que vous êtes sûr de vouloir réinitialiser les invitations du/des membre(s) mentionné(s). Tapez ``-confirm`` pour confirmer ou ``cancel`` pour annuler.",
     "CANCELED_ALL": "La réinitialisation des invitations pour tous les membres a été annulée.",
     "CANCELED_MEMBER": "La réinitialisation des invitations pour le(s) membre(s) mentionné(s) a été annulée.",
-    "SUCCESS_ALL": "All members's invitations have been successfully reset.",
+    "SUCCESS_ALL": "Les invitations de tout les membres ont bien été réinitialisées.",
     "SUCCESS_MEMBER": "Les invitations du/des membres mentionné(s) ont bien été réinitialisées.",
     "TIMEOUT_ALL": "Le temps est écoulé, vous n'avez pas validé que vous vouliez réinitialiser les invitations de tous les membres du serveur.",
     "TIMEOUT_MEMBER": "Le temps est écoulé, vous n'avez pas validé que vous vouliez réinitialiser les invitations du/des membre(s) mentionné(s)."
