@@ -94,5 +94,6 @@
     "ACTIVE_GAME": "Vous ne pouvez pas exécuter une autre commande dans la catégorie Jeu ou Roleplay quand une est déjà en cours, veuillez terminer celle que vous avez commencé avec la commande ``{{command}}`` dans {{channel}} et réessayez.",
     "DOCUMENTATION_MAIN_LANG": "# Voici la liste des commandes du bot Discord {{username}}, ce bot a plus de {{size}} commandes séparées dans {{length}} catégories\n\n",
     "COMMAND": "Commande",
-    "COMMANDS": "Commandes"
+    "COMMANDS": "Commandes",
+    "SLASH_ONLY": "Sorry this command is only available with the ``/`` prefix: /image"
 }
