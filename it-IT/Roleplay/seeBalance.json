@@ -1,9 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to see how much change a user has in their wallet.",
-    "USAGE": "$seebalance <@member>",
-    "EXAMPLE": "$seebalance @Mr¤KayJayDee",
-    "NO_MENTION": " Please mention a member.",
-    "IS_BOT": "Cannot see a bot's wallet.",
-    "TITLE": "{{username}}'s wallet",
-    "INFOS": "This user currently has {{amount}}ama in his wallet."
-}

@@ -1,6 +1,0 @@
-{
-    "DESCRIPTION": "Used to retrieve the server icon.",
-    "USAGE": "$servericon",
-    "EXAMPLE": "$servericon",
-    "NO_ICON": "The server has no icon."
-}

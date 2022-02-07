@@ -1,8 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to roll a dice.",
-    "USAGE": "$dice <minimum number> <maximum number>",
-    "EXAMPLE_1": "$dice 1 6",
-    "EXAMPLE_2": "$dice 100 200",
-    "INVALID": "Please specify two valid numbers, the first being the smallest.",
-    "RESULT": "The dice fell on {{result}}."
-}

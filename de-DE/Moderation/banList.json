@@ -1,7 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to see the list of users banned from the server.",
-    "USAGE": "$banlist",
-    "EXAMPLE": "$banlist",
-    "NO_BAN": "There are no banned users on the server.",
-    "TITLE": "Here is the list of banned users"
-}

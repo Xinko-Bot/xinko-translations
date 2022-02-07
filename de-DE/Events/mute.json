@@ -1,3 +1,0 @@
-{
-    "CONTENT": "{{emoji}} {{user}} has been muted for {{time}} by {{author}} (Reason: {{reason}}) (Case: #{{case}})"
-}

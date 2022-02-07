@@ -95,5 +95,5 @@
     "DOCUMENTATION_MAIN_LANG": "# Here is the list of {{username}}'s discord bot commands, this bot has more than {{size}} commands separated in {{length}} categories\n\n",
     "COMMAND": "Command",
     "COMMANDS": "Commands",
-    "SLASH_ONLY": "Sorry this command is only available with the ``/`` prefix: /image"
+    "SLASH_ONLY": "Sorry this command is only available with the ``/`` prefix."
 }
