@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Permet de générer une image kiss avec votre photo de profil ou celle de vos amis.",
-    "USAGE": "$kiss <@membre>",
+    "DESCRIPTION": "Allows you to generate a kiss image with your profile picture or that of your friends.",
+    "USAGE": "$kiss <@member>",
     "EXAMPLE": "$kiss @Mr¤KayJayDee",
-    "NO_MENTIONS": "Veuillez mentionner deux utilisateurs."
+    "NO_MENTIONS": "Please mention two users."
 }
