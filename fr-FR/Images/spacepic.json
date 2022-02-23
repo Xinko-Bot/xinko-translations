@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche une photo de l'espace.",
+    "DESCRIPTION": "Displays a photo of space.",
     "USAGE": "$spacepic",
     "EXAMPLE": "$spacepic"
 }
