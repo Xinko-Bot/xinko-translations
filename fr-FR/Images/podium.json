@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Permet de générer une image podium avec votre photo de profil ou celle de vos amis.",
-    "USAGE": "$podium <@membre> <@membre>",
+    "DESCRIPTION": "Allows you to generate a podium image with your profile picture or that of your friends.",
+    "USAGE": "$podium <@member> <@member>",
     "EXAMPLE": "$podium @Mr¤KayJayDee @Alex",
-    "NO_MENTIONS": "Merci de mentionner deux utilisateurs."
+    "NO_MENTIONS": "Please mention two users."
 }
