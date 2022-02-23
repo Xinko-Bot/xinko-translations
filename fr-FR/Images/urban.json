@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Displays an urban photo.",
+    "DESCRIPTION": "Affiche une photo urban.",
     "USAGE": "$urban",
     "EXAMPLE": "$urban"
 }
