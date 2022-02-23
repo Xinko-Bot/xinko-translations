@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Allows you to generate a tatoo image with your profile picture or that of your friends.",
-    "USAGE": "$tatoo <@member>",
+    "DESCRIPTION": "Permet de générer une image tatoo avec votre photo de profil ou celle de vos amis.",
+    "USAGE": "$tatoo <@membre>",
     "EXAMPLE": "$tatoo @Mr¤KayJayDee"
 }
