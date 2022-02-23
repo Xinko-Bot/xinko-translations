@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Permet de générer une image rip avec votre photo de profil ou celle de vos amis.",
-    "USAGE": "$rip <@membre>",
+    "DESCRIPTION": "Allows you to generate a rip image with your profile picture or that of your friends.",
+    "USAGE": "$rip <@member>",
     "EXAMPLE": "$rip @Mr¤KayJayDee"
 }
