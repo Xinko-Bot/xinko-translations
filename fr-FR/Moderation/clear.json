@@ -5,11 +5,11 @@
     "EXAMPLE_2": "$clear 100 @Mr¤KayJayDee",
     "EXAMPLE_3": "$clear all",
     "CANCELED": "La suppression de tous les messages du salon à été annulée.",
-    "CONFIRM_ALL": "Please confirm that you are sure you want to delete all messages from the channel, so the channel will be deleted and cloned. Click the confirm button to confirm.",
+    "CONFIRM_ALL": "Veuillez confirmer que vous êtes sûr de vouloir supprimer tous les messages du canal, donc le canal sera supprimé et cloné. Cliquez sur le bouton de confirmation pour confirmer.",
     "TIMEOUT": "Le temps est écoulé, vous n'avez pas validé que vous vouliez supprimer tous les messages du canal.",
     "SUCCESS_ALL": "Le canal a bien été nettoyé.",
     "INVALID": "Merci de spécifier une quantité valide.",
-    "SYSTEM": "Cannot purge all messages from the channel as it is an important system channel.",
+    "SYSTEM": "Impossible de supprimer tous les messages du canal car il s'agit d'un canal système important.",
     "SUCCESS_USER": "**{{amount}}** messages de **{{name}}** ont bien été supprimés.",
     "SUCCESS": "**{{amount}}** messages ont bien été supprimés."
 }
