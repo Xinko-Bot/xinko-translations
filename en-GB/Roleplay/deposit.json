@@ -3,8 +3,6 @@
     "USAGE": "$deposit <quantity>",
     "EXAMPLE_1": "$deposit 100",
     "EXAMPLE_2": "$deposit all",
-    "NO_ARGS": "Please specify a quantity.",
-    "IS_NAN": "Please check the quantity specified. Note that it cannot be negative.",
     "NOT_ENOUGH": "You do not have this amount in your wallet, you cannot deposit in your bank account.",
     "ALL": "You just deposited all your money in your bank account.",
     "AMOUNT": "You just deposited {{amount}}ama into your bank account."
