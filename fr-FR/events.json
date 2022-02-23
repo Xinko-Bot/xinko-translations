@@ -23,6 +23,9 @@
     "voiceChannelSwitch": "Un membre à changé de canal vocal",
     "voiceChannelUndeaf": "Son activé dans un canal vocal",
     "voiceChannelUnmute": "Microphone activé dans un canal vocal",
-    "mute": "Utilisateur rendu muet dans le chat",
-    "unMute": "Utilisateur plus muet dans le chat"
+    "guildBanAdd": "Membre banni",
+    "guildBanRemove": "Membre débanni",
+    "stageInstanceCreate": "Instance de stage créée",
+    "stageInstanceDelete": "Instance de stage supprimée",
+    "stageInstanceUpdate": "Sujet d'instance de stage édité"
 }
