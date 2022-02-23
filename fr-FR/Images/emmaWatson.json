@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche une photo d'Emma Watson.",
+    "DESCRIPTION": "Shows a photo of Emma Watson.",
     "USAGE": "$emmawatson",
     "EXAMPLE": "$emmawatson"
 }
