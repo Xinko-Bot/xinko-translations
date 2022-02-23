@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Displays a car photo.",
+    "DESCRIPTION": "Affiche une photo de voiture.",
     "USAGE": "$car",
     "EXAMPLE": "$car"
 }
