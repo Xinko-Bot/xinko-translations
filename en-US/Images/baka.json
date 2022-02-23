@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Permet de traiter de baka un membre.",
-    "USAGE": "$baka <@membre>",
+    "DESCRIPTION": "Let you baka a member.",
+    "USAGE": "$baka <@member>",
     "EXAMPLE": "$baka @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** vient de traiter **{{user}}** de baka"
+    "MESSAGE": "**{{author}}** tells **{{user}}** that he is a baka"
 }

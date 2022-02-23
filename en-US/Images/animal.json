@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche une photo d’animal.",
+    "DESCRIPTION": "Displays an animal photo.",
     "USAGE": "$animal",
     "EXAMPLE": "$animal"
 }

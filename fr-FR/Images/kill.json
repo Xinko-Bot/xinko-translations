@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Allows you to kill a member.",
-    "USAGE": "$kill <@member>",
+    "DESCRIPTION": "Permet de tuer un membre.",
+    "USAGE": "$kill <@membre>",
     "EXAMPLE": "$kill @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** just killed **{{user}}**"
+    "MESSAGE": "**{{author}}** vient de tuer **{{user}}**"
 }

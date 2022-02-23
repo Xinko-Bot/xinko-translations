@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Displays a minecraft photo.",
+    "DESCRIPTION": "Affiche une photo de Minecraft.",
     "USAGE": "$minecraft",
     "EXAMPLE": "$minecraft"
 }

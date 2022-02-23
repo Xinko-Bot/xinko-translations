@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Allows you to pat a member.",
-    "USAGE": "$pat <@member>",
+    "DESCRIPTION": "Permet de tapoter un membre.",
+    "USAGE": "$pat <@membre>",
     "EXAMPLE": "$pat @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** just patted **{{user}}**"
+    "MESSAGE": "**{{author}}** vient de patter **{{user}}**"
 }

@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Displays a wallpaper.",
+    "DESCRIPTION": "Affiche un fond d'écran.",
     "USAGE": "$wallpaper",
     "EXAMPLE": "$wallpaper"
 }
