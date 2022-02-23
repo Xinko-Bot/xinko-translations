@@ -2,6 +2,6 @@
     "DESCRIPTION": "Permet d'avoir un lien d'invitation en mentionnant un bot.",
     "USAGE": "$inviteabot @bot",
     "EXAMPLE": "$inviteabot @MyCoolBot",
-    "IS_USER_MENTION": "You cannot create an invitation link for an user.",
+    "IS_USER_MENTION": "Vous ne pouvez pas créer de lien d'invitation pour un utilisateur.",
     "SUCCESS": "Voici les liens pour inviter {{username}} ({{id}})"
 }
