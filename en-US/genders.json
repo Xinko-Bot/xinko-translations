@@ -1,26 +1,16 @@
 {
     "list": [
         {
-            "name": "male",
-            "aliases": [
-                "men",
-                "boy",
-                "male",
-                "garçon",
-                "garcon"
-            ]
+            "name": "male"
         },
         {
-            "name": "female",
-            "aliases": [
-                "girl",
-                "female",
-                "meuf",
-                "dame",
-                "madame"
-            ]
+            "name": "female"
+        },
+        {
+            "name": "none"
         }
     ],
     "MALE": "Male",
-    "FEMALE": "Female"
+    "FEMALE": "Female",
+    "NONE": "None Selected"
 }

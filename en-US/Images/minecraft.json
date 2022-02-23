@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Displays a minecraft photo.",
+    "USAGE": "$minecraft",
+    "EXAMPLE": "$minecraft"
+}

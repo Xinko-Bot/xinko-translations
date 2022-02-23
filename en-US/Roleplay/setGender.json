@@ -3,9 +3,6 @@
     "USAGE": "$setgender <gender>",
     "EXAMPLE_1": "$setgender male",
     "EXAMPLE_2": "$setgender female",
-    "EXAMPLE_3": "$setgender reset",
-    "NO_ARGS": "Please specify a genre. Here are those available: {{available}}",
-    "RESET": "Your gender has been reset.",
-    "INVALID_SEX": "Please specify a valid gender. Here are those available: {{available}}",
+    "INVALID_GENDER": "Please specify a valid gender. Search and select one from the autocomplete menu",
     "SUCCESS": "Your gender is now configured on: {{gender}}"
 }
