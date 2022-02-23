@@ -2,7 +2,6 @@
     "DESCRIPTION": "Allows you to see the amount of change a user has in their bank account.",
     "USAGE": "$seebank <@member>",
     "EXAMPLE": "$seebank @Mr¤KayJayDee",
-    "NO_MENTION": "Please mention a member.",
     "IS_BOT": "Cannot see a bot's bank.",
     "TITLE": "Bank of {{username}}",
     "INFOS": "This user currently has {{amount}}ama in his bank account."

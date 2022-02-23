@@ -5,10 +5,11 @@
     "EXAMPLE_2": "$clear 100 @Mr¤KayJayDee",
     "EXAMPLE_3": "$clear all",
     "CANCELED": "The deletion of all messages from the channel has been canceled.",
-    "CONFIRM_ALL": "Please confirm that you are sure you want to delete all messages from the channel, so the channel will be deleted and cloned. Type ``-confirm`` to confirm or ``cancel`` to cancel.",
+    "CONFIRM_ALL": "Please confirm that you are sure you want to delete all messages from the channel, so the channel will be deleted and cloned. Click the confirm button to confirm.",
     "TIMEOUT": "The time is up, you have not validated that you want to delete all the messages from the channel.",
     "SUCCESS_ALL": "The channel has been cleaned up successfully.",
     "INVALID": "Please specify a valid quantity.",
+    "SYSTEM": "Cannot purge all messages from the channel as it is an important system channel.",
     "SUCCESS_USER": "**{{amount}}** messages from **{{name}}** have been successfully deleted.",
     "SUCCESS": "**{{amount}}** messages have been deleted."
 }

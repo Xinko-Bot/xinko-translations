@@ -2,5 +2,7 @@
     "DESCRIPTION": "Permet de voir votre photo de profil ou celle de vos amis.",
     "USAGE": "$avatar [@membre]",
     "EXAMPLE_1": "$avatar",
-    "EXAMPLE_2": "$avatar @Mr¤KayJayDee"
+    "EXAMPLE_2": "$avatar @Mr¤KayJayDee",
+    "TITLE": "{{user}}'s avatar",
+    "TEXT": "Click on the image size you want to see it in your browser: \n{{urls}}"
 }
