@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Permet de générer une image putin avec votre photo de profil ou celle de vos amis.",
-    "USAGE": "$putin <@membre>",
+    "DESCRIPTION": "Allows you to generate a putin image with your profile picture or that of your friends.",
+    "USAGE": "$putin <@member>",
     "EXAMPLE": "$putin @Mr¤KayJayDee"
 }
