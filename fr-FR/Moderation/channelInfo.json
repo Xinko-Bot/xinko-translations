@@ -4,5 +4,5 @@
     "EXAMPLE_1": "$channelinfo #general-chat",
     "EXAMPLE_2": "$channelinfo 123456789\n",
     "EXAMPLE_3": "$channelinfo chat",
-    "INFOS": "**Information of the channel:** {{channel}}\n\n🆔 | ID: **{{id}}**\n🕐 | Creation date: **{{date}}**\n📕 | Topic: **{{topic}}**\n🔢 | Position: **{{position}}**\n🔞 | NSFW: **{{nsfw}}**\n🌍 | Voice Region (if applicable): **{{voiceRegion}}**"
+    "INFOS": "**Information du canal :** {{channel}}\n\n🆔 | ID: **{{id}}**\n🕐 | Date de création : **{{date}}**\n📕 | Sujet: **{{topic}}**\n🔢 | Position: **{{position}}**\n🔞 | NSFW: **{{nsfw}}**\n🌍 | Région vocale (si applicable): **{{voiceRegion}}**"
 }
