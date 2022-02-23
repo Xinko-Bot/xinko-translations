@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche une photo d'apex.",
+    "DESCRIPTION": "Displays an apex picture.",
     "USAGE": "$apex",
     "EXAMPLE": "$apex"
 }
