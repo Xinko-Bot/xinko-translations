@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Permet de nourrir membre.",
-    "USAGE": "$feed <@membre>",
+    "DESCRIPTION": "Let you feed member.",
+    "USAGE": "$feed <@member>",
     "EXAMPLE": "$feed @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** vient de nourrir **{{user}}**"
+    "MESSAGE": "**{{author}}** just fed **{{user}}**"
 }
