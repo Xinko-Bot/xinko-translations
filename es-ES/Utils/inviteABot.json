@@ -2,7 +2,6 @@
     "DESCRIPTION": "Allows you to have an invitation link by mentioning a bot.",
     "USAGE": "$inviteabot @bot",
     "EXAMPLE": "$inviteabot @MyCoolBot",
-    "NO_MENTION": "Please mention a bot.",
-    "IS_USER_MENTION": "You cannot invite a user.",
+    "IS_USER_MENTION": "You cannot create an invitation link for an user.",
     "SUCCESS": "Here are the links to invite {{username}} ({{id}})"
 }
