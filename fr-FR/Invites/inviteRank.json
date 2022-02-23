@@ -9,8 +9,8 @@
     "ADD_SUCCESS": "Le rôle a bien été ajouté.",
     "NO_ROLE_FOUND": "Il n'y a aucun rôle de ce nom configuré sur le serveur.",
     "REMOVE_SUCCESS": "Le rôle a bien été retiré.",
-    "NO_RANKS": "There is no role configured on the server.",
-    "DELETED": "The role assigned to {{invites}} invitations has been deleted and is no longer accessible.\n",
+    "NO_RANKS": "Il n'y a aucun rôle configuré sur le serveur.",
+    "DELETED": "Le rôle assigné à {{invites}} invitations a été supprimé et n'est plus accessible.\n",
     "RANKS": "{{role}} (**{{invites}}** invitations)\n",
-    "RANK": "Here are the available roles:"
+    "RANK": "Voici les rôles disponibles :"
 }
