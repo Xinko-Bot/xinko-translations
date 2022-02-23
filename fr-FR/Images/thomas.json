@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Allows you to generate a thomas image with your profile picture or that of your friends.",
-    "USAGE": "$thomas <@member>",
+    "DESCRIPTION": "Permet de générer une image thomas avec votre photo de profil ou celle de vos amis.",
+    "USAGE": "$thomas <@membre>",
     "EXAMPLE": "$thomas @Mr¤KayJayDee"
 }
