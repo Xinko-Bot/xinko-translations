@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Tell a member that he is a baka.",
+    "DESCRIPTION": "Dites à un membre qu'il est baka.",
     "USAGE": "$baka <@membre>",
     "EXAMPLE": "$baka @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** just told **{{user}}** the he/she was a baka"
+    "MESSAGE": "**{{author}}** vient de traiter **{{user}}** de baka"
 }
