@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Allows you to generate a bed image with your profile picture or that of your friends.",
+    "DESCRIPTION": "Permet de générer une image bed avec votre photo de profil ou celle de vos amis.",
     "USAGE": "$bed <@membre>",
     "EXAMPLE": "$bed @Mr¤KayJayDee",
-    "NO_MENTIONS": "Please mention an user."
+    "NO_MENTIONS": "Merci de mentionner un utilisateur."
 }
