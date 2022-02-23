@@ -7,10 +7,10 @@
             "name": "female"
         },
         {
-            "name": "none"
+            "name": "aucun"
         }
     ],
     "MALE": "Homme",
     "FEMALE": "Femme",
-    "NONE": "None Selected"
+    "NONE": "Aucun sélectionné"
 }

@@ -3,6 +3,6 @@
     "USAGE": "$dice <nombre minimum> <nombre maximum>",
     "EXAMPLE_1": "$dice 1 6",
     "EXAMPLE_2": "$dice 100 200",
-    "INVALID": "Please make sure that the minimum number is less than the maximum number.",
+    "INVALID": "Veuillez vous assurer que le nombre minimum est inférieur au nombre maximum.",
     "RESULT": "Le dé est tombé sur {{result}}."
 }
