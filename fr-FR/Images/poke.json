@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Permet de toucher un membre.",
-    "USAGE": "$poke <@membre>",
+    "DESCRIPTION": "Allows you to touch a member.",
+    "USAGE": "$poke <@member>",
     "EXAMPLE": "$poke @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** vient de toucher **{{user}}**"
+    "MESSAGE": "**{{author}}** just touched **{{user}}**"
 }
