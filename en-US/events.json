@@ -23,6 +23,9 @@
     "voiceChannelSwitch": "Member Voice Channel Switched",
     "voiceChannelUndeaf": "Sound Enabled In A Voice Channel",
     "voiceChannelUnmute": "Microphone Enabled In A Voice Channel",
-    "mute": "User Muted In The Chat",
-    "unMute": "User unMuted In The Chat"
+    "guildBanAdd": "Member banned",
+    "guildBanRemove": "Member unbanned",
+    "stageInstanceCreate": "Stage Instance Created",
+    "stageInstanceDelete": "Stage Instance Deleted",
+    "stageInstanceUpdate": "Stage Instance Topic Edited"
 }
