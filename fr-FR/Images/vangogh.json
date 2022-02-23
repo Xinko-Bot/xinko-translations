@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche un tableau de Vangogh.",
+    "DESCRIPTION": "Displays a Vangogh painting.",
     "USAGE": "$vangogh",
     "EXAMPLE": "$vangogh"
 }
