@@ -1,5 +1,5 @@
 {
     "DESCRIPTION": "Allows you to generate a beautiful image with your profile picture or that of your friends.",
-    "USAGE": "$beautiful <@membre>",
+    "USAGE": "$beautiful <@member>",
     "EXAMPLE": "$beautiful @Mr¤KayJayDee"
 }
