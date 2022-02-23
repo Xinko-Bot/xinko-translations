@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche une photo de manga.",
+    "DESCRIPTION": "Displays a manga photo.",
     "USAGE": "$manga",
     "EXAMPLE": "$manga"
 }
