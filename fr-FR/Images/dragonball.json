@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche une photo de dragon ball.",
+    "DESCRIPTION": "Displays a dragon ball photo.",
     "USAGE": "$dragonball",
     "EXAMPLE": "$dragonball"
 }
