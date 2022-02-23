@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Affiche une photo de pubg.",
+    "DESCRIPTION": "Displays a pubg photo.",
     "USAGE": "$pubg",
     "EXAMPLE": "$pubg"
 }
