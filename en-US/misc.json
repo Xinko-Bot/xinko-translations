@@ -4,8 +4,6 @@
     "ERROR_MESSAGE": "An internal error has occurred, please try again later.",
     "ERROR": "Here is the error code, please report it to the bot staff team. Join the support [server](https://discord.gg/Uqd2sQP).\n```{{code}}```",
     "NO_ENABLED": "Sorry this command is not available now, try again later.",
-    "WRONG_CHANNEL": "This channel is not a channel to make commands, please visit the command channel(s) {{channel}}.",
-    "COMMAND_DISABLED": "Sorry this command is temporarily disabled.",
     "STAFF_ONLY": "Sorry this command is reserved for the bot staff team.",
     "OWNER_ONLY": "Sorry this command is reserved to the guild server owner.",
     "NSFW": "Sorry but this is an NSFW content command so it must be done in an NSFW channel.",

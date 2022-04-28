@@ -4,8 +4,6 @@
     "ERROR_MESSAGE": "Une erreur interne est survenue, veuillez réessayer ultérieurement.",
     "ERROR": "Voici le code d'erreur, merci de le reporter à l'équipe du staff du bot. Rejoignez le [serveur](https://discord.gg/Uqd2sQP) de support.\n```{{code}}```",
     "NO_ENABLED": "Désolé cette commande n'est pas disponible maintenant, réessayez plus tard.",
-    "WRONG_CHANNEL": "Ce salon n'est pas un salon pour exécuter des commandes, veuillez visiter le(s) salon(s) de commandes: {{channel}}.",
-    "COMMAND_DISABLED": "Désolé cette commande est désactivée temporairement.",
     "STAFF_ONLY": "Désolé cette commande est reservée à l'équipe du staff du bot.",
     "OWNER_ONLY": "Désolé cette commande est réservée au propriétaire du serveur.",
     "NSFW": "Désolé mais ceci est une commande de contenu NSFW, elle doit donc être effectuée dans un canal NSFW.",
