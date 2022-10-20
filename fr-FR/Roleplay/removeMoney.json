@@ -2,7 +2,7 @@
     "NAME": "retirerargent",
     "DESCRIPTION": "Permet de supprimer de la monnaie à un utilisateur.",
     "OPTION_USER": "utilisateur",
-    "OPTION_USER_DESCRIPTION": "L'utilisateur à qui vous voulez retirer de l'argent.",
+    "OPTION_USER_DESCRIPTION": "The user you want to remove money from.",
     "OPTION_AMOUNT": "quantité",
     "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez retirer.",
     "IS_BOT": "Impossible de supprimer de la monnaie à un bot.",
