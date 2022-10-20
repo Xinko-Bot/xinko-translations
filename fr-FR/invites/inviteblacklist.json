@@ -1,0 +1,20 @@
+{
+    "NAME": "blacklisteinvite",
+    "DESCRIPTION": "Permet de blacklister un membre du système d'invitations.",
+    "ALREADY_BLACKLISTED": "Ce membre est déja blacklisté.",
+    "ADD_SUCCESS": "Ce membre a bien été ajouté à la blacklist. ",
+    "NOT_BLACKLISTED": "Ce membre n'est pas blacklisté.",
+    "REMOVE_SUCCESS": "Ce membre a bien été retiré de la blacklist.",
+    "NO_BLACKLISTED_USER": "Il n'y a aucun utilisateur blacklisté.",
+    "LIST": "Voici la liste des utilisateurs blacklistés",
+    "OPTIONS_ADD": "ajouter",
+    "OPTIONS_ADD_DESCRIPTION": "Ajouter un membre à la liste noire d'invitation.",
+    "OPTIONS_REMOVE": "retirer",
+    "OPTIONS_REMOVE_DESCRIPTION": "Retirer un membre de la liste noire d'invitation.",
+    "OPTIONS_LIST": "liste",
+    "OPTIONS_LIST_DESCRIPTION": "Lister les membres de la liste noire d'invitation.",
+    "OPTIONS_ADD_OPTION_USER": "utilisateur",
+    "OPTIONS_ADD_OPTION_USER_DESCRIPTION": "L'utilisateur que vous voulez ajouter à la liste noire.",
+    "OPTIONS_REMOVE_OPTION_USER": "utilisateur",
+    "OPTIONS_REMOVE_OPTION_USER_DESCRIPTION": "L'utilisateur que vous voulez supprimer de la liste noire."
+}

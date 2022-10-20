@@ -1,0 +1,13 @@
+{
+    "NAME": "slot",
+    "DESCRIPTION": "Allows you to spin the slot machine.",
+    "DEFEAT": "You just lost {{amount}}ama.",
+    "VICTORY": "You just won {{amount}}ama",
+    "LOADING": "{{loading}} Loading the slot machine",
+    "RESULTS": "Here are the results\n\n",
+    "ROLLING": "Rolling the slot machine...\n\n",
+    "JACKPOT": "!! Jackpot !!",
+    "NOT_ENOUGH": "You don't have enough money.",
+    "OPTION_AMOUNT": "amount",
+    "OPTION_AMOUNT_DESCRIPTION": "The amount you want to bet."
+}

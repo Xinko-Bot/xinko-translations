@@ -1,0 +1,7 @@
+{
+    "NAME": "supprimerarticle",
+    "DESCRIPTION": "Vous permet de voir et acheter des objets du magasin du serveur",
+    "OPTION_ITEM": "article",
+    "OPTION_ITEM_DESCRIPTION": "Le nom de l'article que vous voulez supprimer",
+    "DELETED": "Vous avez supprimé l'article sélectionné avec succès\n(Notez que cet article ne sera pas supprimé des inventaires des membres)"
+}

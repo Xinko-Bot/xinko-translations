@@ -1,0 +1,7 @@
+{
+    "NAME": "syncinvitations",
+    "DESCRIPTION": "Permet de synchroniser les invitations du serveur avec la base de données du bot.",
+    "NO_INVITES": "Il n'y a aucune invitation à synchroniser.",
+    "CONFIRM": "{{loading}} Veuillez confirmer que vous êtes sûr de vouloir synchroniser les invitations de tous les membres du serveur avec la base de données. Cliquez sur le bouton de confirmation pour confirmer.",
+    "SUCCESS": "Les invitations de tous les membres ont bien été synchronisée."
+}

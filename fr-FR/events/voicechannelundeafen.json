@@ -1,0 +1,5 @@
+{
+    "CONTENT": "{{emoji}} {{user}} {{action}} dans le salon vocal #{{channel}}",
+    "SELF": "s'est rendu non-sourd",
+    "SERVER": "à été rendu non-sourd"
+}

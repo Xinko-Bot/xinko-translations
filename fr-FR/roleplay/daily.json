@@ -1,0 +1,6 @@
+{
+    "NAME": "quotidien",
+    "DESCRIPTION": "Permet de récupérer une récompense toutes les 24h.",
+    "TITLE": "Récompense journalière de {{username}}",
+    "DAILY": "Vous venez de collecter {{amount}}ama."
+}
