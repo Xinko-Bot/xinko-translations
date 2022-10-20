@@ -1,5 +1,5 @@
 {
-    "CONTENT": "{{emoji}} Serveur renommé",
-    "OLD_NAME": "Ancien nom :",
-    "NEW_NAME": "Nouveau nom :"
+    "CONTENT": "{{emoji}} Server renamed",
+    "OLD_NAME": "Old name :",
+    "NEW_NAME": "New name :"
 }
