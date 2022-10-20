@@ -1,6 +1,6 @@
 {
-    "NAME": "accumulerrole",
-    "DESCRIPTION": "Permet de configurer si les membres accumulent leurs rôles ou non.",
-    "ENABLED": "Stackedrank est maintenant activé.",
-    "DISABLED": "Stackedrank est maintenant désactivé."
+    "NAME": "setstacked",
+    "DESCRIPTION": "Allows you to configure whether members accumulate their roles or not.",
+    "ENABLED": "Stackedrank is now activated.",
+    "DISABLED": "Stackedrank is now deactivated."
 }
