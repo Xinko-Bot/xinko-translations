@@ -1,3 +1,3 @@
 {
-    "CONTENT": "{{emoji}} {{user}} stopped streaming in the voice channel #{{channel}}"
+    "CONTENT": "{{emoji}} {{user}} a arrêté le streaming dans le salon vocal #{{channel}}"
 }
