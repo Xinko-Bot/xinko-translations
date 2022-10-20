@@ -16,11 +16,11 @@
     "OPTION_ADD_OPTION_ROLE": "rôle",
     "OPTION_ADD_OPTION_ROLE_DESCRIPTION": "Le rôle que vous voulez attribuer.",
     "OPTION_ADD_OPTION_INVITES": "invitations",
-    "OPTION_ADD_OPTION_INVITES_DESCRIPTION": "The amount of invites needed to get the role.",
+    "OPTION_ADD_OPTION_INVITES_DESCRIPTION": "La quantité d'invitations nécessaires pour obtenir le rôle.",
     "OPTION_REMOVE": "retirer",
-    "OPTION_REMOVE_DESCRIPTION": "Remove a role from the invite ranks.",
+    "OPTION_REMOVE_DESCRIPTION": "Supprimer un rôle des rangs d'invitation.",
     "OPTION_REMOVE_OPTION_ROLE": "rôle",
-    "OPTION_REMOVE_OPTION_ROLE_DESCRIPTION": "The role you want to remove.",
+    "OPTION_REMOVE_OPTION_ROLE_DESCRIPTION": "Le rôle que vous voulez retirer.",
     "OPTION_LIST": "liste",
-    "OPTION_LIST_DESCRIPTION": "List the available invite ranks."
+    "OPTION_LIST_DESCRIPTION": "Liste des rangs d'invitation disponibles."
 }
