@@ -1,5 +1,5 @@
 {
-    "NAME": "rob",
+    "NAME": "voler",
     "DESCRIPTION": "Permet de voler un autre membre tout les 12h.",
     "OPTION_USER": "utilisateur",
     "OPTION_USER_DESCRIPTION": "L'utilisateur que vous voulez essayer de voler.",
