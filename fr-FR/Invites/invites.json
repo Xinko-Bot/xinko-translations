@@ -6,5 +6,5 @@
     "INVITES": "{{invitations}} invitations ({{normal}} normales, {{bonus}} bonus, {{fake}} fausses, {{left}} partis)",
     "NEXT_RANK": "\nEncore {{invitationsLeft}} invitations pour obtenir le role **{{nextRank}}**",
     "OPTIONS_MEMBER": "membre",
-    "OPTIONS_MEMBER_DESCRIPTION": "The member to check the invites of."
+    "OPTIONS_MEMBER_DESCRIPTION": "Le membre pour lequel consulter les invitations."
 }
