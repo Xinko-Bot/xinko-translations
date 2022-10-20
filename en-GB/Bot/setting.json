@@ -1,7 +1,6 @@
 {
+    "NAME": "setting",
     "DESCRIPTION": "Configure everything you want inside the bot with an intiutive panel.",
-    "USAGE": "$setting",
-    "EXAMPLE": "$setting",
     "TITLE": "Welcome to the configuration panel of your guild's settings.",
     "INSTRUCTIONS": "Click on any buttons to choose what you want to edit:",
     "CONFIGURE": "Configure",
