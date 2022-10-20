@@ -1,9 +1,0 @@
-{
-    "NAME": "biographie",
-    "DESCRIPTION": "Permet de configurer votre biographie.",
-    "OPTION_BIOGRAPHY": "biographie",
-    "OPTION_BIOGRAPHY_DESCRIPTION": "Votre nouvelle biographie.",
-    "TOO_LONG": "Votre biographie ne doit pas dépasser les 1000 caractères.",
-    "TITLE": "Biographie de {{username}}",
-    "NEWBIO": "Votre nouvelle biographie a bien été enregistrée :\n``{{newBiography}}``"
-}

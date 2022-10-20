@@ -1,7 +1,0 @@
-{
-    "NAME": "syncinvites",
-    "DESCRIPTION": "Allows you to synchronize the server invitations with the bot database.",
-    "NO_INVITES": "There are no invites to sync.",
-    "CONFIRM": "{{loading}} Please confirm that you are sure you want to synchronize invitations from all server members with the database. Click the confirm button to confirm.",
-    "SUCCESS": "The invitations of all members have been synchronized."
-}

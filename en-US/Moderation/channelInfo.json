@@ -1,7 +1,0 @@
-{
-    "NAME": "channelinfo",
-    "DESCRIPTION": "Allows you to view the information of a channel.",
-    "OPTION_CHANNEL": "channel",
-    "OPTION_CHANNEL_DESCRIPTION": "The channel to get informations from.",
-    "INFOS": "**Information of the channel:** {{channel}}\n\n🆔 | ID: **{{id}}**\n🕐 | Creation date: **{{date}}**\n📕 | Topic: **{{topic}}**\n🔢 | NSFW: **{{nsfw}}**\n🌍 | Voice Region (if applicable): **{{voiceRegion}}**"
-}

@@ -1,9 +1,0 @@
-{
-    "NAME": "deposer",
-    "DESCRIPTION": "Permet de déposer de l'argent sur votre compte en banque.",
-    "OPTION_AMOUNT": "quantité",
-    "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez déposer sur votre compte bancaire (0 pour tous).",
-    "ALL": "Vous venez de déposer tout votre argent sur votre compte en banque.",
-    "NOT_ENOUGH": "Vous n'avez pas assez d'argent dans votre portefeuille, veuillez en retirer.",
-    "AMOUNT": "Vous venez de déposer {{amount}}ama sur votre compte bancaire."
-}

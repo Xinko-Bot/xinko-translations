@@ -1,5 +1,0 @@
-{
-    "DESCRIPTION": "Affiche une photo de chat.",
-    "USAGE": "$cat",
-    "EXAMPLE": "$cat"
-}
