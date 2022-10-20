@@ -1,8 +1,8 @@
 {
-    "NAME": "buy",
+    "NAME": "acheter",
     "DESCRIPTION": "Allows you to buy an item from the shop.",
     "OPTION_ITEM": "item",
-    "OPTION_ITEM_DESCRIPTION": "The name of the item you want to buy",
+    "OPTION_ITEM_DESCRIPTION": "Le nom de l'article que vous voulez acheter",
     "NO_STOCK": "There is no stock of that item.",
     "MAX_ALLOWED": "You can only buy {{}} of that item.",
     "ROLE_NOT_FOUND": "The role linked to this item could not be found.",
