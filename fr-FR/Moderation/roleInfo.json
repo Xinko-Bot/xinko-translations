@@ -1,6 +1,6 @@
 {
-    "NAME": "roleinfo",
-    "OPTION_ROLE": "role",
+    "NAME": "inforole",
+    "OPTION_ROLE": "rôle",
     "OPTION_ROLE_DESCRIPTION": "The role to get informations from.",
     "DESCRIPTION": "Permet de voir les informations d'un rôle.",
     "INFOS": "**Informations on the role:** {{role}}\n\n🔢 | Number of member that have the role: **{{members}}**\n#️⃣ | Hexadecimal color: **{{color}}**\nEmoji of the role: **{{roleEmoji}}**\n🆔 | ID: **{{id}}**\n🌐 | Mentionnable: **{{mentionable}}**\n1️⃣ | Position: **{{position}}**\n🤖 | Managed by a bot: **{{managed}}**\n👀 | Displayed separately: **{{hoist}}**\n🕐 | Creation date: **{{date}}**"
