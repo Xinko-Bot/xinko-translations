@@ -1,7 +1,7 @@
 {
     "NAME": "profile",
     "DESCRIPTION": "Permet de voir votre profil ou celui d'un membre.",
-    "OPTION_USER": "user",
+    "OPTION_USER": "utilisateur",
     "OPTION_USER_DESCRIPTION": "The user you want to see the profile of.",
     "TITLE": "Profil de {{username}}",
     "BIO": "{{emoji}} **Biographie:** \n> {{biography}}",
