@@ -2,7 +2,7 @@
     "NAME": "reputation",
     "DESCRIPTION": "Permet de donner un point de réputation à un autre membre.",
     "OPTION_USER": "utilisateur",
-    "OPTION_USER_DESCRIPTION": "The user you want to send a reputation point to.",
+    "OPTION_USER_DESCRIPTION": "L'utilisateur auquel vous souhaitez envoyer un point de réputation.",
     "TITLE": "{{username}} viens de donner un point de réputation.",
     "INVALID": "Vous ne pouvez pas donner de points de réputation à un bot, ni à vous-même.",
     "REP": "Vous venez de donner un point de réputation a {{user}}"
