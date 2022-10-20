@@ -1,5 +1,5 @@
 {
-    "NAME": "ping",
+    "NAME": "latence",
     "DESCRIPTION": "Permet de voir la latence du bot et de l'API de discord.",
     "FETCHING": "{{loading}} Calcul en cours...",
     "SLOW": "Le bot est lent.",
