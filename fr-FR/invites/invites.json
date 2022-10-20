@@ -1,10 +1,10 @@
 {
-    "NAME": "invites",
-    "DESCRIPTION": "Allows you to see your invitations or those of a friend.",
-    "IS_BOT": "Cannot see invitations from a bot.",
-    "BLACKLISTED": "You or the mentionned user is blacklisted on this server, please contact a Moderator / Administrator.",
-    "INVITES": "{{invitations}} invitations ({{normal}} normal, {{bonus}} bonus, {{fake}} fake, {{left}} left)",
-    "NEXT_RANK": "\n{{invitationsLeft}} more invitations left to get the role ** {{nextRank}} **",
-    "OPTIONS_MEMBER": "member",
-    "OPTIONS_MEMBER_DESCRIPTION": "The member to check the invites of."
+    "NAME": "invitations",
+    "DESCRIPTION": "Permet de voir vos invitations ou celles d'un ami.",
+    "IS_BOT": "Impossible de voir les invitations d'un bot.",
+    "BLACKLISTED": "Vous ou l'utilisateur mentionné est blacklisté sur ce serveur, veuillez contacter un modérateur / administrateur.",
+    "INVITES": "{{invitations}} invitations ({{normal}} normales, {{bonus}} bonus, {{fake}} fausses, {{left}} partis)",
+    "NEXT_RANK": "\nEncore {{invitationsLeft}} invitations pour obtenir le role **{{nextRank}}**",
+    "OPTIONS_MEMBER": "membre",
+    "OPTIONS_MEMBER_DESCRIPTION": "Le membre pour lequel consulter les invitations."
 }
