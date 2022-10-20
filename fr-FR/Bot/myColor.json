@@ -1,8 +1,8 @@
 {
+    "NAME": "mycolor",
     "DESCRIPTION": "Permet de choisir la couleur des embeds du bot.",
-    "USAGE": "$mycolor <couleur hexadecimale>",
-    "EXAMPLE_1": "$mycolor #FFFFFF",
-    "EXAMPLE_2": "$mycolor reset",
+    "OPTION_COLOR": "color",
+    "OPTION_COLOR_DESCRIPTION": "An hex color code",
     "RESET": "Votre couleur a bien été réinitialisée sur ``Aléatoire``.",
     "MOREINFOS": "Cliquez ici pour plus d'infos.",
     "NO_ARGS": "Merci de spécifier une couleur hexadécimale.",
