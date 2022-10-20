@@ -1,6 +1,6 @@
 {
-    "NAME": "bank",
-    "DESCRIPTION": "Allows you to see the amount of change you have in your bank account.",
-    "TITLE": "{{username}}'s bank account",
-    "INFOS": "You currently have {{bank}}ama in your bank account."
+    "NAME": "banque",
+    "DESCRIPTION": "Permet de voir la quantité de monnaie que vous avez dans votre compte en banque.",
+    "TITLE": "Compte en banque de {{username}}",
+    "INFOS": "Vous avez actuellement {{bank}}ama dans votre compte bancaire."
 }
