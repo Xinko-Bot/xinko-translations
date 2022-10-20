@@ -1,9 +1,10 @@
 {
+    "NAME": "invites",
     "DESCRIPTION": "Permet de voir vos invitations ou celles d'un ami.",
-    "USAGE": "$invites",
-    "EXAMPLE": "$invites",
     "IS_BOT": "Impossible de voir les invitations d'un bot.",
-    "BLACKLISTED": "Vous êtes blacklisté sur ce serveur, veuillez contacter un Modérateur/Administrateur.",
+    "BLACKLISTED": "You or the mentionned user is blacklisted on this server, please contact a Moderator / Administrator.",
     "INVITES": "{{invitations}} invitations ({{normal}} normales, {{bonus}} bonus, {{fake}} fausses, {{left}} partis)",
-    "NEXT_RANK": "\nEncore {{invitationsLeft}} invitations pour obtenir le role **{{nextRank}}**"
+    "NEXT_RANK": "\nEncore {{invitationsLeft}} invitations pour obtenir le role **{{nextRank}}**",
+    "OPTIONS_MEMBER": "member",
+    "OPTIONS_MEMBER_DESCRIPTION": "The member to check the invites of."
 }
