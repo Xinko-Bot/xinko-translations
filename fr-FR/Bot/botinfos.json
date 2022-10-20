@@ -1,5 +1,5 @@
 {
-    "NAME": "botinfos",
+    "NAME": "infosbot",
     "DESCRIPTION": "Affiche les informations sur le bot.",
     "TITLE": "**Statistiques de{{botName}}**\n[Serveur de support]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Me supporter]({{buyMeACoffee}})",
     "OWNER": "Propriétaire",
@@ -7,7 +7,7 @@
     "DATE": "Date de création",
     "USERS": "Utilisateurs",
     "GUILDS": "Serveurs",
-    "MEMORY": "Memory usage",
-    "TOPGG": "Vote on Top.gg",
-    "DBL": "Vote on Discord Bot List"
+    "MEMORY": "Utilisation mémoire",
+    "TOPGG": "Voter sur Top.gg",
+    "DBL": "Voter sur Discord Bot List"
 }
