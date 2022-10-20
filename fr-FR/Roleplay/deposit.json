@@ -1,7 +1,7 @@
 {
-    "NAME": "deposit",
+    "NAME": "deposer",
     "DESCRIPTION": "Permet de déposer de l'argent sur votre compte en banque.",
-    "OPTION_AMOUNT": "amount",
+    "OPTION_AMOUNT": "quantité",
     "OPTION_AMOUNT_DESCRIPTION": "The amount you want to deposit to your bank account (0 for all).",
     "ALL": "Vous venez de déposer tout votre argent sur votre compte en banque.",
     "NOT_ENOUGH": "You don't have enough money in your wallet, please withdraw some.",
