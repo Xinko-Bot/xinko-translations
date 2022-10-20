@@ -1,5 +1,5 @@
 {
-    "CONTENT": "{{emoji}} {{user}} {{action}} dans le salon vocal #{{channel}}",
-    "SELF": "s'est muté",
-    "SERVER": "à été rendu muet"
+    "CONTENT": "{{emoji}} {{user}} {{action}} in the voice channel #{{channel}}",
+    "SELF": "muted themself",
+    "SERVER": "has been muted"
 }
