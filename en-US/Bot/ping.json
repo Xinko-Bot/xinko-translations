@@ -1,7 +1,6 @@
 {
+    "NAME": "ping",
     "DESCRIPTION": "Allows to see the latency of the bot and the discord API.",
-    "USAGE": "$ping",
-    "EXAMPLE": "$ping",
     "FETCHING": "{{loading}} Calculating...",
     "SLOW": "The bot is slow.",
     "FAST": "The bot is fast.",

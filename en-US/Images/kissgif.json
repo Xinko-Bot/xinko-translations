@@ -1,6 +1,0 @@
-{
-    "DESCRIPTION": "Allows to give a kiss (gif) to a member.",
-    "USAGE": "$kissgif <@member>",
-    "EXAMPLE": "$kissgif @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** just gave a kiss to **{{user}}**"
-}

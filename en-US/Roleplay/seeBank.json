@@ -1,7 +1,8 @@
 {
+    "NAME": "seebank",
     "DESCRIPTION": "Allows you to see the amount of change a user has in their bank account.",
-    "USAGE": "$seebank <@member>",
-    "EXAMPLE": "$seebank @Mr¤KayJayDee",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to see the bank of.",
     "IS_BOT": "Cannot see a bot's bank.",
     "TITLE": "Bank of {{username}}",
     "INFOS": "This user currently has {{amount}}ama in his bank account."

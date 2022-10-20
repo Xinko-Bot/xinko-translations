@@ -1,9 +1,9 @@
 {
+    "NAME": "reputation",
     "DESCRIPTION": "Allows you to give a reputation point to another member.",
-    "USAGE": "$reputation",
-    "EXAMPLE": "$reputation",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to send a reputation point to.",
     "TITLE": "{{username}} just gave a reputation point.",
-    "TIME": "Please wait another {{minutes}}m {{seconds}}s before giving someone else a reputation point.",
     "INVALID": "You cannot give reputation points to a bot, or to yourself.",
     "REP": "You just gave a reputation point to {{user}}"
 }
