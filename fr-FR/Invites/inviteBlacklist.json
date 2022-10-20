@@ -1,13 +1,20 @@
 {
+    "NAME": "inviteblacklist",
     "DESCRIPTION": "Permet de blacklister un membre du système d'invitations.",
-    "USAGE": "$inviteblacklist <option> [@membre]",
-    "EXAMPLE_1": "$inviteblacklist add @member",
-    "EXAMPLE_2": "$inviteblacklist remove @member",
-    "EXAMPLE_3": "$inviteblacklist list",
     "ALREADY_BLACKLISTED": "Ce membre est déja blacklisté.",
     "ADD_SUCCESS": "Ce membre a bien été ajouté à la blacklist. ",
     "NOT_BLACKLISTED": "Ce membre n'est pas blacklisté.",
     "REMOVE_SUCCESS": "Ce membre a bien été retiré de la blacklist.",
     "NO_BLACKLISTED_USER": "Il n'y a aucun utilisateur blacklisté.",
-    "LIST": "Voici la liste des utilisateurs blacklistés"
+    "LIST": "Voici la liste des utilisateurs blacklistés",
+    "OPTIONS_ADD": "add",
+    "OPTIONS_ADD_DESCRIPTION": "Add a member to the invite blacklist.",
+    "OPTIONS_REMOVE": "remove",
+    "OPTIONS_REMOVE_DESCRIPTION": "Remove a member from the invite blacklist.",
+    "OPTIONS_LIST": "list",
+    "OPTIONS_LIST_DESCRIPTION": "List members in the invite blacklist.",
+    "OPTIONS_ADD_OPTION_USER": "user",
+    "OPTIONS_ADD_OPTION_USER_DESCRIPTION": "The user you want to add in the blacklist.",
+    "OPTIONS_REMOVE_OPTION_USER": "user",
+    "OPTIONS_REMOVE_OPTION_USER_DESCRIPTION": "The user you want to remove from the blacklist."
 }
