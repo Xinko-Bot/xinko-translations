@@ -1,11 +1,13 @@
 {
+    "NAME": "botinfos",
     "DESCRIPTION": "Displays information about the bot.",
-    "USAGE": "$botinfos",
-    "EXAMPLE": "$botinfos",
     "TITLE": "**{{botName}}'s statistics**\n[Support server]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Support me]({{buyMeACoffee}})",
     "OWNER": "Owner",
     "VERSION": "Bot's version",
     "DATE": "Creation date",
     "USERS": "Users",
-    "GUILDS": "Servers"
+    "GUILDS": "Servers",
+    "MEMORY": "Memory usage",
+    "TOPGG": "Vote on Top.gg",
+    "DBL": "Vote on Discord Bot List"
 }
