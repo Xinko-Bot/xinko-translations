@@ -1,5 +1,5 @@
 {
-    "NAME": "fetchinvites",
+    "NAME": "recupererinvites",
     "DESCRIPTION": "Permet de detecter les nouvelles invitations non enregistrées dans le cache.",
     "SUCCESS": "Les invitations ont bien été actualisées."
 }
