@@ -6,5 +6,5 @@
     "PERCENT": "{{total}} ont rejoint, soit {{percent}}% du serveur.",
     "RANGE": "Statistiques du {{dayRange1}} au {{dayRange2}}",
     "OPTION_DAYS": "jours",
-    "OPTION_DAYS_DESCRIPTION": "The number of days to look back."
+    "OPTION_DAYS_DESCRIPTION": "Le nombre de jours à récupérer."
 }
