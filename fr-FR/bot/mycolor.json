@@ -1,11 +1,11 @@
 {
-    "NAME": "mycolor",
-    "DESCRIPTION": "Allows you to choose the color of the bot embeds.",
-    "OPTION_COLOR": "color",
-    "OPTION_COLOR_DESCRIPTION": "An hex color code",
-    "RESET": "Your color has been successfully reset to ``Random``.",
-    "MOREINFOS": "Click here for more information.",
-    "NO_ARGS": "Please specify an hexadecimal color.",
-    "NOT_VALID": "It is not a valid hexadecimal color.",
-    "SUCCESS": "Your color has been changed to ``{{color}}``"
+    "NAME": "macouleur",
+    "DESCRIPTION": "Permet de changer le nom du serveur.",
+    "OPTION_COLOR": "couleur",
+    "OPTION_COLOR_DESCRIPTION": "Un code couleur hexadécimal",
+    "RESET": "Votre couleur a bien été réinitialisée sur ``Aléatoire``.",
+    "MOREINFOS": "Cliquez ici pour plus d'infos.",
+    "NO_ARGS": "Merci de spécifier un nouveau nom.",
+    "NOT_VALID": "Ce n'est pas une couleur hexadécimale valide.",
+    "SUCCESS": "Le serveur a bien été rennommé en **{{name}}**."
 }
