@@ -1,6 +1,0 @@
-{
-    "NAME": "weekly",
-    "DESCRIPTION": "Allows you to collect a reward every 7 days.",
-    "TITLE": "Weekly reward from {{username}}",
-    "WEEKLY": "You just collected {{amount}}ama."
-}

@@ -1,8 +1,0 @@
-{
-    "NAME": "avatar",
-    "DESCRIPTION": "Permet de voir votre photo de profil ou celle de vos amis.",
-    "OPTION_USER": "utilisateur",
-    "OPTION_USER_DESCRIPTION": "L'utilisateur dont vous voulez obtenir l'avatar.",
-    "TITLE": "L'avatar de {{user}}",
-    "TEXT": "Cliquez sur la taille de l'image que vous voulez pour la voir dans votre navigateur: \n{{urls}}"
-}

@@ -1,6 +1,0 @@
-{
-    "NAME": "work",
-    "DESCRIPTION": "Allows you to collect a reward every 6 hours.",
-    "TITLE": "Work reward for {{username}}",
-    "WORK": "You just collected {{amount}}ama."
-}

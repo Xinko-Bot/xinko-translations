@@ -1,5 +1,0 @@
-{
-    "CONTENT": "{{emoji}} Message de {{member}} ({{username}}) modifié dans {{channel}}\n[Aller au message]({{url}})",
-    "OLD_MESSAGE": "Ancien message :",
-    "NEW_MESSAGE": "Nouveau message :"
-}

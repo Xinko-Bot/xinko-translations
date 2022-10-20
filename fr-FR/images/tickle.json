@@ -1,6 +1,0 @@
-{
-    "DESCRIPTION": "Permet de chatouiller un membre.",
-    "USAGE": "$tickle <@membre>",
-    "EXAMPLE": "$tickle @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** vient de chatouiller **{{user}}**"
-}

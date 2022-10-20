@@ -1,5 +1,0 @@
-{
-    "DESCRIPTION": "Vous permet de générer une image discord noir avec votre photo de profil ou celle de vos amis.",
-    "USAGE": "$discordblack <@membre>",
-    "EXAMPLE": "$discordblack @Mr¤KayJayDee"
-}

@@ -1,9 +1,0 @@
-{
-    "DESCRIPTION": "Permet d'ajouter un rôle à un membre.",
-    "USAGE": "$addrole <@membre/ID> <@role/ID>",
-    "EXAMPLE_1": "$addrole @Mr¤KayJayDee @friends",
-    "EXAMPLE_2": "$addrole @Mr¤KayJayDee 123456789",
-    "INVALID": "Merci de spécifier un rôle valide et de vérifier que mon plus haut rôle est au dessus du rôle que vous voulez ajouter et au dessus du plus haut rôle du membre à qui vous voulez l'ajouter.",
-    "ALREADY_HAS_ROLE": "**{{username}}** a déjà le rôle **{{role}}**.",
-    "SUCCESS": "**{{username}}** a bien reçu le rôle **{{role}}**."
-}
