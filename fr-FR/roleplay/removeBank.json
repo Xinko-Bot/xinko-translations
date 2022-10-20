@@ -1,11 +1,11 @@
 {
-    "NAME": "retirerbanque",
-    "DESCRIPTION": "Permet de supprimer de la monnaie dans la banque d'un utilisateur.",
-    "OPTION_USER": "utilisateur",
-    "OPTION_USER_DESCRIPTION": "L'utilisateur à qui vous voulez retirer de l'argent en banque.",
-    "OPTION_AMOUNT": "quantité",
-    "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez retirer.",
-    "IS_BOT": "Impossible de supprimer de la monnaie sur le compte en banque d'un bot.",
-    "TITLE": "De l'argent a été retiré sur le compte bancaire de {{username}}.",
-    "RESULT": "Vous venez de supprimer {{amount}}ama du compte bancaire de {{user}}."
+    "NAME": "removebank",
+    "DESCRIPTION": "Allows you to remove money from a user's bank.",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to remove money from their bank.",
+    "OPTION_AMOUNT": "amount",
+    "OPTION_AMOUNT_DESCRIPTION": "The amount you want to remove.",
+    "IS_BOT": "Cannot remove change from a bot's bank account.",
+    "TITLE": "Removed money on {{username}}'s bank account.",
+    "RESULT": "You just removed {{amount}}ama from the {{user}}'s bank account."
 }
