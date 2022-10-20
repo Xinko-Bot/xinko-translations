@@ -1,10 +1,10 @@
 {
-    "CONTENT": "{{emoji}} Message from {{member}} ({{username}}) deleted in {{channel}}",
-    "MESSAGE": "Message content:",
-    "USER_JOIN": "{{emoji}} Join message for {{member}} ({{username}}) has been deleted in {{channel}}",
-    "GUILD_BOOST": "{{emoji}} Boost message has been deleted in {{channel}}",
-    "AUTOMODERATION": "{{emoji}} AutoModeration message has been deleted in {{channel}}",
-    "COMMAND": "{{emoji}} Command message has been deleted in {{channel}}",
-    "DISCOVERY": "{{emoji}} Discovery infos message has been deleted in {{channel}}",
-    "OTHER": "{{emoji}} A system message has been deleted in {{channel}}"
+    "CONTENT": "{{emoji}} Message de {{member}} ({{username}}) supprimé dans {{channel}}",
+    "MESSAGE": "Contenu du message :",
+    "USER_JOIN": "{{emoji}} Le message de bienvenue pour {{member}} ({{username}}) a été supprimé dans {{channel}}",
+    "GUILD_BOOST": "{{emoji}} Un message de Boost a été supprimé dans {{channel}}",
+    "AUTOMODERATION": "{{emoji}} Un message d'auto-modération a été supprimé dans {{channel}}",
+    "COMMAND": "{{emoji}} Un message de commande a été supprimé dans {{channel}}",
+    "DISCOVERY": "{{emoji}} Un message d'information sur le status Discovery a été supprimé dans {{channel}}",
+    "OTHER": "{{emoji}} Un message système a été supprimé dans {{channel}}"
 }
