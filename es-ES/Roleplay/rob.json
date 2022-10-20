@@ -1,9 +1,9 @@
 {
+    "NAME": "rob",
     "DESCRIPTION": "Allows you to steal another member every 12 hours.",
-    "USAGE": "$rob <@member>",
-    "EXAMPLE": "$rob @Mr¤KayJayDee",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to try to rob.",
     "TITLE": "{{username}} just stole another member.",
-    "TIME": "Please wait another {{hours}}h {{minutes}}m {{seconds}}s before you can rob someone else.",
     "ROB": "You just robbed {{amount}}ama.",
     "NO_MENTION": "Please mention a member.",
     "INVALID": "You cannot rob a bot or yourself.",
