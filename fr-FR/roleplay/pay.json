@@ -1,12 +1,12 @@
 {
-    "NAME": "payer",
-    "DESCRIPTION": "Permet de payer un utilisateur.",
-    "OPTION_MEMBER": "membre",
-    "OPTION_MEMBER_DESCRIPTION": "Le membre que vous voulez payer.",
-    "OPTION_AMOUNT": "quantité",
-    "OPTION_AMOUNT_DESCRIPTION": "Le montant que vous voulez payer.",
-    "IS_BOT": "Impossible de payer un bot.",
-    "NOT_ENOUGH": "Vous n'avez pas cette quantité dans votre porte-monnaie, paiement impossible.",
-    "TITLE": "Paiement pour {{username}}.",
-    "RESULT": "Vous venez de payer {{amount}}ama à {{user}}."
+    "NAME": "pay",
+    "DESCRIPTION": "Allows to pay a user.",
+    "OPTION_MEMBER": "member",
+    "OPTION_MEMBER_DESCRIPTION": "The member you want to pay.",
+    "OPTION_AMOUNT": "amount",
+    "OPTION_AMOUNT_DESCRIPTION": "The amount you want to pay.",
+    "IS_BOT": "You cannot pay a bot.",
+    "NOT_ENOUGH": "You do not have this amount in your wallet, payment impossible.",
+    "TITLE": "Payment for {{username}}.",
+    "RESULT": "You just paid {{amount}}ama to {{user}}."
 }
