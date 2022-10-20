@@ -1,0 +1,5 @@
+{
+    "NAME": "fetchinvites",
+    "DESCRIPTION": "Allows to detect new invitations not saved in the cache.",
+    "SUCCESS": "The invitations have been updated."
+}
