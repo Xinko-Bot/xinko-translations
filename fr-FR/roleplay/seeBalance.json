@@ -1,9 +1,9 @@
 {
-    "NAME": "voirbalance",
-    "DESCRIPTION": "Permet de voir la quantité de monnaie qu'un utilisateur a dans son porte-monnaie.",
-    "OPTION_USER": "utilisateur",
-    "OPTION_USER_DESCRIPTION": "L'utilisateur dont vous voulez voir le solde.",
-    "IS_BOT": "Impossible de voir le porte-monnaie d'un bot.",
-    "TITLE": "Porte Monnaie de {{username}}",
-    "INFOS": "Cet utilisateur a actuellement {{amount}}ama dans son portefeuille."
+    "NAME": "seebalance",
+    "DESCRIPTION": "Allows you to see how much change a user has in their wallet.",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to see the balance of.",
+    "IS_BOT": "Cannot see a bot's wallet.",
+    "TITLE": "{{username}}'s wallet",
+    "INFOS": "This user currently has {{amount}}ama in his wallet."
 }
