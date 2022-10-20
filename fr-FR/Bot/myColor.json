@@ -1,8 +1,8 @@
 {
-    "NAME": "mycolor",
+    "NAME": "macouleur",
     "DESCRIPTION": "Permet de choisir la couleur des embeds du bot.",
-    "OPTION_COLOR": "color",
-    "OPTION_COLOR_DESCRIPTION": "An hex color code",
+    "OPTION_COLOR": "couleur",
+    "OPTION_COLOR_DESCRIPTION": "Un code couleur hexadécimal",
     "RESET": "Votre couleur a bien été réinitialisée sur ``Aléatoire``.",
     "MOREINFOS": "Cliquez ici pour plus d'infos.",
     "NO_ARGS": "Merci de spécifier une couleur hexadécimale.",
