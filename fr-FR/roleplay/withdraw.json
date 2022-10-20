@@ -1,9 +1,9 @@
 {
-    "NAME": "retirer",
-    "DESCRIPTION": "Permet de retirer de l'argent sur votre porte-monnaie.",
-    "OPTION_AMOUNT": "quantité",
-    "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez retirer de votre compte bancaire (0 pour toutes).",
-    "ALL": "Vous venez de retirer tout votre argent sur votre porte-monnaie.",
-    "NOT_ENOUGH": "Vous devez de l'argent à la banque, veuillez d'abord déposer de l'argent.",
-    "AMOUNT": "Vous venez de retirer {{amount}}ama de votre compte bancaire à votre portefeuille."
+    "NAME": "withdraw",
+    "DESCRIPTION": "Allows you to withdraw money from your wallet.",
+    "OPTION_AMOUNT": "amount",
+    "OPTION_AMOUNT_DESCRIPTION": "The amount you want to withdraw from your bank account (0 for all).",
+    "ALL": "You just withdraw all your money from your bank account to your wallet.",
+    "NOT_ENOUGH": "You owe money to the bank, please deposit some money first.",
+    "AMOUNT": "You just withdrawn {{amount}}ama from your bank account to your wallet."
 }
