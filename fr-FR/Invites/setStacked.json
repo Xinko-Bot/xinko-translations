@@ -1,5 +1,5 @@
 {
-    "NAME": "setstacked",
+    "NAME": "accumulerrole",
     "DESCRIPTION": "Permet de configurer si les membres accumulent leurs rôles ou non.",
     "ENABLED": "Stackedrank est maintenant activé.",
     "DISABLED": "Stackedrank est maintenant désactivé."
