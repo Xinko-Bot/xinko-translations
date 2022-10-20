@@ -1,10 +1,10 @@
 {
-    "NAME": "invitesstats",
-    "DESCRIPTION": "Displays a graph with the statistics of the members who have joined the server.",
-    "INVALID": "Please specify a valid number. Between 1 and 300",
-    "TITLE": "Statistics for {{name}} since {{numberOfDays}} days.",
-    "PERCENT": "{{total}} have joined, or {{percent}}% of the server.",
-    "RANGE": "Statistics from {{dayRange1}} to {{dayRange2}}",
-    "OPTION_DAYS": "days",
-    "OPTION_DAYS_DESCRIPTION": "The number of days to look back."
+    "NAME": "statsinvitations",
+    "DESCRIPTION": "Affiche un graphique avec les statistiques des membres qui ont rejoint le serveur.",
+    "INVALID": "Merci de spécifier un nombre valide. Entre 1 et 300",
+    "TITLE": "Statistiques de {{name}} depuis {{numberOfDays}} jours.",
+    "PERCENT": "{{total}} ont rejoint, soit {{percent}}% du serveur.",
+    "RANGE": "Statistiques du {{dayRange1}} au {{dayRange2}}",
+    "OPTION_DAYS": "jours",
+    "OPTION_DAYS_DESCRIPTION": "Le nombre de jours à récupérer."
 }
