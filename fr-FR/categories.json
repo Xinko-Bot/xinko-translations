@@ -1,12 +1,12 @@
 {
-    "BOT": "🤖 Général",
-    "GAMES": "🎮 Jeux",
+    "BOT": "🤖 General",
+    "GAMES": "🎮 Games",
     "INVITES": "📎 Invitation",
-    "MODERATION": "🛡️ Modération",
-    "PREMIUM": "👑 Commande personnalisée",
+    "MODERATION": "🛡️ Moderation",
+    "PREMIUM": "👑 Premium commands",
     "ROLEPLAY": "🎭 Roleplay",
     "STAFF": "STAFF",
-    "UTILS": "🧰 Utilitaires",
-    "UnrealNSFW": "🔞 NSFW irréel",
-    "RealNSFW": "🔞 NSFW réel"
+    "UTILS": "🧰 Tools",
+    "UnrealNSFW": "🔞 Unreal NSFW",
+    "RealNSFW": "🔞 Real NSFW"
 }
