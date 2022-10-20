@@ -1,7 +1,7 @@
 {
+    "NAME": "donation",
     "DESCRIPTION": "Permet de voir les informations sur comment soutenir le projet.",
-    "USAGE": "$donate",
-    "EXAMPLE": "$donate",
-    "TITLE": "Voici comment vous pouvez soutenir le projet.",
-    "INFOS": "Vous pouvez me `payer un café` en cliquant sur ce lien [BuyMeACoffee.com]({{buyMeACoffee}}).\nVous pouvez aussi envoyer la somme PayPal que vous voulez à cette adresse: `{{paypal}}`. Rien n'est obligé, libre à vous de m'aider ou pas. :wink:"
+    "PAYPAL": "PayPal",
+    "BUY_ME_A_COFFEE": "Buy me a coffee",
+    "TITLE": "Voici comment vous pouvez soutenir le projet. Rien n'est forcé, vous pouvez aider comme vous le souhaitez. :wink:"
 }

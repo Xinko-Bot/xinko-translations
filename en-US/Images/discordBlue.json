@@ -1,5 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to generate a discord blue image with your profile picture or that of your friends.",
-    "USAGE": "$discordblue <@member>",
-    "EXAMPLE": "$discordblue @Mr¤KayJayDee"
-}

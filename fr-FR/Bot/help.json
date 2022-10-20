@@ -1,16 +1,14 @@
 {
+    "NAME": "aide",
     "DESCRIPTION": "Permet d'obtenir la page d'aide du bot et une aide pour les commandes",
-    "USAGE": "$help",
-    "EXAMPLE": "$help",
+    "OPTION_COMMAND": "commande",
+    "OPTION_COMMAND_DESCRIPTION": "La commannde pour laquelle vous avez besoin d'aide",
     "HELP": "Voici la liste des commandes disponibles :",
     "HELP_DESCRIPTION": "Vous pouvez également trouver des informations détaillées en cliquant [ici]({{documentation}}) pour accéder à la documentation web.",
-    "COMMAND": "Aide pour la commande : {{command}}",
+    "COMMAND": "Aide pour la commande : {w{command}}",
     "CMD_DESCRIPTION": "Description :",
     "CMD_CATEGORY": "Catégorie :",
-    "CMD_USAGE": "Usage :",
-    "CMD_EXAMPLES": "Exemples :",
-    "CMD_ALIASES": "Alias :",
     "CMD_PERMISSIONS": "Permissions :",
-    "CMD_COOLDOWN": "Slowmode :",
+    "CMD_COOLDOWN": "Mode lent :",
     "FOOTER": "{{botName}} | Version : {{version}}"
 }
