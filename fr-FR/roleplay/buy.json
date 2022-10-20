@@ -1,12 +1,12 @@
 {
-    "NAME": "buy",
-    "DESCRIPTION": "Allows you to buy an item from the shop.",
-    "OPTION_ITEM": "item",
-    "OPTION_ITEM_DESCRIPTION": "The name of the item you want to buy",
-    "NO_STOCK": "There is no stock of that item.",
-    "MAX_ALLOWED": "You can only buy {{maxAllowed}} of that item.",
-    "ROLE_NOT_FOUND": "The role linked to this item could not be found.",
-    "ROLE_HIGHER": "The role linked to this item is higher than my highest role.",
-    "NOT_ENOUGH_MONEY": "You do not have enough money to buy that item.",
-    "SUCCESS": "You successfully bought **{{item}}** for **{{price}}**ama."
+    "NAME": "acheter",
+    "DESCRIPTION": "Vous permet d'acheter un article dans la boutique.",
+    "OPTION_ITEM": "article",
+    "OPTION_ITEM_DESCRIPTION": "Le nom de l'article que vous voulez acheter",
+    "NO_STOCK": "Il n'y a pas de stock de cet article.",
+    "MAX_ALLOWED": "Vous ne pouvez pas acheter cet article plus de {{maxAllowed}} fois.",
+    "ROLE_NOT_FOUND": "Le rôle lié à cet article est introuvable.",
+    "ROLE_HIGHER": "Le rôle lié à cet article est supérieur à mon rôle le plus élevé.",
+    "NOT_ENOUGH_MONEY": "Vous n’avez pas assez d’argent pour acheter cet article.",
+    "SUCCESS": "Vous avez acheté **{{item}}** pour **{{price}}**ama."
 }
