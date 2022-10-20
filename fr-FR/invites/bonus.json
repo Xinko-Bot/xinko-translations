@@ -1,10 +1,10 @@
 {
 	"NAME": "bonus",
-	"DESCRIPTION": "Allows you to add bonus invitations to an user.",
-	"IS_BOT": "Cannot add a bonus to a bot.",
-	"SUCCESS": "The member(s) received their bonus. Note that blacklisted members have been ignored.",
-	"OPTION_AMOUNT": "amount",
-	"OPTION_MEMBER": "member",
-	"OPTION_AMOUNT_DESCRIPTION": "The amount you want to add/remove (add - before the amount to remove)",
-	"OPTION_MEMBER_DESCRIPTION": "The member you want to add/remove the bonus to"
+	"DESCRIPTION": "Permet de voir les permissions que vous avez sur le canal ou celles que vos amis ont.",
+	"IS_BOT": "Impossible de retirer un bonus à un bot.",
+	"SUCCESS": "Voici les permissions de **{{username}}** sur le canal**{{channel}}**:\n\n{{permissions}}",
+	"OPTION_AMOUNT": "quantité",
+	"OPTION_MEMBER": "membre",
+	"OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez ajouter/supprimer (ajoutez - avant le montant à supprimer)",
+	"OPTION_MEMBER_DESCRIPTION": "Le membre pour lequel obtenir les permissions."
 }
