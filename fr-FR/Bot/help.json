@@ -2,7 +2,7 @@
     "NAME": "aide",
     "DESCRIPTION": "Permet d'obtenir la page d'aide du bot et une aide pour les commandes",
     "OPTION_COMMAND": "commande",
-    "OPTION_COMMAND_DESCRIPTION": "La commannde pour laquelle vous avez besoin d'aide",
+    "OPTION_COMMAND_DESCRIPTION": "La commande pour laquelle vous voulez de l'aide",
     "HELP": "Voici la liste des commandes disponibles :",
     "HELP_DESCRIPTION": "Vous pouvez également trouver des informations détaillées en cliquant [ici]({{documentation}}) pour accéder à la documentation web.",
     "COMMAND": "Aide pour la commande : {w{command}}",

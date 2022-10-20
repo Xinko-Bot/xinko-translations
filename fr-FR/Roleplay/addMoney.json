@@ -1,7 +1,10 @@
 {
+    "NAME": "ajouterargent",
     "DESCRIPTION": "Permet d'ajouter de la monnaie à un utilisateur.",
-    "USAGE": "$addmoney <quantité> <@membre>",
-    "EXAMPLE": "$addmoney 100 @Mr¤KayJayDee",
+    "OPTION_USER": "utilisateur",
+    "OPTION_USER_DESCRIPTION": "L'utilisateur auquel vous souhaitez ajouter de l'argent.",
+    "OPTION_AMOUNT": "quantité",
+    "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez ajouter.",
     "IS_BOT": "Impossible d'ajouter de la monnaie à un bot.",
     "TITLE": "De l'argent a été ajouté sur le porte-monnaie de {{username}}.",
     "RESULT": "Vous venez d'ajouter {{amount}}ama au portefeuille de {{user}}."

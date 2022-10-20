@@ -1,7 +1,8 @@
 {
+    "NAME": "voirbalance",
     "DESCRIPTION": "Permet de voir la quantité de monnaie qu'un utilisateur a dans son porte-monnaie.",
-    "USAGE": "$seebalance <@membre>",
-    "EXAMPLE": "$seebalance @Mr¤KayJayDee",
+    "OPTION_USER": "utilisateur",
+    "OPTION_USER_DESCRIPTION": "L'utilisateur dont vous voulez voir le solde.",
     "IS_BOT": "Impossible de voir le porte-monnaie d'un bot.",
     "TITLE": "Porte Monnaie de {{username}}",
     "INFOS": "Cet utilisateur a actuellement {{amount}}ama dans son portefeuille."

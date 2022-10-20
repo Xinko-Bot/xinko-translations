@@ -1,9 +1,9 @@
 {
-    "NAME": "ajoutebot",
+    "NAME": "ajouter",
     "DESCRIPTION": "Permet d'obtenir le lien d'invitation du bot.",
     "TITLE": "Voici les liens pour inviter notre chère Amandine.",
     "NO_PERM": "Aucune permission.",
     "MEMBER_PERM": "Permission Membre.",
-    "MOD_PERM": "Permission Modération.",
+    "MOD_PERM": "Permissions de modération. (Recommandé)",
     "ADMIN_PERM": "Permission Administration."
 }

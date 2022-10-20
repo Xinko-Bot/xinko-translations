@@ -1,8 +1,10 @@
 {
+    "NAME": "classement",
     "DESCRIPTION": "Affiche le top 10 du serveur. (monnaie ou réputation)",
-    "USAGE": "$leaderboard <rep/money>",
-    "EXAMPLE_1": "$leaderboard rep",
-    "EXAMPLE_2": "$leaderboard money",
+    "OPTION_REPUTATION": "réputation",
+    "OPTION_REPUTATION_DESCRIPTION": "Obtenez le classement de réputation.",
+    "OPTION_MONEY": "argent",
+    "OPTION_MONEY_DESCRIPTION": "Obtenez le classement de l'argent.",
     "REP": "Voici les utilisateurs les plus réputés du serveur:",
     "MONEY": "Voici les utilisateurs les plus riches du serveur:",
     "NOTHING": "Aucune informations à afficher...",

@@ -1,9 +1,11 @@
 {
+    "NAME": "retirerbanque",
     "DESCRIPTION": "Permet de supprimer de la monnaie dans la banque d'un utilisateur.",
-    "USAGE": "$removebank <quantité> <@membre>",
-    "EXAMPLE": "$removebank 100 @Mr¤KayJayDee",
+    "OPTION_USER": "utilisateur",
+    "OPTION_USER_DESCRIPTION": "L'utilisateur à qui vous voulez retirer de l'argent en banque.",
+    "OPTION_AMOUNT": "quantité",
+    "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez retirer.",
     "IS_BOT": "Impossible de supprimer de la monnaie sur le compte en banque d'un bot.",
-    "NEGATIVE": "La valeur que vous avez entrée était trop haute par rapport à la quantité que possède cet utilisateur, sa banque a donc été remise à 0.",
     "TITLE": "De l'argent a été retiré sur le compte bancaire de {{username}}.",
     "RESULT": "Vous venez de supprimer {{amount}}ama du compte bancaire de {{user}}."
 }

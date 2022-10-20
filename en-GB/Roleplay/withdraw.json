@@ -1,11 +1,9 @@
 {
+    "NAME": "withdraw",
     "DESCRIPTION": "Allows you to withdraw money from your wallet.",
-    "USAGE": "$withdraw <quantity>",
-    "EXAMPLE_1": "$withdraw 100",
-    "EXAMPLE_2": "$withdraw all",
-    "NO_ARGS": "Please specify a quantity.",
-    "IS_NAN": "Please check the quantity specified. Note that it cannot be negative.",
-    "NOT_ENOUGH": "You do not have this amount in your bank account, you cannot withdraw from your wallet.",
+    "OPTION_AMOUNT": "amount",
+    "OPTION_AMOUNT_DESCRIPTION": "The amount you want to withdraw from your bank account (0 for all).",
     "ALL": "You just withdraw all your money from your bank account to your wallet.",
+    "NOT_ENOUGH": "You owe money to the bank, please deposit some money first.",
     "AMOUNT": "You just withdrawn {{amount}}ama from your bank account to your wallet."
 }

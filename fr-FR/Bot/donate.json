@@ -2,6 +2,6 @@
     "NAME": "donation",
     "DESCRIPTION": "Permet de voir les informations sur comment soutenir le projet.",
     "PAYPAL": "PayPal",
-    "BUY_ME_A_COFFEE": "Buy me a coffee",
-    "TITLE": "Voici comment vous pouvez soutenir le projet. Rien n'est forcé, vous pouvez aider comme vous le souhaitez. :wink:"
+    "BUY_ME_A_COFFEE": "Achetez-moi un café",
+    "INFOS": "Voici comment vous pouvez soutenir le développement du projet. Rien n'est forcé, vous êtes libre d'aider si vous le souhaitez. :wink:"
 }

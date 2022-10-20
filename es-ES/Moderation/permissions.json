@@ -1,7 +1,7 @@
 {
+    "NAME": "permissions",
+    "OPTION_MEMBER": "member",
+    "OPTION_MEMBER_DESCRIPTION": "The member to get permissions from.",
     "DESCRIPTION": "Allows you to see what permissions you have on the channel or what your friends have.",
-    "USAGE": "$permissions [@member]",
-    "EXAMPLE_1": "$permissions",
-    "EXAMPLE_2": "$permissions @Mr¤KayJayDee",
-    "SUCCESS": "Here are the permissions of **{{username}}** on the channel **{{channel}}**:\n\n{{permissions}}"
+    "SUCCESS": "Here are the permissions of **{{username}}** on the channel {{channel}}:\n\n{{permissions}}"
 }

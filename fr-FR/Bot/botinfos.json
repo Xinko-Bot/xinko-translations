@@ -7,7 +7,7 @@
     "DATE": "Date de création",
     "USERS": "Utilisateurs",
     "GUILDS": "Serveurs",
-    "MEMORY": "Utilisation de la mémoire",
-    "TOPGG": "Vote on Top.gg",  
-    "DBL": "Vote on Discord Bot List"
+    "MEMORY": "Utilisation mémoire",
+    "TOPGG": "Voter sur Top.gg",
+    "DBL": "Voter sur Discord Bot List"
 }

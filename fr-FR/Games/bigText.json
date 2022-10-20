@@ -1,7 +1,7 @@
 {
+    "NAME": "grostexte",
     "DESCRIPTION": "Permet de grossir votre texte en emojis.",
-    "USAGE": "$bigtext <message>",
-    "EXAMPLE": "$bigtext Salut, je suis Amandine, je suis le meilleur des bots.",
-    "NO_ARGS": "Merci de spécifier un message.",
-    "LIMIT": "Merci de spécifier un message de moins de 14 caractères."
+    "LIMIT": "Merci de spécifier un message de moins de 14 caractères.",
+    "OPTIONS_TEXT": "texte",
+    "OPTIONS_TEXT_DESCRIPTION": "Le texte que vous voulez agrandir."
 }

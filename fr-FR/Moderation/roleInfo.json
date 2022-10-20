@@ -1,7 +1,7 @@
 {
+    "NAME": "inforole",
+    "OPTION_ROLE": "rôle",
+    "OPTION_ROLE_DESCRIPTION": "Le rôle pour lequel obtenir des informations.",
     "DESCRIPTION": "Permet de voir les informations d'un rôle.",
-    "USAGE": "$roleinfo [@role/ID]",
-    "EXAMPLE_1": "$roleinfo @friends",
-    "EXAMPLE_2": "$roleinfo 123456789\n$roleinfo Staff",
-    "INFOS": "**Informations sur le role:** {{role}}\n\n🔢 | Nombre de membres ayant ce rôle: **{{members}}**\n#️⃣ | Couleur hexadécimale: **{{color}}**\n🆔 | ID: **{{id}}**\n🌐 | Mentionnable: **{{mentionable}}**\n1️⃣ | Position: **{{position}}**\n🤖 | Géré par un bot: **{{managed}}**\n👀 | Affiché séparément: **{{hoist}}**\n🕐 | Date de création: **{{date}}**"
+    "INFOS": "**Informations sur le role:** {{role}}\n\n🔢 | Nombre de membres ayant ce rôle: **{{members}}**\n#️⃣ | Couleur hexadécimale: **{{color}}**\n🙂 | Emoji of the role: **{{roleEmoji}}**\n🆔 | ID: **{{id}}**\n🌐 | Mentionnable: **{{mentionable}}**\n1️⃣ | Position: **{{position}}**\n🤖 | Géré par un bot: **{{managed}}**\n👀 | Affiché séparément: **{{hoist}}**\n🕐 | Date de création: **{{date}}**"
 }

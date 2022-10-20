@@ -1,9 +1,7 @@
 {
+    "NAME": "supprimerarticle",
     "DESCRIPTION": "Vous permet de voir et acheter des objets du magasin du serveur",
-    "USAGE": "$shop",
-    "EXAMPLE": "$shop",
-    "ASK_ITEM_NUMBER": "{{loading}} Merci d'envoyer le numéro de l'objet que vous voulez suprimmer.",
-    "CANCELED": "Le processus de suppression d'un objet a été annulé.",
-    "CONFIRM": "{{loading}} Veuillez confirmer que vous souhaitez supprimer cet objet:\n{{eName}} Nom: {{name}}\n{{ePrice}} Prix: {{price}}",
-    "SUCCESS": "{{eName}} Nom: {{name}}\n{{ePrice}} Prix: {{price}}ama\n(notez que cet objet ne sera pas supprimé des inventaires des membres)"
+    "OPTION_ITEM": "article",
+    "OPTION_ITEM_DESCRIPTION": "Le nom de l'article que vous voulez supprimer",
+    "DELETED": "Vous avez supprimé l'article sélectionné avec succès\n(Notez que cet article ne sera pas supprimé des inventaires des membres)"
 }

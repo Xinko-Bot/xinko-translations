@@ -1,8 +1,11 @@
 {
+	"NAME": "ajouterbank",
 	"DESCRIPTION": "Permet d'ajouter de la monnaie dans la banque d'un utilisateur.",
-	"USAGE": "$addbank <quantité> <@membre>",
-	"EXAMPLE": "$addbank 100 @Mr¤KayJayDee",
 	"IS_BOT": "Impossible d'ajouter de la monnaie sur le compte en banque d'un bot.",
 	"TITLE": "De l'argent a été ajouté sur le compte bancaire de {{username}}.",
-	"RESULT": "Vous venez d'ajouter {{amount}}ama au compte bancaire de {{user}}."
+	"RESULT": "Vous venez d'ajouter {{amount}}ama au compte bancaire de {{user}}.",
+	"OPTION_USER": "utilisateur",
+	"OPTION_USER_DESCRIPTION": "L'utilisateur auquel vous voulez ajouter de l'argent en banque.",
+	"OPTION_AMOUNT": "quantité",
+	"OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez ajouter."
 }

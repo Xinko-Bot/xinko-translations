@@ -1,9 +1,10 @@
 {
+    "NAME": "restoreinvites",
     "DESCRIPTION": "Allows you to restore the invitations after a reinitialization of these.",
-    "USAGE": "$restoreinvites [@member]",
-    "EXAMPLE": "$restoreinvites @Mr¤KayJayDee",
     "CONFIRM_ALL": "{{loading}} Please confirm that you are sure you want to restore invitations for all server members. Click the confirm button to confirm.",
     "CONFIRM_MEMBER": "{{loading}} Please confirm that you are sure you want to restore the invitations of the mentioned member (s). Click the confirm button to confirm.",
     "SUCCESS_ALL": "All members' invitations have been successfully restored.",
-    "SUCCESS_MEMBER": "The invitations of the mentioned member (s) have been successfully restored."
+    "SUCCESS_MEMBER": "The invitations of the mentioned member (s) have been successfully restored.",
+    "OPTION_MEMBER": "member",
+    "OPTION_MEMBER_DESCRIPTION": "The member you want to restore invites for."
 }

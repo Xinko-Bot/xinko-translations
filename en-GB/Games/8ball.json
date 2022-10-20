@@ -1,7 +1,7 @@
 {
+    "NAME": "8ball",
     "DESCRIPTION": "Lets you ask the magic ball a question.",
-    "USAGE": "$8ball <your question>",
-    "EXAMPLE": "$8ball Are you the best of the bots?",
-    "NO_ARGS": "Please ask a question.",
-    "NOT_A_QUESTION": "This is not a question, make sure it contains with a ``?``"
+    "NOT_A_QUESTION": "This is not a question, make sure it contains with a ``?``",
+    "OPTION_QUESTION": "question",
+    "OPTION_QUESTION_DESCRIPTION": "The question you want to ask the 8ball."
 }

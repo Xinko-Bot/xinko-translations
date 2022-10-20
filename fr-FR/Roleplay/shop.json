@@ -1,7 +1,6 @@
 {
+  "NAME": "boutique",
   "DESCRIPTION": "Vous permet de voir et acheter des objets du magasin du serveur",
-  "USAGE": "$shop",
-  "EXAMPLE": "$shop",
   "NO_ITEM": "Désolé, il n'y à aucun objet en magasin.",
   "LIST": "Voici les objet dispnible dans le magasin de ce serveur.",
   "NOT_ROLE": "Pas un rôle",
