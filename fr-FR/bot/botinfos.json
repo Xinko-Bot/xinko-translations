@@ -1,13 +1,13 @@
 {
-    "NAME": "infosbot",
-    "DESCRIPTION": "Affiche les informations sur le bot.",
-    "TITLE": "**Statistiques de{{botName}}**\n[Serveur de support]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Me supporter]({{buyMeACoffee}})",
-    "OWNER": "Propriétaire",
-    "VERSION": "Version du bot",
-    "DATE": "Date de création",
-    "USERS": "Utilisateurs",
-    "GUILDS": "Serveurs",
-    "MEMORY": "Utilisation mémoire",
-    "TOPGG": "Voter sur Top.gg",
-    "DBL": "Voter sur Discord Bot List"
+    "NAME": "botinfos",
+    "DESCRIPTION": "Displays information about the bot.",
+    "TITLE": "**{{botName}}'s statistics**\n[Support server]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Support me]({{buyMeACoffee}})",
+    "OWNER": "Owner",
+    "VERSION": "Bot's version",
+    "DATE": "Creation date",
+    "USERS": "Users",
+    "GUILDS": "Servers",
+    "MEMORY": "Memory usage",
+    "TOPGG": "Vote on Top.gg",
+    "DBL": "Vote on Discord Bot List"
 }
