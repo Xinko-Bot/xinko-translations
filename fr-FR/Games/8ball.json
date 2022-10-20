@@ -3,5 +3,5 @@
     "DESCRIPTION": "Permet de poser une question à la boule magique.",
     "NOT_A_QUESTION": "Ce n'est pas une question, vérifiez que celle-ci contient ``?``",
     "OPTION_QUESTION": "question",
-    "OPTION_QUESTION_DESCRIPTION": "The question you want to ask the 8ball."
+    "OPTION_QUESTION_DESCRIPTION": "La question que vous voulez poser à la 8ball."
 }
