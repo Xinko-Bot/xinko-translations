@@ -1,0 +1,15 @@
+{
+    "NAME": "profile",
+    "DESCRIPTION": "Allows you to view your profile or that of a member.",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to see the profile of.",
+    "TITLE": "{{username}}'s Profile",
+    "BIO": "{{emoji}} **Biography:**\n> {{biography}}",
+    "REP": "{{emoji}} **Reputation points:** {{points}}",
+    "COLOR": "{{emoji}} **Embed Color:** ``{{color}}``",
+    "BADGES": "{{emoji}} **Events Badges:** {{badges}}",
+    "IS_BOT": "You cannot see the profile of a bot.",
+    "AMANDINE_TITLE": "Amandine's Profile",
+    "AMANDINE_DESCRIPTION": "Amandine is a multipurpose bot that can help you create and manage your discord servers. She has a lot of features, such as moderation, fun, and much more. She is also very customizable, and you can change her language and much more.",
+    "AMANDINE_INVITE": "Invite to your server"
+}

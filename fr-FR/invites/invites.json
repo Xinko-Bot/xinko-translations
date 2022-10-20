@@ -1,0 +1,10 @@
+{
+    "NAME": "invitations",
+    "DESCRIPTION": "Permet de voir vos invitations ou celles d'un ami.",
+    "IS_BOT": "Impossible de voir les invitations d'un bot.",
+    "BLACKLISTED": "Vous ou l'utilisateur mentionné est blacklisté sur ce serveur, veuillez contacter un modérateur / administrateur.",
+    "INVITES": "{{invitations}} invitations ({{normal}} normales, {{bonus}} bonus, {{fake}} fausses, {{left}} partis)",
+    "NEXT_RANK": "\nEncore {{invitationsLeft}} invitations pour obtenir le role **{{nextRank}}**",
+    "OPTIONS_MEMBER": "membre",
+    "OPTIONS_MEMBER_DESCRIPTION": "Le membre pour lequel consulter les invitations."
+}

@@ -1,0 +1,19 @@
+{
+    "NAME": "premium",
+    "OPTION_PREMIUM": "premium",
+    "OPTION_PREMIUM_DESCRIPTION": "Get a link to subscribe to premium.",
+    "OPTION_PREMIUM_GOLD": "premium_gold",
+    "OPTION_PREMIUM_GOLD_DESCRIPTION": "Get a link to subscribe to premium gold.",
+    "OPTION_DASHBOARD": "dashboard",
+    "OPTION_DASHBOARD_DESCRIPTION": "Get the dashboard to manage your guild subscription.",
+    "DESCRIPTION": "Allow you to get a link to subscribe to Amandine premium",
+    "PORTAL_DM": "Here is the link to your portal where you can manage your subscription: {{url}}",
+    "GUILD_SUB": "Here is your active subscription infos for this guild {{planName}}.\n{{infos}}\n(You'll also should have gotten a dm with the dashboard link to manage the subscription.)",
+    "TRIAL_SUB": "The trial started on {{start}} and will end on {{end}}.",
+    "SUB": "It will expire on {{expire}}\n(You'll also should have gotten a dm with the dashboard link to manage the subscription.)",
+    "NO_GUILD_SUB": "You don't have any active subscription for this guild.",
+    "PAID_BY": "It is being paid by {{user}}.",
+    "UNKNOWN_USER": "Unknown user",
+    "SUBSCRIBE": "Click [here]({{url}}) to subscribe for {{planName}}.",
+    "ALREADY_SUB": "This guild already have a subscription for {{planName}}.\n{{paidBy}}\n{{infos}}"
+}

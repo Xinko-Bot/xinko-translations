@@ -1,0 +1,10 @@
+{
+    "NAME": "restorerinvitations",
+    "DESCRIPTION": "Permet de restaurer les invitations après une reinitialisation de celles-ci.",
+    "CONFIRM_ALL": "{{loading}} Veuillez confirmer que vous êtes sûr de vouloir restaurer les invitations pour tous les membres du serveur. Cliquez sur le bouton de confirmation pour confirmer.",
+    "CONFIRM_MEMBER": "{{loading}} Veuillez confirmer que vous êtes sûr de vouloir restaurer les invitations du membre mentionné. Cliquez sur le bouton de confirmation pour confirmer.",
+    "SUCCESS_ALL": "Les invitations de tous les membres ont bien été restorées.",
+    "SUCCESS_MEMBER": "Les invitations du/des membres mentionné(s) ont bien été restorées.",
+    "OPTION_MEMBER": "membre",
+    "OPTION_MEMBER_DESCRIPTION": "Le membre pour lequel vous voulez restaurer les invitations."
+}

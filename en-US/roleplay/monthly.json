@@ -1,0 +1,6 @@
+{
+    "NAME": "monthly",
+    "DESCRIPTION": "Allows you to collect a reward every 30 days.",
+    "TITLE": "Monthly reward of {{username}}",
+    "MONTHLY": "You just collected {{amount}}ama."
+}

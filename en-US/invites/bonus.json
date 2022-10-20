@@ -1,0 +1,10 @@
+{
+	"NAME": "bonus",
+	"DESCRIPTION": "Allows you to add bonus invitations to an user.",
+	"IS_BOT": "Cannot add a bonus to a bot.",
+	"SUCCESS": "The member(s) received their bonus. Note that blacklisted members have been ignored.",
+	"OPTION_AMOUNT": "amount",
+	"OPTION_MEMBER": "member",
+	"OPTION_AMOUNT_DESCRIPTION": "The amount you want to add/remove (add - before the amount to remove)",
+	"OPTION_MEMBER_DESCRIPTION": "The member you want to add/remove the bonus to"
+}
