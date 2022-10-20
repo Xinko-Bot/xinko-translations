@@ -1,6 +1,6 @@
 {
-    "NAME": "garderrole",
-    "DESCRIPTION": "Permet de configurer si les membres gardent leur rôles même s'ils n'ont plus assez d'invitations.",
-    "ENABLED": "Keeprank est maintenant activé.",
-    "DISABLED": "Keeprank est maintenant désactivé."
+    "NAME": "setkeep",
+    "DESCRIPTION": "Allows you to configure whether members keep their roles even if they don't have enough invitations.",
+    "ENABLED": "Keeprank is now activated.",
+    "DISABLED": "Keeprank is now deactivated."
 }
