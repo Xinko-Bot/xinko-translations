@@ -1,7 +1,7 @@
 {
     "NAME": "removemoney",
     "DESCRIPTION": "Permet de supprimer de la monnaie à un utilisateur.",
-    "OPTION_USER": "user",
+    "OPTION_USER": "utilisateur",
     "OPTION_USER_DESCRIPTION": "The user you want to remove money from their bank.",
     "OPTION_AMOUNT": "amount",
     "OPTION_AMOUNT_DESCRIPTION": "The amount you want to remove.",
