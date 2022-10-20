@@ -1,5 +1,5 @@
 {
-    "CONTENT": "{{emoji}} Émoji renommé",
-    "OLD_NAME": "Ancien nom :",
-    "NEW_NAME": "Nouveau nom :"
+    "CONTENT": "{{emoji}} Renamed emoji",
+    "OLD_NAME": "Old name :",
+    "NEW_NAME": "New name :"
 }
