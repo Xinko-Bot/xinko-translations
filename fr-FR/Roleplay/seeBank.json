@@ -1,5 +1,5 @@
 {
-    "NAME": "seebank",
+    "NAME": "voirbanque",
     "DESCRIPTION": "Permet de voir la quantité de monnaie qu'un utilisateur a sur son compte en banque.",
     "OPTION_USER": "utilisateur",
     "OPTION_USER_DESCRIPTION": "L'utilisateur dont vous voulez voir la banque.",
