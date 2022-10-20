@@ -1,8 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to configure your gender.",
-    "USAGE": "$setgender <gender>",
-    "EXAMPLE_1": "$setgender male",
-    "EXAMPLE_2": "$setgender female",
-    "INVALID_GENDER": "Please specify a valid gender. Search and select one from the autocomplete menu",
-    "SUCCESS": "Your gender is now configured on: {{gender}}"
-}

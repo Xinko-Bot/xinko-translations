@@ -1,7 +1,0 @@
-{
-	"DESCRIPTION": "Allows you to add bonus invitations to an user.",
-	"USAGE": "$addbonus <quantity> @member1 @member2 ....",
-	"EXAMPLE": "$addbonus 10 @Mr¤KayJayDee @Alex",
-	"IS_BOT": "Cannot add a bonus to a bot.",
-	"SUCCESS": "The member(s) received their bonus. Note that blacklisted members have been ignored."
-}

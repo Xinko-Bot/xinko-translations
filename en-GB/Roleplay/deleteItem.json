@@ -1,7 +1,0 @@
-{
-    "NAME": "deleteitem",
-    "DESCRIPTION": "Allows you to see and buy items from the server shop",
-    "OPTION_ITEM": "item",
-    "OPTION_ITEM_DESCRIPTION": "The name of the item you want to delete",
-    "DELETED": "You successfully deleted the selected item\n(note that this item will not be removed from member inventories)"
-}

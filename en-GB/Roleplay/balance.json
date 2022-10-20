@@ -1,6 +1,0 @@
-{
-    "NAME": "balance",
-    "DESCRIPTION": "Allows you to see the amount of money you have in your wallet.",
-    "TITLE": "{{username}}'s wallet",
-    "INFOS": "You currently have {{balance}}ama in your wallet."
-}
