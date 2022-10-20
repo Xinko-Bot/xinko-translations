@@ -8,6 +8,6 @@
     "ROLLING": "La machine à sous est en train de tourner...\n\n",
     "JACKPOT": "!! Gros Lot !!",
     "NOT_ENOUGH": "Vous n'avez pas assez d'argent.",
-    "OPTION_AMOUNT": "amount",
-    "OPTION_AMOUNT_DESCRIPTION": "The amount you want to bet."
+    "OPTION_AMOUNT": "quantité",
+    "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous voulez parier."
 }
