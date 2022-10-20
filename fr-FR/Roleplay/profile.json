@@ -1,12 +1,15 @@
 {
+    "NAME": "profile",
     "DESCRIPTION": "Permet de voir votre profil ou celui d'un membre.",
-    "USAGE": "$profile [@membre]",
-    "EXAMPLE_1": "$profile",
-    "EXAMPLE_2": "$profile @Mr¤KayJayDee",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to see the profile of.",
     "TITLE": "Profil de {{username}}",
     "BIO": "{{emoji}} **Biographie:** \n> {{biography}}",
-    "SEX": "{{emoji}} **Genre:** {{gender}}",
     "REP": "{{emoji}} **Points de réputation:** {{points}}",
+    "COLOR": "{{emoji}} **Couleur d'Embeds :** ``{{color}} `` ``",
     "BADGES": "{{emoji}} **Badges d'évènements:** {{badges}}",
-    "COLOR": "{{emoji}} **Couleur d'Embeds :** ``{{color}} `` ``"
+    "IS_BOT": "You cannot see the profile of a bot.",
+    "AMANDINE_TITLE": "Amandine's Profile",
+    "AMANDINE_DESCRIPTION": "Amandine is a multipurpose bot that can help you create and manage your discord servers. She has a lot of features, such as moderation, fun, and much more. She is also very customizable, and you can change her language and much more.",
+    "AMANDINE_INVITE": "Invite to your server"
 }
