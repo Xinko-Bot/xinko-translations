@@ -1,5 +1,5 @@
 {
-    "NAME": "inviteblacklist",
+    "NAME": "blacklisteinvite",
     "DESCRIPTION": "Permet de blacklister un membre du système d'invitations.",
     "ALREADY_BLACKLISTED": "Ce membre est déja blacklisté.",
     "ADD_SUCCESS": "Ce membre a bien été ajouté à la blacklist. ",
