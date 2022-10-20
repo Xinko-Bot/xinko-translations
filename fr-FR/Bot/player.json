@@ -1,5 +1,5 @@
 {
-    "NAME": "player",
+    "NAME": "joueur",
     "DESCRIPTION": "Allow you to send a form to ask players to join your game when you need help or just for fun.",
     "INVALID_DATE": "The date you entered is invalid. Please use the format {{format}}",
     "INVALID_TIME": "The time you entered is invalid. Please use the format {{format}}",
