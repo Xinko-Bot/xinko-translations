@@ -1,3 +1,3 @@
 {
-    "CONTENT": "{{emoji}} Instance de stage crée : {{channel}}\nSujet : {{topic}}"
+    "CONTENT": "{{emoji}} Stage instance created : {{channel}}\nTopic: {{topic}}"
 }
