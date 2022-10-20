@@ -1,0 +1,7 @@
+{
+	"NAME": "ascii",
+	"DESCRIPTION": "Allows asciification of a text.",
+	"OPTION_TEXT": "text",
+	"OPTION_TEXT_DESCRIPTION": "The text you want to asciify.",
+	"LIMIT": "Please specify a message of less than 14 characters."
+}

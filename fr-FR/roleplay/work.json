@@ -1,0 +1,6 @@
+{
+    "NAME": "travail",
+    "DESCRIPTION": "Permet de récupérer une récompense toutes les 6h.",
+    "TITLE": "Récompense de travail de {{username}}",
+    "WORK": "Vous venez de collecter {{amount}}ama."
+}

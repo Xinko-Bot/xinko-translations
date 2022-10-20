@@ -1,0 +1,7 @@
+{
+    "NAME": "grostexte",
+    "DESCRIPTION": "Permet de grossir votre texte en emojis.",
+    "LIMIT": "Merci de spécifier un message de moins de 14 caractères.",
+    "OPTIONS_TEXT": "texte",
+    "OPTIONS_TEXT_DESCRIPTION": "Le texte que vous voulez agrandir."
+}

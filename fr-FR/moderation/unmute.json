@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Permet de démuter un utilisateur.",
+    "USAGE": "$unmute <@membre>",
+    "EXAMPLE": "$unmute @Mr¤KayJayDee",
+    "NO_MENTION": "Merci de mentionner un membre.",
+    "SUCCESS": "{{user}} a été démuté avec succès par {{author}} (Cas : #{{case}})",
+    "YOURSELF": "Vous ne pouvez pas vous démuter vous-même.",
+    "NOT_MUTED": "Cet utilisateur n'est pas muet.",
+    "SUPERIOR": "Vous ne pouvez pas démuter un membre ayant des rôles plus élevés que vous."
+}

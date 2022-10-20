@@ -1,0 +1,7 @@
+{
+    "NAME": "infocanal",
+    "DESCRIPTION": "Permet de voir les informations d'un canal.",
+    "OPTION_CHANNEL": "canal",
+    "OPTION_CHANNEL_DESCRIPTION": "Le canal pour lequel obtenir des informations.",
+    "INFOS": "**Information du canal :** {{channel}}\n\n🆔 | ID: **{{id}}**\n🕐 | Date de création : **{{date}}**\n📕 | Sujet: **{{topic}}**\n🔞 | NSFW: **{{nsfw}}**\n🌍 | Région vocale (si applicable): **{{voiceRegion}}**"
+}

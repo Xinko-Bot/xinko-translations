@@ -1,0 +1,16 @@
+{
+    "NAME": "purge",
+    "OPTIONS_AMOUNT": "quantité",
+    "OPTIONS_AMOUNT_DESCRIPTION": "La quantité que vous voulez effacer. (0 pour tous)",
+    "OPTIONS_USER": "utilisateur",
+    "OPTIONS_USER_DESCRIPTION": "L'utilisateur pour lequel vous voulez effacer les messages. (0 pour tous)",
+    "DESCRIPTION": "Permet de nettoyer les messages d'un canal.",
+    "CANCELED": "La suppression de tous les messages du salon à été annulée.",
+    "CONFIRM_ALL": "{{loading}} Merci de confirmer que vous êtes sûr de vouloir supprimer tous les messages du canal, celui-ci sera donc supprimé et cloné. Tapez ``-confirm`` pour confirmer ou ``cancel`` pour annuler.",
+    "TIMEOUT": "Le temps est écoulé, vous n'avez pas validé que vous vouliez supprimer tous les messages du canal.",
+    "SUCCESS_ALL": "Le canal a bien été nettoyé.",
+    "INVALID": "Merci de spécifier une quantité valide.",
+    "SYSTEM": "Impossible de supprimer tous les messages du canal car il s'agit d'un canal système important.",
+    "SUCCESS_USER": "**{{amount}}** messages de **{{name}}** ont bien été supprimés.",
+    "SUCCESS": "**{{amount}}** messages ont bien été supprimés."
+}

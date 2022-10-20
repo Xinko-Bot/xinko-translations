@@ -1,0 +1,5 @@
+{
+    "CONTENT": "{{emoji}} {{user}} {{action}} dans le salon vocal #{{channel}}",
+    "SELF": "s'est démuté",
+    "SERVER": "à été démuté"
+}
