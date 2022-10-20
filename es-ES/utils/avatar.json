@@ -1,0 +1,8 @@
+{
+    "NAME": "avatar",
+    "DESCRIPTION": "Allows you to see your profile picture or that of your friends.",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to get the avatar of.",
+    "TITLE": "{{user}}'s avatar",
+    "TEXT": "Click on the image size you want to see it in your browser: \n{{urls}}"
+}
