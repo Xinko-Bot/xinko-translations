@@ -1,7 +1,0 @@
-{
-    "DESCRIPTION": "Permet de retirer des invitations bonus à un utilisateur.",
-    "USAGE": "$removebonus <quantité> @membre1 @membre2 ....",
-    "EXAMPLE": "$removebonus 10 @Mr¤KayJayDee @Alex",
-    "IS_BOT": "Impossible de retirer un bonus à un bot.",
-    "SUCCESS": "Le/les membres a/ont perdu leur bonus. Notez que les membres blacklisté ont été ignorés."
-}

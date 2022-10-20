@@ -1,6 +1,0 @@
-{
-    "DESCRIPTION": "Permet de faire des papouilles à un membre.",
-    "USAGE": "$cuddle <@membre>",
-    "EXAMPLE": "$cuddle @Mr¤KayJayDee",
-    "MESSAGE": "**{{author}}** vient de faire des papouilles à **{{user}}**"
-}

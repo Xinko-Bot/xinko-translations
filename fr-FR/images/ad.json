@@ -1,5 +1,0 @@
-{
-    "DESCRIPTION": "Vous permet de générer une image publicitaire avec votre photo de profil ou celle de vos amis.",
-    "USAGE": "$ad <@membre>",
-    "EXAMPLE": "$ad @Mr¤KayJayDee"
-}

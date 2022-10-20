@@ -1,6 +1,0 @@
-{
-    "NAME": "daily",
-    "DESCRIPTION": "Allows you to collect a reward every 24 hours.",
-    "TITLE": "Daily reward from {{username}}",
-    "DAILY": "You just collected {{amount}}ama."
-}

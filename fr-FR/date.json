@@ -1,4 +1,0 @@
-{
-    "SHORT": "{{day}} {{month}} {{year}}",
-    "LONG": "{{day}} {{month}} {{year}} à {{hour}}h{{minutes}}"
-}

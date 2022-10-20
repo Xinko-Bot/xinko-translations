@@ -1,9 +1,0 @@
-{
-    "NAME": "ajouter",
-    "DESCRIPTION": "Permet de récupérer l'icône du serveur.",
-    "TITLE": "Voici la liste des utilisateurs bannis",
-    "NO_PERM": "Aucune permission.",
-    "MEMBER_PERM": "Permission Membre.",
-    "MOD_PERM": "Permissions de modération. (Recommandé)",
-    "ADMIN_PERM": "Permission Administration."
-}

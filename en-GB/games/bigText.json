@@ -1,7 +1,0 @@
-{
-    "NAME": "bigtext",
-    "DESCRIPTION": "Allow you to size up your text into emojis.",
-    "LIMIT": "Please specify a message of less than 14 characters.",
-    "OPTIONS_TEXT": "text",
-    "OPTIONS_TEXT_DESCRIPTION": "The text you want to make bigger."
-}
