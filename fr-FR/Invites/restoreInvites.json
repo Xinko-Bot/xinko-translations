@@ -5,6 +5,6 @@
     "CONFIRM_MEMBER": "{{loading}} Veuillez confirmer que vous êtes sûr de vouloir restaurer les invitations du membre mentionné. Cliquez sur le bouton de confirmation pour confirmer.",
     "SUCCESS_ALL": "Les invitations de tous les membres ont bien été restorées.",
     "SUCCESS_MEMBER": "Les invitations du/des membres mentionné(s) ont bien été restorées.",
-    "OPTION_MEMBER": "member",
+    "OPTION_MEMBER": "membre",
     "OPTION_MEMBER_DESCRIPTION": "The member you want to restore invites for."
 }
