@@ -1,0 +1,10 @@
+{
+    "NAME": "clearinvites",
+    "DESCRIPTION": "Allows you to delete all invitations for a member or all members.",
+    "CONFIRM_ALL": "{{loading}} Please confirm that you are sure you want to reset invitations for all server members. Click the confirm button to confirm.",
+    "CONFIRM_MEMBER": "{{loading}} Please confirm that you are sure you want to reset the invitations of the mentioned member(s). Click the confirm button to confirm.",
+    "SUCCESS_ALL": "All members's invitations have been successfully reset.",
+    "SUCCESS_MEMBER": "The invitations of the mentioned member (s) have been successfully reset.",
+    "OPTION_MEMBER": "member",
+    "OPTION_MEMBER_DESCRIPTION": "The member you want to clear invites for."
+}
