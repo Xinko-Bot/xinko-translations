@@ -1,6 +1,6 @@
 {
     "NAME": "parametres",
-    "DESCRIPTION": "Configurez tout ce que vous voulez dans le bot avec un menu intuitif.",
+    "DESCRIPTION": "Permet de chatouiller un membre.",
     "TITLE": "Bienvenue sur le panneau de configuration des paramètres de votre serveur.",
     "INSTRUCTIONS": "Cliquez sur n'importe quel bouton pour choisir ce que vous voulez modifier:",
     "CONFIGURE": "Configurer",
