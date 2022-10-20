@@ -1,5 +1,5 @@
 {
-    "NAME": "infoserveur",
-    "DESCRIPTION": "Permet de voir les informations du serveur.",
-    "INFOS": "**{{name}} - Informations**\n\n👑 | Propriétaire du serveur: **{{owner}}**\n🔤 | Nom du serveur: **{{name}}**\n🕐 | Date de création: **{{date}}**\n🛂 | Niveau de vérification: **{{verification}}**\n🔢 | Nombre de membres: **{{memberCount}}**\n👨 | Humains : **{{humans}}**\n🤖 | Bots: **{{bots}}**\n📌 | Nombre de canaux: **{{channels}}**\n📕 | Nombre de rôles: **{{roles}}**\n💯 | Nombre d'émojis: **{{emojis}}**"
+    "NAME": "serverinfo",
+    "DESCRIPTION": "Allows you to view the server's information.",
+    "INFOS": "**{{name}} - Informations**\n\n👑 | Server owner: **{{owner}}**\n🔤 | Server name: **{{name}}**\n🕐 | Creation date: **{{date}}**\n🛂 | Verification level: **{{verification}}**\n🔢 | Number of members: **{{memberCount}}**\n👨 | Humans: **{{humans}}**\n🤖 | Bots: **{{bots}}**\n📌 | Number of channels: **{{channels}}**\n📕 | Number of roles: **{{roles}}**\n💯 | Number of emojis: **{{emojis}}**"
 }
