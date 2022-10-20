@@ -1,8 +1,8 @@
 {
-    "NAME": "inviteabot",
+    "NAME": "inviteunbot",
     "DESCRIPTION": "Permet d'avoir un lien d'invitation en mentionnant un bot.",
     "OPTION_BOT": "bot",
-    "OPTION_BOT_DESCRIPTION": "The bot you want to invite.",
+    "OPTION_BOT_DESCRIPTION": "Le bot que vous voulez inviter.",
     "IS_USER_MENTION": "Vous ne pouvez pas créer de lien d'invitation pour un utilisateur.",
     "SUCCESS": "Voici les liens pour inviter {{username}} ({{id}})"
 }
