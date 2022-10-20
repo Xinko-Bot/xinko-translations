@@ -1,5 +1,10 @@
 {
     "CONTENT": "{{emoji}} Message from {{member}} ({{username}}) deleted in {{channel}}",
     "MESSAGE": "Message content:",
-    "SYSTEM": "System message."
+    "USER_JOIN": "{{emoji}} Join message for {{member}} ({{username}}) has been deleted in {{channel}}",
+    "GUILD_BOOST": "{{emoji}} Boost message has been deleted in {{channel}}",
+    "AUTOMODERATION": "{{emoji}} AutoModeration message has been deleted in {{channel}}",
+    "COMMAND": "{{emoji}} Command message has been deleted in {{channel}}",
+    "DISCOVERY": "{{emoji}} Discovery infos message has been deleted in {{channel}}",
+    "OTHER": "{{emoji}} A system message has been deleted in {{channel}}"
 }
