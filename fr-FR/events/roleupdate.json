@@ -1,5 +1,5 @@
 {
-    "CONTENT": "{{emoji}} Role renamed",
-    "OLD_NAME": "Old name :",
-    "NEW_NAME": "New name :"
+    "CONTENT": "{{emoji}} Rôle renommé",
+    "OLD_NAME": "Ancien nom :",
+    "NEW_NAME": "Nouveau nom :"
 }
