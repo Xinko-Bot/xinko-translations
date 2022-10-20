@@ -1,7 +1,7 @@
 {
     "NAME": "permissions",
-    "OPTION_MEMBER": "membre",
-    "OPTION_MEMBER_DESCRIPTION": "Le membre pour lequel obtenir les permissions.",
-    "DESCRIPTION": "Permet de voir les permissions que vous avez sur le canal ou celles que vos amis ont.",
-    "SUCCESS": "Voici les permissions de **{{username}}** sur le canal**{{channel}}**:\n\n{{permissions}}"
+    "OPTION_MEMBER": "member",
+    "OPTION_MEMBER_DESCRIPTION": "The member to get permissions from.",
+    "DESCRIPTION": "Allows you to see what permissions you have on the channel or what your friends have.",
+    "SUCCESS": "Here are the permissions of **{{username}}** on the channel {{channel}}:\n\n{{permissions}}"
 }
