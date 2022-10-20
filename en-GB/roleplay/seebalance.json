@@ -1,0 +1,9 @@
+{
+    "NAME": "seebalance",
+    "DESCRIPTION": "Allows you to see how much change a user has in their wallet.",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to see the balance of.",
+    "IS_BOT": "Cannot see a bot's wallet.",
+    "TITLE": "{{username}}'s wallet",
+    "INFOS": "This user currently has {{amount}}ama in his wallet."
+}
