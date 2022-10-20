@@ -1,7 +1,7 @@
 {
-    "NAME": "inventaire",
-    "DESCRIPTION": "Vous permet de voir les objets que vous avez dans votre inventaire.",
-    "LIST": "Voici les objets que vous avez dans votre inventaire.",
-    "PRICE": "Prix : {{price}}\nQuantité : {{amount}}",
-    "NO_ITEM": "Vous n'avez aucun objet dans votre inventaire."
+    "NAME": "inventory",
+    "DESCRIPTION": "Allows you to see the items you have in your inventory.",
+    "LIST": "Here are the items you have in your inventory.",
+    "PRICE": "Price: {{price}}\nAmount: {{amount}}",
+    "NO_ITEM": "You have no items in your inventory."
 }
