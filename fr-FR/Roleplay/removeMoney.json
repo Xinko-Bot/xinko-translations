@@ -1,9 +1,11 @@
 {
+    "NAME": "removemoney",
     "DESCRIPTION": "Permet de supprimer de la monnaie à un utilisateur.",
-    "USAGE": "$removemoney <quantité> <@membre>",
-    "EXAMPLE": "$removemoney 100 @Mr¤KayJayDee",
+    "OPTION_USER": "user",
+    "OPTION_USER_DESCRIPTION": "The user you want to remove money from their bank.",
+    "OPTION_AMOUNT": "amount",
+    "OPTION_AMOUNT_DESCRIPTION": "The amount you want to remove.",
     "IS_BOT": "Impossible de supprimer de la monnaie à un bot.",
-    "NEGATIVE": "La valeur que vous avez entrée était trop haute par rapport à la quantité que possède cet utilisateur, son porte-monnaie a donc été remis à 0.",
     "TITLE": "Argent retiré du porte-monnaie de {{username}}.",
     "RESULT": "Vous venez de retirer {{amount}}ama du portefeuille de {{user}}."
 }
