@@ -1,0 +1,16 @@
+{
+    "NAME": "clear",
+    "OPTIONS_AMOUNT": "amount",
+    "OPTIONS_AMOUNT_DESCRIPTION": "The amount you want to clear. (0 for all)",
+    "OPTIONS_USER": "user",
+    "OPTIONS_USER_DESCRIPTION": "The user you want to clear the messsages of. (0 for all)",
+    "DESCRIPTION": "Allows you to clean up a channel's messages.",
+    "CANCELED": "The deletion of all messages from the channel has been canceled.",
+    "CONFIRM_ALL": "{{loading}} Please confirm that you are sure you want to delete all messages from the channel, so the channel will be deleted and cloned. Click the confirm button to confirm.",
+    "TIMEOUT": "The time is up, you have not validated that you want to delete all the messages from the channel.",
+    "SUCCESS_ALL": "The channel has been cleaned up successfully.",
+    "INVALID": "Please specify a valid quantity.",
+    "SYSTEM": "Cannot purge all messages from the channel as it is an important system channel.",
+    "SUCCESS_USER": "**{{amount}}** messages from **{{name}}** have been successfully deleted.",
+    "SUCCESS": "**{{amount}}** messages have been deleted."
+}
