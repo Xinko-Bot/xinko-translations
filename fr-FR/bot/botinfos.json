@@ -9,5 +9,7 @@
     "GUILDS": "Serveurs",
     "MEMORY": "Utilisation mémoire",
     "TOPGG": "Voter sur Top.gg",
-    "DBL": "Voter sur Discord Bot List"
+    "DBL": "Voter sur Discord Bot List",
+    "STATS": "**📊 Commands Statistics**\n\n💯 Total command ran: **{{totalRan}}**\n\n🏆 Most used command: \n{{mostUsed}}\n\n⭐ Users Favorite Categories: \n{{favoriteCategory}}",
+    "RAN_AMOUNT": "ran **{{amount}}** times"
 }
