@@ -1,7 +1,7 @@
 {
     "NAME": "infosbot",
     "DESCRIPTION": "Affiche les informations sur le bot.",
-    "TITLE": "**Statistiques de{{botName}}**\n[Serveur de support]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Me supporter]({{buyMeACoffee}})",
+    "TITLE": "**Statistiques d'{{botName}}**\n[Serveur de support]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Me supporter]({{buyMeACoffee}})",
     "OWNER": "Propriétaire",
     "VERSION": "Version du bot",
     "DATE": "Date de création",
