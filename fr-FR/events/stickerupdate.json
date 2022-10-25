@@ -2,7 +2,7 @@
     "CONTENT": "{{emoji}} Autocollant renommé",
     "OLD_NAME": "Ancien nom :",
     "NEW_NAME": "Nouveau nom :",
-    "DESCRIPTION": "{{emoji}} Description de l'autocollant mise à jour",
+    "DESCRIPTION": "{{emoji}} Sticker description for {{name}} updated",
     "OLD_DESCRIPTION": "Ancienne description :",
     "NEW_DESCRIPTION": "Nouvelle description :"
 }
