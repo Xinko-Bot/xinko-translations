@@ -2,5 +2,6 @@
     "NAME": "daily",
     "DESCRIPTION": "Allows you to collect a reward every 24 hours.",
     "TITLE": "Daily reward from {{username}}",
-    "DAILY": "You just collected {{amount}}ama."
+    "DAILY": "{{streakLost}}\n\n💰 You just collected {{amount}}ama\n🔥 Streak bonus: {{streakBonus}}\n🏅 Total: {{total}}\n\n🔢 Length of the streak: {{streakDays}} days\n🏆 Longest Streak: {{longestStreak}} days",
+    "STREAK_LOST": "**You claimed you daily too late and you streak has been reset**"
 }
