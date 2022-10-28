@@ -6,7 +6,7 @@
     "OPTION_PREMIUM_GOLD_DESCRIPTION": "Obtenez un lien pour vous abonner à la version premium gold.",
     "OPTION_DASHBOARD": "dashboard",
     "OPTION_DASHBOARD_DESCRIPTION": "Obtenez le tableau de bord pour gérer votre abonnement de serveur.",
-    "DESCRIPTION": "Vous permet d'obtenir un lien pour vous abonner à Amandine Premium",
+    "DESCRIPTION": "Allow you to get a link to subscribe to Xinko premium",
     "PORTAL_DM": "Voici le lien vers le portail de gestion des abonnements : {{url}}",
     "GUILD_SUB": "Voici vos infos d'abonnement actifs pour ce serveur {{planName}}.\n{{infos}}\n(Vous avez également reçu un dm avec le lien du tableau de bord pour gérer l'abonnement.)",
     "TRIAL_SUB": "La période d'essai a commencé le {{start}} et se terminera le {{end}}.",
