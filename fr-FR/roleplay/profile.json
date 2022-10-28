@@ -9,7 +9,7 @@
     "COLOR": "{{emoji}} **Couleur d'Embeds :** ``{{color}} `` ``",
     "BADGES": "{{emoji}} **Badges d'évènements:** {{badges}}",
     "IS_BOT": "Vous ne pouvez pas voir le profil d'un bot.",
-    "XINKO_TITLE": "Xinko's Profile",
+    "XINKO_TITLE": "Profil de Xinko",
     "XINKO_DESCRIPTION": "Xinko is a multipurpose bot that can help you create and manage your discord servers. She has a lot of features, such as moderation, fun, and much more. She is also very customizable, and you can change her language and much more.",
-    "XINKO_INVITE": "Invite to your server"
+    "XINKO_INVITE": "Inviter sur votre serveur"
 }
