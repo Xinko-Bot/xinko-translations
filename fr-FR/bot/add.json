@@ -1,7 +1,7 @@
 {
     "NAME": "ajouter",
     "DESCRIPTION": "Permet d'obtenir le lien d'invitation du bot.",
-    "TITLE": "Voici les liens pour inviter notre chère Amandine.",
+    "TITLE": "Here are the links to invite our dear Xinko.",
     "NO_PERM": "Aucune permission.",
     "MEMBER_PERM": "Permission Membre.",
     "MOD_PERM": "Permissions de modération. (Recommandé)",
