@@ -6,7 +6,7 @@
     "OPTION_PREMIUM_GOLD_DESCRIPTION": "Get a link to subscribe to premium gold.",
     "OPTION_DASHBOARD": "dashboard",
     "OPTION_DASHBOARD_DESCRIPTION": "Get the dashboard to manage your guild subscription.",
-    "DESCRIPTION": "Allow you to get a link to subscribe to Amandine premium",
+    "DESCRIPTION": "Allow you to get a link to subscribe to Xinko premium",
     "PORTAL_DM": "Here is the link to your portal where you can manage your subscription: {{url}}",
     "GUILD_SUB": "Here is your active subscription infos for this guild {{planName}}.\n{{infos}}\n(You'll also should have gotten a dm with the dashboard link to manage the subscription.)",
     "TRIAL_SUB": "The trial started on {{start}} and will end on {{end}}.",
