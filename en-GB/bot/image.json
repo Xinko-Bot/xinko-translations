@@ -168,5 +168,16 @@
     "OPTION_UTIL_DESCRIPTION": "Utils",
     "OPTION_UTIL_CIRCLE_DESCRIPTION": "Circle",
     "OPTION_UTIL_COLOR_DESCRIPTION": "Color",
-    "OPTION_CODE_DESCRIPTION": "Hex code"
+    "OPTION_CODE_DESCRIPTION": "Hex code",
+    "BAKA": "**{{author}}** just told **{{user}}** the he/she was a baka",
+    "CUDDLE": "**{{author}}** just gave some caress to **{{user}}**",
+    "FEED": "**{{author}}** just fed **{{user}}**",
+    "KILL": "**{{author}}** just killed **{{user}}**",
+    "KISSGIF": "**{{author}}** just gave a kiss to **{{user}}**",
+    "PAT": "**{{author}}** just patted **{{user}}**",
+    "POKE": "**{{author}}** just touched **{{user}}**",
+    "SHUSH": "**{{author}}** just shushed **{{user}}**",
+    "SLAP": "**{{author}}** just slapped **{{user}}**",
+    "TICKLE": "**{{author}}** just tickled **{{user}}**",
+    "REDO": "Re execute"
 }
