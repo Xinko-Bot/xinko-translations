@@ -11,7 +11,7 @@
     "FOUND_NEXT": "You found Wumpus !\n\n**You can now head to the next level !**",
     "NEXT_LEVEL": "Next level: {{level}}",
     "GAME_COMPLETED": ":tada: You have completed the game ! :tada:\n\nYour name and id have been registered for the giveaway ! Don't forget to join the support server to make sure you are informed if you win.\n\n**You can now only play the random mode and try to beat your friends on the leaderboard !**",
-    "ALL_TRIES_USED": "You have used all your tries !\n\n**You can play again by re filling your tries playing random games. !**",
+    "ALL_TRIES_USED": "You have used all your tries !\n\n**You can play again by re filling your tries playing random games !**",
     "GUESSING": "Wumpus is hidden behind one of these numbers !\n\n**You have {{tries}}/{{maxTries}} tries left to try and find where Wumpus is !**",
     "LUCKY_TIME": "IT'S YOUR LUCKY TIME !",
     "LUCKY_TIME_DESCRIPTION": "You finished the normal game mode, but now we have just reset your level and tries for it ! You can get another registration for the giveaway, and more chances to win !",
