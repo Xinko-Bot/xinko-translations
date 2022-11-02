@@ -4,7 +4,7 @@
     "USER_JOIN": "{{emoji}} Join message for {{member}} ({{username}}) has been deleted in {{channel}}",
     "GUILD_BOOST": "{{emoji}} Boost message has been deleted in {{channel}}",
     "AUTOMODERATION": "{{emoji}} AutoModeration message has been deleted in {{channel}}",
-    "COMMAND": "{{emoji}} Command message has been deleted in {{channel}}",
+    "COMMAND": "{{emoji}} Command reply from {{author}} for the command: ``/{{command}}`` executed by {{executor}} has been deleted in {{channel}}",
     "DISCOVERY": "{{emoji}} Discovery infos message has been deleted in {{channel}}",
     "OTHER": "{{emoji}} A system message has been deleted in {{channel}}"
 }

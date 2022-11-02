@@ -168,5 +168,16 @@
     "OPTION_UTIL_DESCRIPTION": "Divers",
     "OPTION_UTIL_CIRCLE_DESCRIPTION": "Cercle",
     "OPTION_UTIL_COLOR_DESCRIPTION": "Couleur",
-    "OPTION_CODE_DESCRIPTION": "Code hexadécimal"
+    "OPTION_CODE_DESCRIPTION": "Code hexadécimal",
+    "BAKA": "**{{author}}** vient de traiter **{{user}}** de baka",
+    "CUDDLE": "**{{author}}** vient de faire des papouilles à **{{user}}**",
+    "FEED": "**{{author}}** vient de nourrir **{{user}}**",
+    "KILL": "**{{author}}** vient de tuer **{{user}}**",
+    "KISSGIF": "**{{author}}** vient de faire un bisou à **{{user}}**",
+    "PAT": "**{{author}}** vient de faire un pat pat à **{{user}}**",
+    "POKE": "**{{author}}** vient de toucher **{{user}}**",
+    "SHUSH": "**{{author}}** vient de dire à **{{user}}** de se taire",
+    "SLAP": "**{{author}}** vient de mettre une claque à **{{user}}**",
+    "TICKLE": "**{{author}}** vient de chatouiller **{{user}}**",
+    "REDO": "Exécuter encore"
 }
