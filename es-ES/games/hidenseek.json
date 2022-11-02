@@ -2,7 +2,7 @@
     "NAME": "hidenseek",
     "DESCRIPTION": "Play hide and seek with Wumpus!",
     "TITLE": "Hide and Seek with Wumpus in Discord Land !",
-    "DETAILS": "**Wumpus is hiding in one of the following images, find him to get to the last level and get a ticket to participate in a giveaway !**\n\n**Rules** :\n\n> - Find Wumpus in the image to get to the next level.\n> - You can get more tries by playing a random game. (Those have more tries, but you get only one free try per game)\n> - Don't try to cheat and give Wumpus location to others because his emplacement will be randomized for everyone.\n\n**Random Games** :\n> - The random games are every map that are available on the game.\n> - You will select a level between Normal (14 Small maps), Tower (3 Medium maps), Castle (2 Big maps), World (1 Really big map) then a random map will be given to you to find Wumpus.",
+    "DETAILS": "**Wumpus is hiding in one of the following images, find him to get to the last level and get a ticket to participate in a giveaway !**\n\n**Rules** :\n> - Find Wumpus in the image to get to the next level.\n> - You can get more tries by playing a random game. (Those have more tries, but you get only one free try per game)\n> - Don't try to cheat and give Wumpus location to others because his emplacement will be randomized for everyone.\n\n**Random Games** :\n> - The random games are every map that are available on the game.\n> - You will select a level between Normal (14 Small maps), Tower (3 Medium maps), Castle (2 Big maps), World (1 Really big map) then a random map will be given to you to find Wumpus.",
     "PLAY": "Play",
     "RANDOM": "Random",
     "LEADERBOARD": "Leaderboard",
