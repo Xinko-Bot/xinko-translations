@@ -15,7 +15,7 @@
     "BUTTON_SLOWMODE": "Vous êtes en mode lent, réessayez {{slowmode}} avant de cliquer à nouveau sur le bouton ``{{command}}``.",
     "SELECT_SLOWMODE": "Vous êtes en mode lent, réessayez {{slowmode}} avant de sélectionner quelque chose sur ``{{command}}`` à nouveau.",
     "NOT_FOUND": "Désolé, cette commande n'existe pas.",
-    "SUPPORT_SERVER": "Support server",
+    "SUPPORT_SERVER": "Serveur de support",
     "BOT": "Robot",
     "USER": "Utilisateur",
     "HUMAN": "Humain",
