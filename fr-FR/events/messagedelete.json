@@ -4,7 +4,7 @@
     "USER_JOIN": "{{emoji}} Le message de bienvenue pour {{member}} ({{username}}) a été supprimé dans {{channel}}",
     "GUILD_BOOST": "{{emoji}} Un message de Boost a été supprimé dans {{channel}}",
     "AUTOMODERATION": "{{emoji}} Un message d'auto-modération a été supprimé dans {{channel}}",
-    "COMMAND": "{{emoji}} Un message de commande a été supprimé dans {{channel}}",
+    "COMMAND": "{{emoji}} Command reply from {{author}} for the command: ``/{{command}}`` executed by {{executor}} has been deleted in {{channel}}",
     "DISCOVERY": "{{emoji}} Un message d'information sur le status Discovery a été supprimé dans {{channel}}",
     "OTHER": "{{emoji}} Un message système a été supprimé dans {{channel}}"
 }
