@@ -21,7 +21,7 @@
     "MUTE_ROLE": "Muted",
     "ALREADY_MUTED": "The user is already muted.",
     "NOT_MEMBER": "The user is not a member of the server.",
-    "MODERATOR": "**Banned by:** {{modName}}",
+    "MODERATOR": "**Muted by:** {{modName}}",
     "END": "**End:** {{end}}",
     "REASON": "**Reason:** {{reason}}",
     "USER": "**User:** {{user}}",
