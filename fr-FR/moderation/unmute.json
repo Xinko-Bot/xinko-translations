@@ -19,7 +19,7 @@
     "MUTE_ROLE": "Muet",
     "NOT_MUTED": "Cet utilisateur n'est pas muet.",
     "NOT_MEMBER": "L'utilisateur n'est pas un membre du serveur.",
-    "MODERATOR": "**Banned by:** {{modName}}",
+    "MODERATOR": "**UnMuted by:** {{modName}}",
     "REASON": "**Raison:** {{reason}}",
     "USER": "**Utilisateur:** {{user}}",
     "CASE_ID": "**ID de cas:** {{caseID}}"
