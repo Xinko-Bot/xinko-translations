@@ -15,11 +15,11 @@
     "NO_REASON": "Aucune raison spécifiée.",
     "MUTED_USER": "**Vous avez été démuté sur {{guild}}.**",
     "MUTED": "**Un utilisateur a été démuté sur le serveur.**",
-    "PERMISSIONS": "The user you want to unmute either have a higher role than you or the bot doesn't have the permissions to unmute them.",
+    "PERMISSIONS": "L'utilisateur que vous voulez démuter a un rôle plus élevé que vous ou le bot n'a pas les permissions pour le démuter.",
     "MUTE_ROLE": "Muet",
     "NOT_MUTED": "Cet utilisateur n'est pas muet.",
     "NOT_MEMBER": "L'utilisateur n'est pas un membre du serveur.",
-    "MODERATOR": "**UnMuted by:** {{modName}}",
+    "MODERATOR": "**DéMuté par:** {{modName}}",
     "REASON": "**Raison:** {{reason}}",
     "USER": "**Utilisateur:** {{user}}",
     "CASE_ID": "**ID de cas:** {{caseID}}"
