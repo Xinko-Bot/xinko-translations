@@ -21,10 +21,10 @@
     "MUTE_ROLE": "Muet",
     "ALREADY_MUTED": "Cet utilisateur est déjà muet.",
     "NOT_MEMBER": "L'utilisateur n'est pas un membre du serveur.",
-    "MODERATOR": "**Banned by:** {{modName}}",
+    "MODERATOR": "**Muté par:** {{modName}}",
     "END": "**Fin :** {{end}}",
     "REASON": "**Raison:** {{reason}}",
-    "USER": "**User:** {{user}}",
-    "CASE_ID": "**Case ID:** {{caseID}}",
-    "CASE_END": "Automatic unmute due to the end of the mute."
+    "USER": "**Utilisateur:** {{user}}",
+    "CASE_ID": "**ID de cas:** {{caseID}}",
+    "CASE_END": "Démute automatique causé par la fin de celui-ci."
 }
