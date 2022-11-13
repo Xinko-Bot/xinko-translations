@@ -1,0 +1,6 @@
+{
+    "CONTENT": "{{emoji}} Member **{{user}}** has been muted by **{{moderator}}** for ``{{duration}}`` with reason: ``{{reason}}``",
+    "PERMANENT": "an unspecified amount of time",
+    "NO_REASON": "No reason provided",
+    "SYSTEM": "System"
+}
