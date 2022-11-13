@@ -5,7 +5,7 @@
     "OPTIONS_SET_DESCRIPTION": "Set the duration of the slowmode",
     "OPTIONS_DURATION": "duration",
     "OPTIONS_DURATION_DESCRIPTION": "The duration of the slowmode",
-    "OPTIONS_CHOICE_5S": "5 seconds",
+    "OPTIONS_CHOICE_5S": "5 secondes",
     "OPTIONS_CHOICE_10S": "10 seconds",
     "OPTIONS_CHOICE_15S": "15 seconds",
     "OPTIONS_CHOICE_30S": "30 seconds",
