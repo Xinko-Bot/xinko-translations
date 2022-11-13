@@ -30,7 +30,7 @@
     "SLOWMODE_SET_BY": "Slowmode set by {{user}}",
     "MODERATOR": "**Set by:** {{modName}}",
     "DURATION": "**Duration:** {{duration}}",
-    "SLOWMODE_SET": "Slowmode has been seen for {{channel}}",
+    "SLOWMODE_SET": "Slowmode has been set for {{channel}}",
     "ALREADY_OFF": "Slowmode is already off for {{channel}}",
     "OFF": "Slowmode has been removed for {{channel}}"
 }
