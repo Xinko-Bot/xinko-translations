@@ -11,7 +11,7 @@
     "BANNED": "**Un utilisateur a été débanni du serveur.**",
     "BY": "Par",
     "USER_NOT_BANNED": "L'utilisateur n'est pas banni du serveur.",
-    "MODERATOR": "**Banned by:** {{modName}}",
+    "MODERATOR": "**UnBanned by:** {{modName}}",
     "REASON": "**Raison:** {{reason}}",
     "USER": "**Utilisateur:** {{user}}",
     "CASE_ID": "**ID de cas:** {{caseID}}"
