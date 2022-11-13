@@ -1,0 +1,5 @@
+{
+    "CONTENT": "{{emoji}} Le membre **{{user}}** a été démuté par **{{moderator}}** avec la raison : ``{{reason}}``",
+    "NO_REASON": "Aucune raison spécifiée",
+    "SYSTEM": "Système"
+}

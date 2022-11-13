@@ -1,0 +1,19 @@
+{
+    "NAME": "modlogs",
+    "DESCRIPTION": "Voir les journaux de modération d'un utilisateur.",
+    "OPTIONS_USER": "utilisateur",
+    "OPTIONS_USER_DESCRIPTION": "L'utilisateur à afficher",
+    "NOT_MEMBER": "L'utilisateur n'est pas un membre du serveur.",
+    "NO_CASES": "Aucune donnée trouvée pour cet utilisateur.",
+    "NO_REASON": "Aucune raison spécifiée.",
+    "BAN": "Ban",
+    "UNBAN": "Déban",
+    "MUTE": "Mute",
+    "UNMUTE": "Démute",
+    "KICK": "Expulsion",
+    "DETAILS": "**Cas #{{caseId}}**\n> **Action :** {{action}}\n> **Utilisateur :** {{user}}\n> **Modérateur :** {{moderator}}\n> **Raison :** {{reason}}\n> **Date :** {{date}}\n> **Durée :** {{duration}}\n",
+    "AUTO_UNMUTE": "Fin de la durée du mute",
+    "AUTO_UNBAN": "Fin de la durée du ban",
+    "SYSTEM": "Système",
+    "PERMANENT": "Permanent"
+}

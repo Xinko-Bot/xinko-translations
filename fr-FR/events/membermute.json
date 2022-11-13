@@ -1,0 +1,6 @@
+{
+    "CONTENT": "{{emoji}} Le membre **{{user}}** a été muté par **{{moderator}}** pour ``{{duration}}`` avec la raison : ``{{reason}}``",
+    "PERMANENT": "une durée non spécifiée",
+    "NO_REASON": "Aucune raison spécifiée",
+    "SYSTEM": "Système"
+}

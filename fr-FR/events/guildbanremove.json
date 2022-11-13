@@ -1,3 +1,4 @@
 {
-    "CONTENT": "{{emoji}} Membre débanni : {{user}}"
+    "CONTENT": "{{emoji}} Membre débanni : {{user}} avec la raison : ``{{reason}}``",
+    "NO_REASON": "Aucune raison spécifiée"
 }

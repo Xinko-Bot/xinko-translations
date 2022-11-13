@@ -3,5 +3,5 @@
     "OPTION_MEMBER": "membre",
     "OPTION_MEMBER_DESCRIPTION": "Le membre pour lequel obtenir des informations.",
     "DESCRIPTION": "Permet de voir les informations d'un membre.",
-    "INFOS": "**Informations sur le membre:**{{member}}\n\n🔤 | Nom: **{{name}}**\n#️⃣ | Tag: **#{{discriminator}}**\n🆔 | ID: **{{id}}**\n📛 | Badges: {{badges}}\n🏹 | Type: **{{type}}**\n🚪 | Date d'arrivée: **{{joinedAt}}**\n🛠️ | Date de création du compte: **{{createdAt}}**\n⚙️ | Peut être expulsé: **{{kickable}}**\n⚙️ | Peut être banni: **{{bannable}}**\n🔢 | Position d'arrivée: **{{joinPosition}}**\n🔁 | Ordre d'arrivée: {{joinOrder}}"
+    "INFOS": "**Informations sur le membre:**{{member}}\n\n🔤 | Nom: **{{name}}**\n#️⃣ | Tag: **#{{discriminator}}**\n🆔 | ID: **{{id}}**\n📛 | Badges: {{badges}}\n🏹 | Type: **{{type}}**\n🚪 | Date d'arrivée: **{{joinedAt}}**\n🛠️ | Date de création du compte: **{{createdAt}}**\n⚙️ | Peut être expulsé: **{{kickable}}**\n⚙️ | Peut être banni: **{{bannable}}**\n🔢 | Position d'arrivée: **{{joinPosition}}**\n🔁 | Ordre d'arrivée: {{joinOrder}}\n🛡️ | Permissions: {{permissions}}"
 }
