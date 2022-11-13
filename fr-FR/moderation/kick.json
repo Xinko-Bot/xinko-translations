@@ -1,6 +1,6 @@
 {
     "NAME": "kick",
-    "DESCRIPTION": "Ban an user from the server.",
+    "DESCRIPTION": "Expulser un utilisateur du serveur.",
     "OPTIONS_USER": "utilisateur",
     "OPTIONS_USER_DESCRIPTION": "L'utilisateur à exclure du serveur.",
     "OPTIONS_REASON": "raison",
@@ -17,8 +17,8 @@
     "KICKED": "**Un utilisateur a été expulsé du serveur.**",
     "PERMISSIONS": "L'utilisateur que vous voulez expulser a un rôle plus élevé que vous ou le bot n'a pas les permissions pour l'expulser.",
     "BY": "Par",
-    "NOT_MEMBER": "The user you want to kick is not a member of the server.",
-    "MODERATOR": "**Banned by:** {{modName}}",
+    "NOT_MEMBER": "L'utilisateur que vous voulez exclure n'est pas un membre du serveur.",
+    "MODERATOR": "**Expulsé par:** {{modName}}",
     "END": "**Fin :** {{end}}",
     "REASON": "**Raison:** {{reason}}",
     "USER": "**Utilisateur:** {{user}}",
