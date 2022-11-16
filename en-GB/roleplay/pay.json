@@ -8,5 +8,5 @@
     "IS_BOT": "You cannot pay a bot.",
     "NOT_ENOUGH": "You do not have this amount in your wallet, payment impossible.",
     "TITLE": "Payment for {{username}}.",
-    "RESULT": "You just paid {{amount}}ama to {{user}}."
+    "RESULT": "You just paid {{amount}}xin to {{user}}."
 }
