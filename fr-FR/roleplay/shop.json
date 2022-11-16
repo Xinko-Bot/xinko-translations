@@ -5,7 +5,7 @@
   "LIST": "Voici les objet dispnible dans le magasin de ce serveur.",
   "NOT_ROLE": "Pas un rôle",
   "INVALID_ROLE": "Rôle configuré invalide ou suprimmé",
-  "ITEM_TITLE": "(N°{{number}}) {{name}} - {{price}}ama",
+  "ITEM_TITLE": "(N°{{number}}) {{name}} - {{price}}xin",
   "ITEM_DATA": "{{eAvailable}} Disponible: {{available}}\n{{eMaxPerUser}} Max Autorisé Par Utilisateur: {{maxPerUser}}\n{{eRole}} Rôle: {{role}}",
   "ASK_ITEM_NUMBER": "{{loading}} Merci d'envoyer le numéro de l'objet que vous souhaitez acheter.",
   "CANCELED": "Le processus de d'achat d'un objet a été annulé.",
@@ -17,6 +17,6 @@
   "ALREADY_HAVE_MAX": "Vous avez déjà la quantité maximale autorisée de cet objet dans votre inventaire",
   "ROLE_DELETED_OR_INVALID": "Impossible d'acheter cet objet car le rôle qui lui est associé a été supprimé.",
   "ROLE_TOO_HIGH": "Impossible d'acheter cet objet car le rôle qui lui est associé a une position plus élevée que moi et je ne pourrais pas vous l'ajouter.",
-  "CONFIRM_ITEM": "{{loading}} Veuillez confirmer que vous souhaitez acheter cet objet:\n\n{{eName}} Nom: {{name}}\n{{ePrice}} Prix : {{price}}ama",
-  "SUCCESS": "Vous avez acheté avec succès un objet:\n\nNom{{eName}} : {{name}}\nPrix{{ePrice}} : {{price}}ama"
+  "CONFIRM_ITEM": "{{loading}} Please confirm that you want to buy this item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}xin",
+  "SUCCESS": "You successfully bought an item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}xin"
 }
