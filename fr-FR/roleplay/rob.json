@@ -8,6 +8,6 @@
     "NO_MENTION": "Merci de mentionner un membre.",
     "INVALID": "Vous ne pouvez pas voler un bot ni vous-même.",
     "NOTHING_TO_ROB": "Ce membre n'a rien à voler.",
-    "NEED_MIN": "You must have at least 250xin in your wallet to be able to rob someone.",
-    "FAIL": "You missed your theft and lost {{amount}}xin"
+    "NEED_MIN": "Vous devez avoir au moins 250xin dans votre portefeuille pour pouvoir voler quelqu'un.",
+    "FAIL": "Vous avez manqué votre vol et perdu {{amount}}xin"
 }
