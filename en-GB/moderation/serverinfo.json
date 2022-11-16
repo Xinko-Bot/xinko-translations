@@ -1,5 +1,0 @@
-{
-    "NAME": "serverinfo",
-    "DESCRIPTION": "Allows you to view the server's information.",
-    "INFOS": "**{{name}} - Informations**\n\n👑 | Server owner: **{{owner}}**\n🔤 | Server name: **{{name}}**\n🕐 | Creation date: **{{date}}**\n🛂 | Verification level: **{{verification}}**\n🔢 | Number of members: **{{memberCount}}**\n👨 | Humans: **{{humans}}**\n🤖 | Bots: **{{bots}}**\n📌 | Number of channels: **{{channels}}**\n📕 | Number of roles: **{{roles}}**\n💯 | Number of emojis: **{{emojis}}**"
-}
