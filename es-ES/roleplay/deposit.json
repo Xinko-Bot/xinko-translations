@@ -5,5 +5,5 @@
     "OPTION_AMOUNT_DESCRIPTION": "The amount you want to deposit to your bank account (0 for all).",
     "ALL": "You just deposited all your money in your bank account.",
     "NOT_ENOUGH": "You don't have enough money in your wallet, please withdraw some.",
-    "AMOUNT": "You just deposited {{amount}}ama into your bank account."
+    "AMOUNT": "You just deposited {{amount}}xin into your bank account."
 }
