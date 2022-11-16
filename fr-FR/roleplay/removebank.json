@@ -7,5 +7,5 @@
     "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez retirer.",
     "IS_BOT": "Impossible de supprimer de la monnaie sur le compte en banque d'un bot.",
     "TITLE": "De l'argent a été retiré sur le compte bancaire de {{username}}.",
-    "RESULT": "You just removed {{amount}}xin from the {{user}}'s bank account."
+    "RESULT": "Vous venez de supprimer {{amount}}xin du compte bancaire de {{user}}."
 }
