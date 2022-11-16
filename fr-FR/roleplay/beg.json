@@ -1,0 +1,11 @@
+{
+    "NAME": "mendier",
+    "DESCRIPTION": "Vous permet de mendier de l'argent, faites attention à ne pas vendre toute votre âme.",
+    "TITLE": "{{username}} à mendier de l'argent",
+    "SENTENCE_1": "Vous avez vendu une petite partie de votre âme pour {{amount}}xin",
+    "SENTENCE_2": "Prenez une partie de mon argent, j'en ai trop: {{amount}}xin",
+    "SENTENCE_3": "Vous avez commencé à danser et à chanter et avez gagné {{amount}}xin",
+    "SENTENCE_4": "Vous avez aidé grand-mère à traverser la route, elle vous a donné {{amount}}xin",
+    "SENTENCE_5": "Vous venez de trouver {{amount}}xin au sol, gardez les en sécurité",
+    "SENTENCE_6": "Quelqu'un est venu vous faire un tour de magie et vous a donné les {{amount}}xin qu'il a trouvé derrière vos oreilles"
+}

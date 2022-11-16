@@ -2,6 +2,6 @@
     "NAME": "quotidien",
     "DESCRIPTION": "Permet de récupérer une récompense toutes les 24h.",
     "TITLE": "Récompense journalière de {{username}}",
-    "DAILY": "{{streakLost}}\n\n💰 Vous venez de récupérer {{amount}}ama\n🔥 Bonus de série : {{streakBonus}}\n🏅 Total: {{total}}\n\n🔢 Longueur de la série: {{streakDays}} jours\n🏆 Plus longue série: {{longestStreak}} jours",
+    "DAILY": "{{streakLost}}\n\n💰 Vous venez de récupérer {{amount}}xin\n🔥 Bonus de série : {{streakBonus}}\n🏅 Total: {{total}}\n\n🔢 Longueur de la série: {{streakDays}} jours\n🏆 Plus longue série: {{longestStreak}} jours",
     "STREAK_LOST": "**Tu t'as réclamé ta récompense quotidienne trop tard et ta série a été réinitialisée**"
 }

@@ -4,10 +4,10 @@
     "OPTION_USER": "user",
     "OPTION_USER_DESCRIPTION": "The user you want to try to rob.",
     "TITLE": "{{username}} just stole another member.",
-    "ROB": "You just robbed {{amount}}ama.",
+    "ROB": "You just robbed {{amount}}xin.",
     "NO_MENTION": "Please mention a member.",
     "INVALID": "You cannot rob a bot or yourself.",
     "NOTHING_TO_ROB": "This member has nothing to rob.",
-    "NEED_MIN": "You must have at least 250ama in your wallet to be able to rob someone.",
-    "FAIL": "You missed your theft and lost {{amount}}ama"
+    "NEED_MIN": "You must have at least 250xin in your wallet to be able to rob someone.",
+    "FAIL": "You missed your theft and lost {{amount}}xin"
 }

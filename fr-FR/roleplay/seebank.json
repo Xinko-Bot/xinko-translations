@@ -5,5 +5,5 @@
     "OPTION_USER_DESCRIPTION": "L'utilisateur dont vous voulez voir la banque.",
     "IS_BOT": "Impossible de voir la banque d'un bot.",
     "TITLE": "Banque de {{username}}",
-    "INFOS": "Cet utilisateur a actuellement {{amount}}ama dans son compte bancaire."
+    "INFOS": "Cet utilisateur a actuellement {{amount}}xin dans son compte bancaire."
 }
