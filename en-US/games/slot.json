@@ -1,8 +1,8 @@
 {
     "NAME": "slot",
     "DESCRIPTION": "Allows you to spin the slot machine.",
-    "DEFEAT": "You just lost {{amount}}ama.",
-    "VICTORY": "You just won {{amount}}ama",
+    "DEFEAT": "You just lost {{amount}}xin.",
+    "VICTORY": "You just won {{amount}}xin",
     "LOADING": "{{loading}} Loading the slot machine",
     "RESULTS": "Here are the results\n\n",
     "ROLLING": "Rolling the slot machine...\n\n",

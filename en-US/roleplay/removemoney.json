@@ -7,5 +7,5 @@
     "OPTION_AMOUNT_DESCRIPTION": "The amount you want to remove.",
     "IS_BOT": "Cannot remove currency from a bot.",
 	"TITLE": "Removed money on {{username}}'s wallet.",
-	"RESULT": "You just removed {{amount}}ama from the {{user}}'s wallet."
+	"RESULT": "You just removed {{amount}}xin from the {{user}}'s wallet."
 }

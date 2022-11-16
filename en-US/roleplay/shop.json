@@ -5,7 +5,7 @@
   "LIST": "Here are the items available in the shop of this server.",
   "NOT_ROLE": "Not a role",
   "INVALID_ROLE": "Configured role invalid or deleted",
-  "ITEM_TITLE": "(N°{{number}}) {{name}} - {{price}}ama",
+  "ITEM_TITLE": "(N°{{number}}) {{name}} - {{price}}xin",
   "ITEM_DATA": "{{eAvailable}} Available: {{available}}\n{{eMaxPerUser}} Max Allowed Per User: {{maxPerUser}}\n{{eRole}} Role: {{role}}",
   "ASK_ITEM_NUMBER": "{{loading}} Please send the number of the item you want to buy.",
   "CANCELED": "The process to buy an item has been canceled.",
@@ -17,6 +17,6 @@
   "ALREADY_HAVE_MAX": "You already have the maximum amount allowed of this item in your inventory",
   "ROLE_DELETED_OR_INVALID": "Cannot buy this item beacuse the role that is associated to it has been deleted.",
   "ROLE_TOO_HIGH": "Cannot buy this item because the role that is associated to it has a highest position than me and i could'nt add it to you.",
-  "CONFIRM_ITEM" :"{{loading}} Please confirm that you want to buy this item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}ama",
-  "SUCCESS": "You successfully bought an item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}ama"
+  "CONFIRM_ITEM" :"{{loading}} Please confirm that you want to buy this item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}xin",
+  "SUCCESS": "You successfully bought an item:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}xin"
 }
