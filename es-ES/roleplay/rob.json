@@ -1,6 +1,6 @@
 {
-    "NAME": "rob",
-    "DESCRIPTION": "Allows you to steal another member every 12 hours.",
+    "NAME": "robar",
+    "DESCRIPTION": "Te permite robar otro miembro cada 12 horas.",
     "OPTION_USER": "user",
     "OPTION_USER_DESCRIPTION": "The user you want to try to rob.",
     "TITLE": "{{username}} just stole another member.",
