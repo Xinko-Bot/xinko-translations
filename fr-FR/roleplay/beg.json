@@ -1,0 +1,11 @@
+{
+    "NAME": "mendier",
+    "DESCRIPTION": "Allows you to beg for money, be careful not selling your entire soul.",
+    "TITLE": "{{username}} begged for money",
+    "SENTENCE_1": "You sold a small part of your soul for {{amount}}xin",
+    "SENTENCE_2": "Take some of my money i have too much: {{amount}}xin",
+    "SENTENCE_3": "You started dancing and singing and made {{amount}}xin",
+    "SENTENCE_4": "Vous avez aidé grand-mère à traverser la route, elle vous a donné {{amount}}xin",
+    "SENTENCE_5": "Vous venez de trouver {{amount}}xin au sol, gardez les en sécurité",
+    "SENTENCE_6": "Quelqu'un est venu vous faire un tour de magie et vous a donné les {{amount}}xin qu'il a trouvé derrière vos oreilles"
+}
