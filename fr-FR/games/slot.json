@@ -1,8 +1,8 @@
 {
     "NAME": "slot",
     "DESCRIPTION": "Permet faire tourner la machine à sous.",
-    "DEFEAT": "Vous venez de perdre {{amount}}ama.",
-    "VICTORY": "Vous venez de gagner {{amount}}ama",
+    "DEFEAT": "Vous venez de perdre {{amount}}xin.",
+    "VICTORY": "Vous venez de gagner {{amount}}xin",
     "LOADING": "{{loading}} Chargement de la machine à sous",
     "RESULTS": "Voici les résultats\n\n",
     "ROLLING": "La machine à sous est en train de tourner...\n\n",
