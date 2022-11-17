@@ -2,6 +2,6 @@
     "NAME": "inventaire",
     "DESCRIPTION": "Vous permet de voir les objets que vous avez dans votre inventaire.",
     "LIST": "Voici les objets que vous avez dans votre inventaire.",
-    "PRICE": "Prix : {{price}}\nQuantité : {{amount}}",
+    "PRICE": "{{ePrice}} Prix : {{price}}\n{{eAmout}} Quantité : {{amount}}",
     "NO_ITEM": "Vous n'avez aucun objet dans votre inventaire."
 }

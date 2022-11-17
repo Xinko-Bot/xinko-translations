@@ -10,6 +10,7 @@
     "MEMORY": "Memory usage",
     "TOPGG": "Vote on Top.gg",
     "DBL": "Vote on Discord Bot List",
+    "BLIST": "Vote on Blist.xyz",
     "STATS": "**📊 Commands Statistics**\n\n💯 Total command ran: **{{totalRan}}**\n\n🏆 Most used command: \n{{mostUsed}}\n\n⭐ Users Favorite Categories: \n{{favoriteCategory}}",
     "RAN_AMOUNT": "ran **{{amount}}** times"
 }
