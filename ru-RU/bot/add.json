@@ -1,7 +1,7 @@
 {
-    "NAME": "add",
-    "DESCRIPTION": "Allows you to get the bot invitation link.",
-    "TITLE": "Here are the links to invite our dear Xinko.",
+    "NAME": "добавить",
+    "DESCRIPTION": "Позволяет получить ссылку для приглашения бота.",
+    "TITLE": "Вот ссылки, чтобы пригласить наших дорогих Xinko.",
     "NO_PERM": "No permissions.",
     "MEMBER_PERM": "Member Permissions.",
     "MOD_PERM": "Moderation Permissions. (Recommended)",
