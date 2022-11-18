@@ -1,8 +1,8 @@
 {
-    "NAME": "ping",
-    "DESCRIPTION": "Allows to see the latency of the bot and the discord API.",
+    "NAME": "пинг",
+    "DESCRIPTION": "Позволяет видеть задержку бота и discord API.",
     "FETCHING": "{{loading}} Calculating...",
-    "SLOW": "The bot is slow.",
-    "FAST": "The bot is fast.",
-    "PING": "{{server}} API : ***{{api}}*** ms\n{{emojiBot}} BOT : ***{{bot}}*** ms\n\n{{hint}}\n[Discord Status](https://status.discord.com/)"
+    "SLOW": "Бот медленный.",
+    "FAST": "Бот быстрый.",
+    "PING": "{{server}} API : ***{{api}}*** мс\n{{emojiBot}} БОТ : ***{{bot}}*** мс\n\n{{hint}}\n[Статус Discord](https://status.discord.com/)"
 }
