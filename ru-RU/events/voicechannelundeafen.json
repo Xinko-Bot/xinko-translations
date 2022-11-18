@@ -1,0 +1,5 @@
+{
+    "CONTENT": "{{emoji}} {{user}} {{action}} in the voice channel #{{channel}}",
+    "SELF": "un-deafened themself",
+    "SERVER": "has been un-deafened"
+}
