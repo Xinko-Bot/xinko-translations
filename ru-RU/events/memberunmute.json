@@ -1,5 +1,5 @@
 {
     "CONTENT": "{{emoji}} Member **{{user}}** has been unmuted by **{{moderator}}** with reason: ``{{reason}}``",
     "NO_REASON": "No reason provided",
-    "SYSTEM": "System"
+    "SYSTEM": "Система"
 }
