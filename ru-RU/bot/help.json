@@ -1,14 +1,14 @@
 {
-    "NAME": "help",
-    "DESCRIPTION": "Gives you the bot's commands list",
-    "OPTION_COMMAND": "command",
-    "OPTION_COMMAND_DESCRIPTION": "The command you need help with",
+    "NAME": "Помощь",
+    "DESCRIPTION": "Дает вам список команд бота",
+    "OPTION_COMMAND": "команда",
+    "OPTION_COMMAND_DESCRIPTION": "Команда, с которой вам нужна помощь",
     "HELP": "Here is the list of available commands:",
     "HELP_DESCRIPTION": "You can also find detailed infos by clicking [here]({{documentation}}) to access the web documentation.",
     "COMMAND": "Command help: {{command}}",
-    "CMD_DESCRIPTION": "Description :",
-    "CMD_CATEGORY": "Category:",
+    "CMD_DESCRIPTION": "Описание :",
+    "CMD_CATEGORY": "Категория:",
     "CMD_PERMISSIONS": "Permissions :",
     "CMD_COOLDOWN": "Slowmode :",
-    "FOOTER": "{{botName}} | Version : {{version}}"
+    "FOOTER": "{{botName}} | Версия: {{version}}"
 }
