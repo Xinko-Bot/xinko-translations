@@ -1,5 +1,5 @@
 {
-    "NAME": "Информация о боте",
+    "NAME": "информацияоботе",
     "DESCRIPTION": "Показывает информацию о боте.",
     "TITLE": "**{{botName}}'s statistics**\n[Support server]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Support me]({{buyMeACoffee}})",
     "OWNER": "Владелец",
