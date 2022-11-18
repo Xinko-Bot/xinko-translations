@@ -1,5 +1,5 @@
 {
-    "CONTENT": "{{emoji}} Renamed channel",
-    "OLD_NAME": "Old name :",
-    "NEW_NAME": "New name :"
+    "CONTENT": "{{emoji}} канал переименован",
+    "OLD_NAME": "Старое имя:",
+    "NEW_NAME": "Новое имя:"
 }
