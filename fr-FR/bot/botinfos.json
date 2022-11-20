@@ -11,6 +11,7 @@
     "TOPGG": "Voter sur Top.gg",
     "DBL": "Voter sur Discord Bot List",
     "BLIST": "Voter sur Blist.xyz",
+    "BOTLISTME": "Vote on Botlist.me",
     "STATS": "**📊 Statistiques des commandes**\n\n💯 Nombre total de commande exécutés: **{{totalRan}}**\n\n🏆 Commande la plus utilisée : \n{{mostUsed}}\n\n⭐ Catégories favorites des utilisateurs: \n{{favoriteCategory}}",
     "RAN_AMOUNT": "exécuté **{{amount}}** fois"
 }
