@@ -1,0 +1,14 @@
+{
+    "NAME": "Помощь",
+    "DESCRIPTION": "Дает вам список команд бота",
+    "OPTION_COMMAND": "команда",
+    "OPTION_COMMAND_DESCRIPTION": "Команда, с которой вам нужна помощь",
+    "HELP": "Here is the list of available commands:",
+    "HELP_DESCRIPTION": "You can also find detailed infos by clicking [here]({{documentation}}) to access the web documentation.",
+    "COMMAND": "Command help: {{command}}",
+    "CMD_DESCRIPTION": "Описание :",
+    "CMD_CATEGORY": "Категория:",
+    "CMD_PERMISSIONS": "Permissions :",
+    "CMD_COOLDOWN": "Slowmode :",
+    "FOOTER": "{{botName}} | Версия: {{version}}"
+}

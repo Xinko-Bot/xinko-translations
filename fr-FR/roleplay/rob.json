@@ -4,10 +4,11 @@
     "OPTION_USER": "utilisateur",
     "OPTION_USER_DESCRIPTION": "L'utilisateur que vous voulez essayer de voler.",
     "TITLE": "{{username}} vient de voler un autre membre.",
-    "ROB": "Vous venez de voler {{amount}}xin.",
+    "ROB": "Vous venez de voler {{amount}}{{currency}}.",
     "NO_MENTION": "Merci de mentionner un membre.",
     "INVALID": "Vous ne pouvez pas voler un bot ni vous-même.",
     "NOTHING_TO_ROB": "Ce membre n'a rien à voler.",
-    "NEED_MIN": "Vous devez avoir au moins 250xin dans votre portefeuille pour pouvoir voler quelqu'un.",
-    "FAIL": "Vous avez manqué votre vol et perdu {{amount}}xin"
+    "NEED_MIN": "Vous devez avoir au moins 250{{currency}} dans votre portefeuille pour pouvoir voler quelqu'un.",
+    "FAIL": "Vous avez raté votre vol et perdu {{amount}}{{currency}}",
+    "DISABLED": "Les administrateurs du serveur ont désactivé la fonctionnalité de vol."
 }

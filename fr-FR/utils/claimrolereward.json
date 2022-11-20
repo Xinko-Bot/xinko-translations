@@ -1,0 +1,8 @@
+{
+	"NAME": "claimrolereward",
+	"DESCRIPTION": "Réclamez une récompense pour un rôle",
+	"TITLE": "Voici vos récompenses:\n\n",
+	"ALREADY_CLAIMED": "**Déjà réclamé**: {{role}} pour {{amount}}{{currency}}",
+	"CLAIMED": "**Réclamé maintenant** : {{role}} pour {{amount}}{{currency}}",
+	"NO_ROLES": "Vous n'avez pas de rôles."
+}

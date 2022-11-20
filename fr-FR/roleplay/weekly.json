@@ -2,5 +2,5 @@
     "NAME": "hebdomadaire",
     "DESCRIPTION": "Permet de récupérer une récompense tous les 7j.",
     "TITLE": "Récompense hebdomadaire de {{username}}",
-    "WEEKLY": "Vous venez de collecter {{amount}}xin."
+    "WEEKLY": "Vous venez de récupérer {{amount}}{{currency}}."
 }

@@ -1,0 +1,17 @@
+{
+    "NAME": "информацияоботе",
+    "DESCRIPTION": "Показывает информацию о боте.",
+    "TITLE": "**{{botName}}'s statistics**\n[Support server]({{supportServer}}) | [Documentation]({{documentation}}) | [Translations]({{translateGithub}}) | [Support me]({{buyMeACoffee}})",
+    "OWNER": "Владелец",
+    "VERSION": "Версия бота",
+    "DATE": "Дата создания",
+    "USERS": "Пользователи",
+    "GUILDS": "Серверы",
+    "MEMORY": "Memory usage",
+    "TOPGG": "Vote on Top.gg",
+    "DBL": "Vote on Discord Bot List",
+    "BLIST": "Vote on Blist.xyz",
+    "BOTLISTME": "Vote on Botlist.me",
+    "STATS": "**📊 Commands Statistics**\n\n💯 Total command ran: **{{totalRan}}**\n\n🏆 Most used command: \n{{mostUsed}}\n\n⭐ Users Favorite Categories: \n{{favoriteCategory}}",
+    "RAN_AMOUNT": "ran **{{amount}}** times"
+}

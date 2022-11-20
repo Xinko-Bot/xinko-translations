@@ -1,0 +1,7 @@
+{
+    "NAME": "inventory",
+    "DESCRIPTION": "Allows you to see the items you have in your inventory.",
+    "LIST": "Here are the items you have in your inventory.",
+    "PRICE": "{{ePrice}} Price: {{price}}\n{{eAmout}} Amount: {{amount}}",
+    "NO_ITEM": "You have no items in your inventory."
+}

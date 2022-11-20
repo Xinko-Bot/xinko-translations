@@ -1,0 +1,8 @@
+{
+    "CONTENT": "{{emoji}} Renamed sticker",
+    "OLD_NAME": "Old name :",
+    "NEW_NAME": "New name :",
+    "DESCRIPTION": "{{emoji}} Sticker description for {{name}} updated",
+    "OLD_DESCRIPTION": "Old description :",
+    "NEW_DESCRIPTION": "New description :"
+}

@@ -7,5 +7,5 @@
     "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez ajouter.",
     "IS_BOT": "Impossible d'ajouter de la monnaie à un bot.",
     "TITLE": "De l'argent a été ajouté sur le porte-monnaie de {{username}}.",
-    "RESULT": "Vous venez d'ajouter {{amount}}xin au portefeuille de {{user}}."
+    "RESULT": "Vous venez d'ajouter {{amount}}{{currency}} au portefeuille de {{user}}."
 }

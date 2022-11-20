@@ -8,5 +8,5 @@
     "ROLE_NOT_FOUND": "Le rôle lié à cet article est introuvable.",
     "ROLE_HIGHER": "Le rôle lié à cet article est supérieur à mon rôle le plus élevé.",
     "NOT_ENOUGH_MONEY": "Vous n’avez pas assez d’argent pour acheter cet article.",
-    "SUCCESS": "Vous avez acheté **{{item}}** pour **{{price}}**xin."
+    "SUCCESS": "Vous avez acheté avec succès **{{item}}** pour **{{price}}**{{currency}}."
 }

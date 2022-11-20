@@ -1,0 +1,8 @@
+{
+    "NAME": "пинг",
+    "DESCRIPTION": "Позволяет видеть задержку бота и discord API.",
+    "FETCHING": "{{loading}} Calculating...",
+    "SLOW": "Бот медленный.",
+    "FAST": "Бот быстрый.",
+    "PING": "{{server}} API : ***{{api}}*** мс\n{{emojiBot}} БОТ : ***{{bot}}*** мс\n\n{{hint}}\n[Статус Discord](https://status.discord.com/)"
+}

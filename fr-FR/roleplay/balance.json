@@ -2,5 +2,5 @@
     "NAME": "solde",
     "DESCRIPTION": "Permet de voir la quantité de monnaie que vous avez dans votre porte-monnaie.",
     "TITLE": "Porte Monnaie de {{username}}",
-    "INFOS": "Vous avez actuellement {{balance}}xin dans votre porte-monnaie."
+    "INFOS": "Vous avez actuellement {{balance}}{{currency}} dans votre portefeuille."
 }
