@@ -2,10 +2,10 @@
     "NAME": "mendier",
     "DESCRIPTION": "Vous permet de mendier de l'argent, faites attention à ne pas vendre toute votre âme.",
     "TITLE": "{{username}} à mendier de l'argent",
-    "SENTENCE_1": "You sold a small part of your soul for {{amount}}{{currency}}",
-    "SENTENCE_2": "Take some of my money i have too much: {{amount}}{{currency}}",
-    "SENTENCE_3": "You started dancing and singing and made {{amount}}{{currency}}",
-    "SENTENCE_4": "You helped grandma crossing the road, she gave you {{amount}}{{currency}}",
-    "SENTENCE_5": "You just found {{amount}}{{currency}} on the ground keep them safe",
-    "SENTENCE_6": "Someone came to do a magic trick to you and gave you the {{amount}}{{currency}} he found behind your ears"
+    "SENTENCE_1": "Vous avez vendu une petite partie de votre âme pour {{amount}}{{currency}}",
+    "SENTENCE_2": "Prenez une partie de mon argent que j'ai trop: {{amount}}{{currency}}",
+    "SENTENCE_3": "Vous avez commencé à danser et à chanter et avez fait {{amount}}{{currency}}",
+    "SENTENCE_4": "Vous avez aidé grand-mère à traverser la route, elle vous a donné {{amount}}{{currency}}",
+    "SENTENCE_5": "Vous venez de trouver {{amount}}{{currency}} au sol, gardez les en sécurité",
+    "SENTENCE_6": "Quelqu'un est venu vous faire un tour de magie et vous a donné les {{amount}}{{currency}} qu'il a trouvé derrière vos oreilles"
 }
