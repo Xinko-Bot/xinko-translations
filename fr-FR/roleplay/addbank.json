@@ -3,7 +3,7 @@
 	"DESCRIPTION": "Permet d'ajouter de la monnaie dans la banque d'un utilisateur.",
 	"IS_BOT": "Impossible d'ajouter de la monnaie sur le compte en banque d'un bot.",
 	"TITLE": "De l'argent a été ajouté sur le compte bancaire de {{username}}.",
-	"RESULT": "Vous venez d'ajouter {{amount}}xin au compte bancaire de {{user}}.",
+	"RESULT": "You just added {{amount}}{{currency}} to the {{user}}'s bank account.",
 	"OPTION_USER": "utilisateur",
 	"OPTION_USER_DESCRIPTION": "L'utilisateur auquel vous voulez ajouter de l'argent en banque.",
 	"OPTION_AMOUNT": "quantité",
