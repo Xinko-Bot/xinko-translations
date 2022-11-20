@@ -2,5 +2,5 @@
     "NAME": "bank",
     "DESCRIPTION": "Allows you to see the amount of change you have in your bank account.",
     "TITLE": "{{username}}'s bank account",
-    "INFOS": "You currently have {{bank}}xin in your bank account."
+    "INFOS": "You currently have {{bank}}{{currency}} in your bank account."
 }
