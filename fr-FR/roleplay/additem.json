@@ -11,9 +11,9 @@
     "OPTION_MAXALLOWED_DESCRIPTION": "La quantité maximale de cet article par utilisateur. (0 pour infini)",
     "OPTION_ROLE": "rôle",
     "OPTION_ROLE_DESCRIPTION": "Le rôle qui doit être donné, s'il y en a.",
-    "SUCCESS": "Your object has been saved, here is a summary:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}{{currency}}\n{{eAvailable}} Available: {{available}}\n{{eMaxPerUser}} Max Per User: {{maxPerUser}}\n{{eRole}} Role: {{role}} - {{roleID}}",
+    "SUCCESS": "Votre objet a été enregistré, Voici un résumé:\n\n{{eName}} Nom: {{name}}\n{{ePrice}} Prix : {{price}}{{currency}}\n{{eAvailable}} Disponible: {{available}}\n{{eMaxPerUser}} Max Par Utilisateur : {{maxPerUser}}\n{{eRole}} Rôle : {{role}} - {{roleID}}",
     "NORMAL_LIMIT": "Vous avez atteint le nombre maximum autorisé de 5 objets dans la boutique pour un serveur normal.",
-    "PREMIUM_LIMIT": "You have reached the maximum allowed of 15 items in the shop for a premium server.",
-    "PREMIUM_GOLD_LIMIT": "You have reached the maximum allowed of 25 items in the shop for a premium gold server.",
+    "PREMIUM_LIMIT": "Vous avez atteint le maximum autorisé de 15 objets en magasin pour un serveur premium.",
+    "PREMIUM_GOLD_LIMIT": "Vous avez atteint le maximum autorisé de 25 objets en magasin pour un serveur premium gold.",
     "ROLE_MAXALLOWED": "Comme vous ne pouvez pas ajouter un rôle deux fois à un utilisateur, vous ne pouvez pas définir le maximum autorisé de cet élément à plus de 1."
 }
