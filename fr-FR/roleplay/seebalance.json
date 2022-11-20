@@ -5,5 +5,5 @@
     "OPTION_USER_DESCRIPTION": "L'utilisateur dont vous voulez voir le solde.",
     "IS_BOT": "Impossible de voir le porte-monnaie d'un bot.",
     "TITLE": "Porte Monnaie de {{username}}",
-    "INFOS": "Cet utilisateur a actuellement {{amount}}ama dans son porte-monnaie."
+    "INFOS": "This user currently has {{amount}}{{currency}} in his wallet."
 }
