@@ -5,5 +5,5 @@
     "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez retirer de votre compte bancaire (0 pour toutes).",
     "ALL": "Vous venez de retirer tout votre argent sur votre porte-monnaie.",
     "NOT_ENOUGH": "Vous devez de l'argent à la banque, veuillez d'abord déposer de l'argent.",
-    "AMOUNT": "Vous venez de retirer {{amount}}xinde votre compte bancaire à votre portefeuille."
+    "AMOUNT": "You just withdrawn {{amount}}{{currency}} from your bank account to your wallet."
 }
