@@ -11,6 +11,6 @@
     "MONEY": "Voici les utilisateurs les plus riches du serveur:",
     "NOTHING": "Aucune informations à afficher...",
     "REP_POINTS": "{{points}} points de reputation.",
-    "ITEMS": "Here are the members that have the most items of the server:",
+    "ITEMS": "Voici les membres qui ont le plus d'objets du serveur :",
     "ITEMS_AMOUNT": "{{amount}} objets."
 }
