@@ -7,5 +7,5 @@
     "OPTION_AMOUNT_DESCRIPTION": "La quantité que vous souhaitez retirer.",
     "IS_BOT": "Impossible de supprimer de la monnaie à un bot.",
     "TITLE": "Argent retiré du porte-monnaie de {{username}}.",
-    "RESULT": "Vous venez de retirer {{amount}}xin du portefeuille de {{user}}."
+    "RESULT": "You just removed {{amount}}{{currency}} from the {{user}}'s wallet."
 }
