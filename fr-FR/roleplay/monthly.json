@@ -2,5 +2,5 @@
     "NAME": "mensuel",
     "DESCRIPTION": "Permet de récupérer une récompense tout les 30jours.",
     "TITLE": "Récompense mensuelle de {{username}}",
-    "MONTHLY": "You just collected {{amount}}{{currency}}."
+    "MONTHLY": "Vous venez de récupérer {{amount}}{{currency}}."
 }
