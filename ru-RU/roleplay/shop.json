@@ -4,7 +4,7 @@
   "LIST": "Here are the items available in the shop of this server.",
   "NOT_ROLE": "Not a role",
   "INVALID_ROLE": "Configured role invalid or deleted",
-  "ITEM_TITLE": "(N°{{number}}) {{name}} - {{price}}xin",
+  "ITEM_TITLE": "(N°{{number}}) {{name}} - {{price}}{{currency}}",
   "ITEM_DATA": "{{eAvailable}} Available: {{available}}\n{{eMaxPerUser}} Max Allowed Per User: {{maxPerUser}}\n{{eRole}} Role: {{role}}",
   "EMPTY": "The shop of this server is empty, please ask an administrator to add some items."
 }
