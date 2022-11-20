@@ -1,0 +1,8 @@
+{
+	"NAME": "claimrolereward",
+    "DESCRIPTION": "Claim a reward from a role reward",
+    "TITLE": "Here are your rewards:\n\n",
+    "ALREADY_CLAIMED": "**Already claimed**: {{role}} for {{amount}}{{currency}}",
+    "CLAIMED": "**Claimed Now**: {{role}} for {{amount}}{{currency}}",
+    "NO_ROLES": "You don't have any roles."
+}

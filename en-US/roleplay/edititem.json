@@ -13,5 +13,5 @@
     "OPTION_MAXALLOWED_DESCRIPTION": "The max amount of this item per user. (0 for infinite)",
     "OPTION_ROLE": "role",
     "OPTION_ROLE_DESCRIPTION": "The role that should be given, if any.",
-	"SUCCESS": "Your object has been edited, here is a summary:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}xin\n{{eAvailable}} Available: {{available}}\n{{eMaxPerUser}} Max Per User: {{maxPerUser}}\n{{eRole}} Role: {{role}} - {{roleID}}"
+	"SUCCESS": "Your object has been edited, here is a summary:\n\n{{eName}} Name: {{name}}\n{{ePrice}} Price: {{price}}{{currency}}\n{{eAvailable}} Available: {{available}}\n{{eMaxPerUser}} Max Per User: {{maxPerUser}}\n{{eRole}} Role: {{role}} - {{roleID}}"
 }
