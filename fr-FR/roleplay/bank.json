@@ -2,5 +2,5 @@
     "NAME": "banque",
     "DESCRIPTION": "Permet de voir la quantité de monnaie que vous avez dans votre compte en banque.",
     "TITLE": "Compte en banque de {{username}}",
-    "INFOS": "You currently have {{bank}}{{currency}} in your bank account."
+    "INFOS": "Vous avez actuellement {{bank}}{{currency}} sur votre compte bancaire."
 }
