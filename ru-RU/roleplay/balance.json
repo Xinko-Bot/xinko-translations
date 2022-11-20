@@ -2,5 +2,5 @@
     "NAME": "balance",
     "DESCRIPTION": "Allows you to see the amount of money you have in your wallet.",
     "TITLE": "{{username}}'s wallet",
-    "INFOS": "You currently have {{balance}}xin in your wallet."
+    "INFOS": "You currently have {{balance}}{{currency}} in your wallet."
 }
