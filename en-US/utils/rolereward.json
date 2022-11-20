@@ -17,7 +17,7 @@
     "ADDED": "The role reward has been added successfully",
     "REMOVED": "The role reward has been removed successfully",
     "NO_ROLE_REWARDS": "There are no role rewards",
-    "DELETED": "The role assigned to {{amount}} invitations has been deleted and is no longer accessible.\n",
+    "DELETED": "The role assigned to {{amount}}{{currency}} has been deleted and is no longer accessible.\n",
     "ROLES": "{{role}} (**{{amount}}**{{currency}})\n",
     "ROLE": "Here are the available roles:",
     "NORMAL_LIMIT": "You have reached the maximum allowed of 5 role rewards for a normal server.",
