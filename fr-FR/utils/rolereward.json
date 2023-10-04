@@ -18,7 +18,7 @@
 	"REMOVED": "La récompense de rôle a été supprimée avec succès",
 	"NO_ROLE_REWARDS": "Il n'y a aucune récompense de rôle",
 	"DELETED": "Le rôle assigné a {{amount}}{{currency}} a été supprimé et n'est plus accessible.\n",
-	"DELETED_ROLE": "Role deleted",
+	"DELETED_ROLE": "Rôle Supprimé",
 	"ROLES": "{{role}} (**{{amount}}**{{currency}})\n",
 	"ROLE": "Voici les rôles disponibles :",
 	"NORMAL_LIMIT": "Vous avez atteint le maximum autorisé de 5 récompenses de rôle pour un serveur normal.",
