@@ -7,5 +7,5 @@
     "OPTION_AMOUNT_DESCRIPTION": "The amount you want to add.",
     "IS_BOT": "Cannot add money to a bot.",
     "TITLE": "Added money on {{username}}'s wallet.",
-    "RESULT": "You just added {{amount}}xin to the {{user}}'s wallet."
+    "RESULT": "You just added {{amount}}{{currency}} to the {{user}}'s wallet."
 }
