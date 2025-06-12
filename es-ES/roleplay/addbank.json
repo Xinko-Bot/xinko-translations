@@ -3,7 +3,7 @@
 	"DESCRIPTION": "Allows you to add change to a user's bank.",
 	"IS_BOT": "Cannot add change to a bot's bank account.",
 	"TITLE": "Added money on {{username}}'s bank account.",
-	"RESULT": "You just added {{amount}}xin to the {{user}}'s bank account.",
+	"RESULT": "You just added {{amount}}{{currency}} to the {{user}}'s bank account.",
 	"OPTION_USER": "user",
 	"OPTION_USER_DESCRIPTION": "The user you want to add money to in their bank.",
 	"OPTION_AMOUNT": "amount",
